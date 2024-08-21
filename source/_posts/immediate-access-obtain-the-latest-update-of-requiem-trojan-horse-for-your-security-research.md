@@ -1,7 +1,7 @@
 ---
 title: "Immediate Access: Obtain the Latest Update of Requiem Trojan Horse for Your Security Research"
-date: 2024-08-18 22:25:53
-updated: 2024-08-21 11:41:35
+date: 2024-08-20T09:36:36.631Z
+updated: 2024-08-21T09:36:36.631Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee29318597dde2ea49af183ae0562b3.png
@@ -200,3 +200,7 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: How to Convert Documents From DOCX to EPUB Format Using Calibre
-date: 2024-08-18 11:16:32
-updated: 2024-08-21 10:23:10
+date: 2024-08-20T09:36:37.155Z
+updated: 2024-08-21T09:36:37.155Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
@@ -81,10 +81,16 @@ At the pop up window, hit the **"Metadata"** to edit, such as title, author, cov
 
 ![edit html metadata](http://www.epubor.com/images/uppic/edit-html-metadata.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 From the left side menu, click on **"Look & Feel"**, select "Removing spacing between paragraphs".
 
 ![edit html look and feel](http://www.epubor.com/images/uppic/edit-html-look-and-feel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 Go on with the edit job, click on **"Table of Contents"**, select the "Level 1 TOC" wizard button.
 
 ![edit html table of contents](http://www.epubor.com/images/uppic/edit-html-table-of-contents.jpg)
@@ -97,6 +103,9 @@ Then click "OK", you will see **"//h:h1"** is listed in the Level 1 TOC field.
 
 ![html h1](http://www.epubor.com/images/uppic/html-h1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In the upper right corner still in this convert screen, find the "Output format" menu, choose "EPUB" to convert html to epub.
 
 ![convert html to epub with calibre](http://www.epubor.com/images/uppic/convert-html-to-epub-with-calibre.jpg)
@@ -109,6 +118,9 @@ Check all the procession during the editing, Metadata, Look & Feel,![open html i
 
 ![view epub in calibre](http://www.epubor.com/images/uppic/view-epub.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Besides, now you can read your word files as epub on your computer, you can even transfer them to your reading devices such as Kobo, iPad, then get a happy reading.
 
 Wish this article could help you and had resolved your questions about converting word to epub. And, it also can give you good advice if you want to publish your files.
@@ -117,6 +129,9 @@ Still think this is a little difficult to understand? How about trying this tool
 
 ![convert word to epub with wordmate](https://epubor.com/images/uppic/conver-word-to-epub-with-wordmate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Related Readings
 
 \-How to convert [acsm to epub](https://tools.techidaily.com/epubor/products/).
@@ -125,6 +140,9 @@ Still think this is a little difficult to understand? How about trying this tool
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
