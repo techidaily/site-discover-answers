@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Accessing Kindle Format (AZW3) eBooks on Your Computer or Laptop"
-date: 2024-08-25T20:46:15.454Z
-updated: 2024-08-26T20:46:15.454Z
+date: 2024-09-03T22:36:54.963Z
+updated: 2024-09-04T22:36:54.963Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d40be7b34c828b0e5337b92a.jpeg
@@ -44,9 +44,6 @@ Tips: Based on my own tests, most of azw3 eBooks we downloaded from amazon are w
 
 ![azw3 online cons](http://www.epubor.com/images/uppic/azw3-online-cons.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Read AZW3 on PC/Mac with Kindle for PC/Mac
 
 [Kindle for PC/Mac](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) is the Amazon official reading app. It's obvious that we can open and read AZW3 files on PC and Mac with the Kindle desktop app.
@@ -57,12 +54,33 @@ After installing Kindle for PC successfully, please launch it and log in with yo
 
 ![read azw3 files with kindle for pc](http://www.epubor.com/images/uppic/read-azw3-on-kindle-for-pc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** Sometimes when you double-click your AZW3 file stored on your computer, it can not be opened directly with the Kindle for PC/Ma. Instead, a window will pop up letting you select a program to open this file. Just select the option "Select a program from a list of installed program" and click "OK" button to select Kindle for PC to open the file. Or you can just right-click your AZW3 book, select "Open with"-->"Kindle" to open it.
 
 ![can not find program to open azw3 files](http://www.epubor.com/images/uppic/can-not-find-program-to-open-azw3-files.gif)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Read AZW3 on PC/Mac with Calibre
 
@@ -75,7 +93,10 @@ If your AZW3 files are DRM-free, after adding them to Calibre, you can directly 
 ![read azw3 files with calibre](http://www.epubor.com/images/uppic/read-azw3-on-calibre-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Notice:** If you can't open and read DRM-free AZW3 books with Calibre, please try to click Preferences -> Behavior and add AZW3 format to view in Calibre. Or you can try to change their extension to .Mobi or .AZW, because AZW3 eBook file format also uses .AZW and .Mobi file extension.
 
@@ -83,9 +104,6 @@ As a free AZW3 reader for PC and Mac, Calibre can only read DRM-free ebooks. If 
 
 ![can not read drmed azw3 files with calibre](http://www.epubor.com/images/uppic/book-locked-by-drm.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you want to successfully read the DRM-protected AZW3 files on Calibre, you need to [remove DRM from AZW3](https://tools.techidaily.com/epubor/products/) first, and then reload those drm ripped files to calibre library again. 
 
 ### 4\. Read AZW3 Files on PC/Mac with Any Reading App
@@ -101,12 +119,10 @@ Launch Epubor Ultimate, connect your Kindle device to your computer, and then ad
 ![remove kindle kfx drm](http://www.epubor.com/images/uppic/remove-drm-from-kindle-azw3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 After the DRM is removed successfully, you can click the word **"decrypted"** to find where the DRM-free are stored. Then add the DRM-free AZW3 books to any [azw3 reader](https://tools.techidaily.com/epubor/reader/) and start your reading journey. 
 
@@ -114,6 +130,12 @@ After the DRM is removed successfully, you can click the word **"decrypted"** to
 
 ![epubor ultimate to convert books](http://www.epubor.com/images/uppic/convert-with-epubor-ultimate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Epubor Ultimate is super easy to use, right? Within a few seconds, the DRM is removed successfully. Now you can transfer the DRM-free books to any other third-party reading app or share them with your friends freely.
 
 Related reading
@@ -124,9 +146,6 @@ Related reading
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
