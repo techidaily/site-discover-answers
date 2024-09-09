@@ -1,7 +1,7 @@
 ---
 title: How to Convert Documents From DOCX to EPUB Format Using Calibre
-date: 2024-09-03T22:36:55.292Z
-updated: 2024-09-04T22:36:55.292Z
+date: 2024-09-08T23:31:24.143Z
+updated: 2024-09-09T23:31:24.143Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
@@ -9,6 +9,18 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 
 ## How to Convert Documents From DOCX to EPUB Format Using Calibre
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Convert Word to EPUB with Calibre
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 11/28/2018 2:58:58 PM.
@@ -19,6 +31,12 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You know Calibre is a free and open source ebook library manager, so if you want to convert word to epub, Calibre can also help you.
 
 Yes using Calibre to convert ebooks such as convert azw to pdf, steps are easy to go, just add books, choose output format and then convert, OK. But, Converting word to epub with Calibre is not so simple as you think.
@@ -53,10 +71,22 @@ Click on "Convert books", then at the output format pull-down list select epub p
 
 ![convert docx to epub](http://www.epubor.com/images/uppic/convert-docx-to-epub.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After completed, you can "click to open" to get a preview. Now you can read your epub files on your computer, and even transfer them to another devices such as iPad, Kobo, etc.
 
 **Tips:** If you want to convert your word documents to PDF high polished to print good, choose [PDF Creator](https://tools.techidaily.com/epubor/products/).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to convert doc to epub Calibre
 
 This part is for those people who are using Office 2003 or below. As Calibre doesn't support the format of doc, we need firstly convert our word document to html, then convert html to epub.
@@ -77,6 +107,12 @@ Upload your just saved html files to Calibre with "Add books". Then click on "Co
 
 ![add html to calibre](http://www.epubor.com/images/uppic/html-to-calibre.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 At the pop up window, hit the **"Metadata"** to edit, such as title, author, cover, tags, etc.
 
 ![edit html metadata](http://www.epubor.com/images/uppic/edit-html-metadata.jpg)
@@ -85,22 +121,10 @@ From the left side menu, click on **"Look & Feel"**, select "Removing spacing be
 
 ![edit html look and feel](http://www.epubor.com/images/uppic/edit-html-look-and-feel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go on with the edit job, click on **"Table of Contents"**, select the "Level 1 TOC" wizard button.
 
 ![edit html table of contents](http://www.epubor.com/images/uppic/edit-html-table-of-contents.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A new window named "Match HTML tags with tag name" will top up. From the drop down list select "h1" please.
 
 ![edit html h1](http://www.epubor.com/images/uppic/edit-html-h1.jpg)
@@ -109,36 +133,36 @@ Then click "OK", you will see **"//h:h1"** is listed in the Level 1 TOC field.
 
 ![html h1](http://www.epubor.com/images/uppic/html-h1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In the upper right corner still in this convert screen, find the "Output format" menu, choose "EPUB" to convert html to epub.
 
 ![convert html to epub with calibre](http://www.epubor.com/images/uppic/convert-html-to-epub-with-calibre.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4Convert html to epub
 
 Check all the procession during the editing, Metadata, Look & Feel,![open html in calibre](http://www.epubor.com/images/uppic/open-epub.jpg) Table of Contents, Output format. If all the settings has finished, click "OK" to start your conversion. For details in this part click here to know more about[converting html to epub](https://tools.techidaily.com/epubor/products/) .
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="120" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you see "jobs:0" at the right bottom corner, it says that your conversion has finished. Come back to the main screen, at the right side click "Click to open". Now you can get a preview of your epub files converted from word documents.
 
 ![view epub in calibre](http://www.epubor.com/images/uppic/view-epub.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Besides, now you can read your word files as epub on your computer, you can even transfer them to your reading devices such as Kobo, iPad, then get a happy reading.
 
 Wish this article could help you and had resolved your questions about converting word to epub. And, it also can give you good advice if you want to publish your files.
@@ -147,18 +171,6 @@ Still think this is a little difficult to understand? How about trying this tool
 
 ![convert word to epub with wordmate](https://epubor.com/images/uppic/conver-word-to-epub-with-wordmate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Related Readings
 
 \-How to convert [acsm to epub](https://tools.techidaily.com/epubor/products/).
@@ -167,6 +179,12 @@ Still think this is a little difficult to understand? How about trying this tool
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!

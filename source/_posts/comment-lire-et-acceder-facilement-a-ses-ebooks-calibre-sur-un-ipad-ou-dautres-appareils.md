@@ -1,16 +1,34 @@
 ---
 title: Comment Lire Et Accéder Facilement À Ses eBooks Calibre Sur Un iPad Ou D'autres Appareils
-date: 2024-09-03T22:36:54.564Z
-updated: 2024-09-04T22:36:54.564Z
+date: 2024-09-08T23:31:23.432Z
+updated: 2024-09-09T23:31:23.432Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33880d7b4a364119150ff2caf.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comment Lire Et Accéder Facilement À Ses eBooks Calibre Sur Un iPad Ou D'autres Appareils
 
 [Accueil](http://www.epubor.com/fr/) \> [Guide](https://tools.techidaily.com/epubor/products/) \> [Comment accéder à bibliothèque calibre via iPad, Kindle Fire](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comment accéder à vos eBooks Calibre via un navigateur web dans iPad ou autre
 
 Calibre est une solution unique pour tous les besoins eBook, c'est un logiciel open-source et il est totalement gratuit. Beaucoup de gens l'utilisent pour convertir formats des eBooks, de gérer et stocker des eBooks, même [supprimer DRM avec des plugins Calibre](https://tools.techidaily.com/epubor/products/).
@@ -21,6 +39,12 @@ Calibre a un serveur de contenu qui exporte les livres de Calibre comme une page
 
 ![démarrer serveur de contenu dans calibre](https://www.epubor.com/images/uppic/drmarrer-serveur.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Puis suffit de pointer le navigateur web sur votre appareil à l'ordinateur exécutant le serveur de contenu et vous serez en mesure de naviguer dans votre collection de livres. Par exemple, si l'ordinateur qui exécute le serveur possède une adresse IP 192.168.1.119, dans le navigateur, vous devez taper:
 
 http://192.168.1.119:8080
@@ -29,14 +53,44 @@ Si vous obtenez ce message "Impossible de démarrer le serveur de contenu: Le po
 
 ![calibre dans iPad safari](https://www.epubor.com/images/uppic/calibre-index.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cliquer "Tous les livres", alors vous obtiendrez la liste des éléments dans votre bibliothèque Calibre.
 
 ![bibliothèque calibre](https://www.epubor.com/images/uppic/list.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cliquer "Obtenir" ou "Autres formats", alors il y aura une option pour vous permettre de choisir quelle application vous voulez lire cet eBook avec.
 
 ![](https://www.epubor.com/images/uppic/option.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Attention**: Si vous ne pouvez pas accéder à cette page, s'il vous plaît changer votre navigateur Web, Safari est recommandé.
 
 Certains appareils, comme le Kindle (1/2/DX), ne vous permettent pas d'accéder au port 8080 (le port par défaut sur ??lequel le serveur de contenu fonctionne Dans ce cas, changer le port dans la **Préférence calibre -.> Partage sur Internet en cours -> Port du serveur** à 80 (sur certains systèmes d'exploitation, vous ne pouvez pas être en mesure de lancer le serveur sur un numéro de port inférieur à 1024 en raison des paramètres de sécurité Dans ce cas, la solution la plus simple consiste à ajuster votre routeur pour rediriger les requêtes sur le port 80 au port 8080). 
@@ -100,10 +154,3 @@ Copyright © 2011-2021 www.epubor.com. Tous droits réservés.
 <li><a href="https://discover-answers.techidaily.com/which-reigns-supreme-in-digital-reading-kobo-or-amazons-kindle/"><u>Which Reigns Supreme in Digital Reading: Kobo or Amazon's Kindle?</u></a></li>
 <li><a href="https://discover-answers.techidaily.com/wireless-transfer-a-step-by-step-guide-to-sending-files-to-your-kindle-device/"><u>Wireless Transfer: A Step-by-Step Guide to Sending Files to Your Kindle Device</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
