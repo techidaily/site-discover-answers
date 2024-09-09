@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"discover-answers.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -729,16 +786,16 @@
 
                     <div class="home-article-content markdown-body">
                         
-                            Wireless Transfer: A Step-by-Step Guide to Sending Files to Your Kindle DeviceHow to send documents to Kindle wirelesslyPoste...
+                             ## Wireless Transfer: A Step-by-Step Guide to Sending Files to Your Kindle Device How to send documents to Kindle wi...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -792,20 +849,16 @@
 
                     <div class="home-article-content markdown-body">
                         
-                            Which Reigns Supreme in Digital Reading: Kobo or Amazon’s Kindle?Which is better: Kobo or Kindle?
-
-Also read:
-
-[New] In 2024,...
+                             ## Which Reigns Supreme in Digital Reading: Kobo or Amazon's Kindle? ## Which is better: Kobo or Kindle? ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -859,16 +912,16 @@ Also read:
 
                     <div class="home-article-content markdown-body">
                         
-                            Unlocking Your Digital Content: How to Remove DRM From ACYP-Bought eBooksRemove DRM from ACSM Purchased OnlinePosted by Ada W...
+                             Click here ## Unlocking Your Digital Content: How to Remove DRM From ACYP...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -922,16 +975,16 @@ Also read:
 
                     <div class="home-article-content markdown-body">
                         
-                            Unlocking iBooks for Kindle Users: Free Downloads After DRM Stripping TechniquesRead iBooks on Kindle, iBooks DRM Removal Dow...
+                             ## Unlocking iBooks for Kindle Users: Free Downloads After DRM Stripping Techniques Read iBooks on Kindle, iBooks DR...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -985,16 +1038,16 @@ Also read:
 
                     <div class="home-article-content markdown-body">
                         
-                            Unlock Your Content Freedom: Effective Methods for Removing DRM From eBook Formats Like EPUB, PDF, and Kindle FilesEpubor Ult...
+                             ## Unlock Your Content Freedom: Effective Methods for Removing DRM From eBook Formats Like EPUB, PDF, and Kindle File...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -1048,16 +1101,16 @@ Also read:
 
                     <div class="home-article-content markdown-body">
                         
-                            Ultimate Pick: 5 Highly Effective E-Book Organizers UnveiledBest 5 eBook ManagerPosted by Amy Lopez  on 3&#x2F;25&#x2F;2024 3...
+                            Ultimate Pick: 5 Highly Effective E-Book Organizers UnveiledBest 5 eBook ManagerPosted by Amy Lopez on 3&#x2F;25&#x2F;2024 3...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -1111,20 +1164,16 @@ Also read:
 
                     <div class="home-article-content markdown-body">
                         
-                            The Hidden Reason Behind Missing Book Covers on Smartphone Readers!Why mobi books don’t show cover
-
-Also read:
-
-[New] 2024 Ap...
+                             ## The Hidden Reason Behind Missing Book Covers on Smartphone Readers! ## Why mobi books don't show cover ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -1178,18 +1227,16 @@ Also read:
 
                     <div class="home-article-content markdown-body">
                         
-                            Step-by-Step Tutorial on Removing Digital Restrictions From Your Ebooks
-Home  &gt; Guide 
-How to Convert AZW3 to EPUB  When a...
+                             ## Step-by-Step Tutorial on Removing Digital Restrictions From Your Ebooks ![crumb](http://www.epubor.com/i...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -1243,16 +1290,16 @@ How to Convert AZW3 to EPUB  When a...
 
                     <div class="home-article-content markdown-body">
                         
-                            Step-by-Step Tutorial on Bypassing DRM Protection for Digital Books Across Multiple FormatsEpubor Ultimate The Best eBook Con...
+                             ## Step-by-Step Tutorial on Bypassing DRM Protection for Digital Books Across Multiple Formats Epubor Ultimate The B...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
@@ -1306,16 +1353,16 @@ How to Convert AZW3 to EPUB  When a...
 
                     <div class="home-article-content markdown-body">
                         
-                            Step-by-Step Tutorial: Freeing Your ePub Books From Digital Restrictions Now!Acceuil  &gt; Produit  &gt; ePub DRM Removal  &g...
+                             ## Step-by-Step Tutorial: Freeing Your ePub Books From Digital Restrictions Now! Acceuil &gt; Produit &gt; ePub DR...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Sep 03 2024 22:36:55 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 08 2024 23:31:24 GMT+0800">
                 
-                    2024-09-03
+                    2024-09-08
                 
             </span>
         </span>
