@@ -1,18 +1,12 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-09-08T23:31:24.080Z
-updated: 2024-09-09T23:31:24.080Z
+date: 2024-09-13T22:53:56.531Z
+updated: 2024-09-14T22:55:47.383Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Edit Your Book's Details with a Free ePUB Metadata Organizer
 
 ## Free ePub Metadata Editor
@@ -20,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 5/8/2020 4:46:07 PM.
 
 4.5 [(10 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -49,30 +41,12 @@ Download Epubor Ultimate for Free
 
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1, Add Books to Epubor Ultimate
 
 In order to edit metadata of your epub files, first of all, just drag and drop them to the right main interface for editing. 
 
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Edit ePub metadata information
 
 Once loaded the ePub books to the program, it will display the book in the main interface. 
@@ -81,15 +55,22 @@ To edit the ePub metadata, click the pencil icon to the right of the book title,
 
 ![edit-matadata](http://www.epubor.com/images/uppic/edit-metadata-with-Epubor.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
 You can see this book is the lack of ISBN, type the ISBN or leave it whatever you like. Perhaps you don't like the cover? Click **Replace** button to change or add a cover which you like.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Save the Metadata Information
 
@@ -108,11 +89,12 @@ Download Epubor
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -120,8 +102,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 10 Comments
 
@@ -254,8 +234,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,37 +243,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>[New] 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-dissecting-video-self-presentation-uncovering-truthfulness-needs/"><u>[Updated] 2024 Approved  Dissecting Video Self-Presentation  Uncovering Truthfulness Needs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-grabbing-every-tiktok-video/"><u>[Updated] 2024 Approved  The Ultimate Guide to Grabbing Every TikTok Video</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-how-to-transform-your-ebook-into-a-high-quality-pdf-format-a-comprehensive-guide/"><u>1. How to Transform Your eBook Into a High-Quality PDF Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-apple-m1-explained-the-future-in-your-hands/"><u>2024 Approved  Apple M1 Explained  The Future in Your Hands</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-snippet-screenplay-guide/"><u>2024 Approved  Snippet Screenplay Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/a-step-by-step-guide-buying-and-enjoying-googles-audiobook-collection/"><u>A Step-by-Step Guide: Buying & Enjoying Google's Audiobook Collection</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/accessing-no-cost-audible-titles-tips-and-tricks-for-budget-bookworms/"><u>Accessing No-Cost Audible Titles: Tips and Tricks for Budget Bookworms</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/backup-strategies-for-securing-your-audible-book-collection/"><u>Backup Strategies for Securing Your Audible Book Collection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/collaborative-listening-easily-distributing-your-audible-library-to-pals/"><u>Collaborative Listening: Easily Distributing Your Audible Library to Pals</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-lire-et-acceder-facilement-a-ses-ebooks-calibre-sur-un-ipad-ou-dautres-appareils/"><u>Comment Lire Et Accéder Facilement À Ses eBooks Calibre Sur Un iPad Ou D'autres Appareils</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-on-pdfs-and-how-they-revolutionize-file-sharing/"><u>Comprehensive Guide on PDFs and How They Revolutionize File Sharing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/convert-azw3-books-to-multiple-formats-epub-pdf-and-mobi-with-our-top-ranking-ebook-converter/"><u>Convert AZW3 Books to Multiple Formats: EPUB, PDF, and MOBI with Our Top-Ranking eBook Converter</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/detailed-product-handbook-essential-tips-and-techniques-for-optimal-performance/"><u>Detailed Product Handbook: Essential Tips and Techniques for Optimal Performance</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-guide-accessing-and-enjoying-epub-books-on-your-amazon-kindle-touch-device/"><u>Easy Guide: Accessing and Enjoying EPUB Books on Your Amazon Kindle Touch Device</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-infinix-smart-8-hd-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Smart 8 HD in Minutes | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-streamlining-post-production-adding-annotations-to-videos/"><u>In 2024, Streamlining Post-Production  Adding Annotations to Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-musicians-guide-to-copyright-compliance-on-ig/"><u>In 2024, The Essential Musician's Guide to Copyright Compliance on IG</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-approach-to-enhance-mp4s-with-srt-for-2024/"><u>Innovative Approach to Enhance MP4s with SRT for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-to-removing-drm-from-amazons-azw-books/"><u>Step-by-Step Guide to Removing DRM From Amazon's AZW Books</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-on-bypassing-drm-protection-for-digital-books-across-multiple-formats/"><u>Step-by-Step Tutorial on Bypassing DRM Protection for Digital Books Across Multiple Formats</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-on-removing-digital-restrictions-from-your-ebooks/"><u>Step-by-Step Tutorial on Removing Digital Restrictions From Your Ebooks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-freeing-your-epub-books-from-digital-restrictions-now/"><u>Step-by-Step Tutorial: Freeing Your ePub Books From Digital Restrictions Now!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-hidden-reason-behind-missing-book-covers-on-smartphone-readers/"><u>The Hidden Reason Behind Missing Book Covers on Smartphone Readers!</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-google-pixel-7a-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Google Pixel 7a Screen | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-pick-5-highly-effective-e-book-organizers-unveiled/"><u>Ultimate Pick: 5 Highly Effective E-Book Organizers Unveiled</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlock-your-content-freedom-effective-methods-for-removing-drm-from-ebook-formats-like-epub-pdf-and-kindle-files/"><u>Unlock Your Content Freedom: Effective Methods for Removing DRM From eBook Formats Like EPUB, PDF, and Kindle Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-ibooks-for-kindle-users-free-downloads-after-drm-stripping-techniques/"><u>Unlocking iBooks for Kindle Users: Free Downloads After DRM Stripping Techniques</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-your-digital-content-how-to-remove-drm-from-acyp-bought-ebooks/"><u>Unlocking Your Digital Content: How to Remove DRM From ACYP-Bought eBooks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/which-reigns-supreme-in-digital-reading-kobo-or-amazons-kindle/"><u>Which Reigns Supreme in Digital Reading: Kobo or Amazon's Kindle?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/wireless-transfer-a-step-by-step-guide-to-sending-files-to-your-kindle-device/"><u>Wireless Transfer: A Step-by-Step Guide to Sending Files to Your Kindle Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-cutting-edge-ergonomic-innovations-transforming-workspaces-today/"><u>[New] In 2024, Cutting-Edge Ergonomic Innovations Transforming Workspaces Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chromatic-soundscapes-selecting-the-right-tune/"><u>[Updated] Chromatic Soundscapes Selecting the Right Tune</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-curating-playlists-in-inshot-bringing-down-beats-for-2024/"><u>[Updated] Curating Playlists in InShot Bringing Down Beats for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-comparing-e-readers-a-detailed-analysis-of-kobo-vs-kindle/"><u>1. Comparing E-Readers: A Detailed Analysis of Kobo Vs. Kindle</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-edit-to-impress-windows-pc-hdr-tactics/"><u>2024 Approved Edit to Impress Windows PC HDR Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-an-intriguing-vlog-conversation-guide-for-2024/"><u>Building an Intriguing Vlog Conversation Guide for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/complete-guide-to-bypassing-digital-locks-on-ebooks-unlock-your-pdf-epub-and-mobi-files/"><u>Complete Guide to Bypassing Digital Locks on Ebooks - Unlock Your PDF, ePUB & MOBI Files</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-the-best-4-ebook-reading-applications-for-windows-and-macos-a-comprehensive-guide/"><u>Discover the Best 4 eBook Reading Applications for Windows and MacOS : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-ai-showdown-unpacking-differences-between-google-palm-2-and-openais-gpt-4/"><u>Next-Gen AI Showdown: Unpacking Differences Between Google PaLM 2 and OpenAI's GPT-4</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-guide-to-choosing-the-right-ebook-organizer-for-effortless-reading-pleasure/"><u>Ultimate Guide to Choosing the Right eBook Organizer for Effortless Reading Pleasure</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-the-terms-and-conditions-a-comprehensive-guide-to-end-user-licensing/"><u>Understanding the Terms and Conditions: A Comprehensive Guide to End User Licensing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x50i-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X50i Device</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unveiling-the-elite-circle-amazons-top-100-selling-authors-on-kindle-worth-checking-out/"><u>Unveiling the Elite Circle: Amazon's Top 100 Selling Authors on Kindle Worth Checking Out</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/wie-man-digitale-rechteinschrankungen-von-drmed-kindle-und-epub-buchern-entfernt/"><u>Wie Man Digitale Rechteinschränkungen Von DRMed Kindle Und EPUB Büchern Entfernt</u></a></li>
 </ul></div>
+
