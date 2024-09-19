@@ -1,7 +1,7 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-09-13T22:53:56.531Z
-updated: 2024-09-14T22:55:47.383Z
+date: 2024-09-13T16:57:01.875Z
+updated: 2024-09-18T18:43:44.123Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -47,6 +47,13 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Edit ePub metadata information
 
 Once loaded the ePub books to the program, it will display the book in the main interface. 
@@ -58,19 +65,6 @@ To edit the ePub metadata, click the pencil icon to the right of the book title,
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
 You can see this book is the lack of ISBN, type the ISBN or leave it whatever you like. Perhaps you don't like the cover? Click **Replace** button to change or add a cover which you like.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Save the Metadata Information
 
@@ -89,10 +83,10 @@ Download Epubor
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -243,20 +237,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-cutting-edge-ergonomic-innovations-transforming-workspaces-today/"><u>[New] In 2024, Cutting-Edge Ergonomic Innovations Transforming Workspaces Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chromatic-soundscapes-selecting-the-right-tune/"><u>[Updated] Chromatic Soundscapes Selecting the Right Tune</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-curating-playlists-in-inshot-bringing-down-beats-for-2024/"><u>[Updated] Curating Playlists in InShot Bringing Down Beats for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-comparing-e-readers-a-detailed-analysis-of-kobo-vs-kindle/"><u>1. Comparing E-Readers: A Detailed Analysis of Kobo Vs. Kindle</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-edit-to-impress-windows-pc-hdr-tactics/"><u>2024 Approved Edit to Impress Windows PC HDR Tactics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-an-intriguing-vlog-conversation-guide-for-2024/"><u>Building an Intriguing Vlog Conversation Guide for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/complete-guide-to-bypassing-digital-locks-on-ebooks-unlock-your-pdf-epub-and-mobi-files/"><u>Complete Guide to Bypassing Digital Locks on Ebooks - Unlock Your PDF, ePUB & MOBI Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-best-4-ebook-reading-applications-for-windows-and-macos-a-comprehensive-guide/"><u>Discover the Best 4 eBook Reading Applications for Windows and MacOS : A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-gen-ai-showdown-unpacking-differences-between-google-palm-2-and-openais-gpt-4/"><u>Next-Gen AI Showdown: Unpacking Differences Between Google PaLM 2 and OpenAI's GPT-4</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-guide-to-choosing-the-right-ebook-organizer-for-effortless-reading-pleasure/"><u>Ultimate Guide to Choosing the Right eBook Organizer for Effortless Reading Pleasure</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-the-terms-and-conditions-a-comprehensive-guide-to-end-user-licensing/"><u>Understanding the Terms and Conditions: A Comprehensive Guide to End User Licensing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x50i-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X50i Device</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unveiling-the-elite-circle-amazons-top-100-selling-authors-on-kindle-worth-checking-out/"><u>Unveiling the Elite Circle: Amazon's Top 100 Selling Authors on Kindle Worth Checking Out</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/wie-man-digitale-rechteinschrankungen-von-drmed-kindle-und-epub-buchern-entfernt/"><u>Wie Man Digitale Rechteinschränkungen Von DRMed Kindle Und EPUB Büchern Entfernt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[New] FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-crafting-engaging-facebook-reels-the-making-process-explained/"><u>2024 Approved Crafting Engaging Facebook Reels The Making Process Explained</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-trailblazing-top-zooid-beginnings-list/"><u>2024 Approved Trailblazing Top Zooid Beginnings List</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/orfjpg-movavi/"><u>无需支付，将ORF文件转换为JPG格式 - 利用 Movavi 的映像編輯器服务</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/movwav-movavi/"><u>無限制地瀏覽MOV到WAV轉化 - 利用Movavi自由下載的音頻編譯器</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Redmi Note 12 Pro+ 5G.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laughs-lab-innovator-for-2024/"><u>Laughs Lab Innovator for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/movavi-m4r-aiff/"><u>Movavi의 인터넷으로부터 비용 없는 M4R에서 AIFF 전환 소프트웨어</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/online-caf-en-m4a-formateren-zonder-kosten-vervangen-met-movavi-convertie/"><u>Online CAF en M4A Formateren Zonder Kosten - Vervangen Met Movavi Convertie</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/os-melhores-programas-para-produzir-e-armazenar-gifs-em-2024-ranking-do-movavi/"><u>Os Melhores Programas Para Produzir E Armazenar GIFs Em 2024: Ranking Do Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/qt-online-free-mp4-to-qt-converter-movavi/"><u>QT 편집은 원할까요? 안전하고 쉬운 Online Free Mp4 to Qt Converter를 찾아주세요 - Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simplifying-tasks-with-ez-grabber-techniques/"><u>Simplifying Tasks with EZ Grabber Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-overcoming-the-stop-0x0000007b-system-crash-issue/"><u>Step-by-Step Solutions for Overcoming the STOP 0X0000007B System Crash Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-to-fix-signed-out-alert-in-iphones-imessage-applications/"><u>Step-by-Step Solutions to Fix 'Signed Out' Alert in iPhone's iMessage Applications</u></a></li>
 </ul></div>
 
