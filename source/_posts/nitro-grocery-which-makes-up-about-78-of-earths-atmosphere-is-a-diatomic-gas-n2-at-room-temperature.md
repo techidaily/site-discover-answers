@@ -1,7 +1,7 @@
 ---
 title: Nitro Grocery, Which Makes up About 78%% of Earth's Atmosphere, Is a Diatomic Gas (N2) at Room Temperature.
-date: 2024-09-12T16:32:45.054Z
-updated: 2024-09-18T16:44:22.977Z
+date: 2024-09-21T16:25:13.838Z
+updated: 2024-09-23T16:28:31.998Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg
@@ -19,9 +19,23 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Read Kindle eBooks on Windows 8
 
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
 
@@ -45,11 +59,25 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
 #### **2\. Adobe Reader to Read DRM-Free PDF on Windows 8** 
 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
 
@@ -151,19 +179,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-tips.techidaily.com/discover-how-the-google-pixel-5-blends-economical-pricing-with-top-tier-specifications-our-expert-review/"><u>Discover How the Google Pixel 5 Blends Economical Pricing with Top-Tier Specifications – Our Expert Review</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/free-online-tool-convert-mp3-files-to-wmv-format-with-ease/"><u>Free Online Tool: Convert MP3 Files to WMV Format with Ease</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/geavanceerd-online-konverteren-van-rw2-fiches-gratis-met-movavi-opgeluchterde-instructies/"><u>Geavanceerd Online Konverteren Van RW2 Fiches Gratis Met Movavi - Opgeluchterde Instructies</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/gratis-converter-vervanging-ogg-formaat-naar-mpeg-kostenloos-en-online-door-movavi/"><u>Gratis Converter: Vervanging Ogg-Formaat Naar Mpeg - Kostenloos en Online Door Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-guide-to-update-or-download-your-canon-products-windows-drivers/"><u>Hassle-Free Guide to Update or Download Your Canon Product's Windows Drivers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/step-by-step-guide-perfecting-your-mobile-video-recording-for-2024/"><u>Step-by-Step Guide Perfecting Your Mobile Video Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-flashstoppage-instant-video-quit-guide/"><u>[New] FlashStoppage Instant Video Quit Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-bending-words-in-media-landscapes/"><u>[Updated] 2024 Approved Bending Words in Media Landscapes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-discover-the-ultimate-10-igtv-content-genres-that-work-best/"><u>[Updated] 2024 Approved Discover the Ultimate 10 IGTV Content Genres That Work Best</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-redefine-video-downloading-pick-from-these-top-ranked-free-and-on-demand-apps-for-youtube-shorts/"><u>[Updated] Redefine Video Downloading Pick From These Top-Ranked, Free & On-Demand Apps for YouTube Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-resolve-chromes-video-playback-woes-for-2024/"><u>[Updated] Resolve Chrome's Video Playback Woes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-virtual-victory-youtubes-female-elite-ten/"><u>2024 Approved Virtual Victory YouTube’s Female Elite Ten</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-7-how-to-unlock-a-disabled-iphone-7-drfone-by-drfone-ios/"><u>Disabled iPhone 7 How to Unlock a Disabled iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/os-melhores-programas-para-produzir-e-armazenar-gifs-em-2024-ranking-do-movavi/"><u>Os Melhores Programas Para Produzir E Armazenar GIFs Em 2024: Ranking Do Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary-for-2024/"><u>Photoshop Shake Control Necessary Tool or Unnecessary for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/qt-online-free-mp4-to-qt-converter-movavi/"><u>QT 편집은 원할까요? 안전하고 쉬운 Online Free Mp4 to Qt Converter를 찾아주세요 - Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/raster-vs-vector-images-what-sets-them-apart/"><u>Raster Vs. Vector Images: What Sets Them Apart?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-guide-creating-videos-from-images-seamlessly/"><u>Simple Guide: Creating Videos From Images Seamlessly</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/telechargez-gratuitement-votre-fichier-nsv-au-format-mp3-avec-cette-solution-facile/"><u>Téléchargez Gratuitement Votre Fichier NSV Au Format MP3 Avec Cette Solution Facile !</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-16-free-video-splitting-software-online-and-offline-options/"><u>Top 16 Free Video Splitting Software - Online and Offline Options</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/topos-nueve-editores-de-video-mp4-sin-coste-comparacion-y-seleccion/"><u>Topos Nueve Editores De Vídeo MP4 Sin Coste: Comparación Y Selección</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/tod-mpeg/"><u>오토바이오그래피를 쉽게 TOD MPEG로 전환: 모바일에서 무승부</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

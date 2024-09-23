@@ -1,7 +1,7 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-09-13T16:57:01.875Z
-updated: 2024-09-18T18:43:44.123Z
+date: 2024-09-20T16:12:12.502Z
+updated: 2024-09-23T16:14:35.005Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -22,6 +22,13 @@ As an eBook reader, we may always find there are some eBooks have wrong metadata
 But don't worry, there are many useful tools can help us edit the epub books metadata, in this post, I will recommend you a very powerful ePub metadata editor, it's free and very easy to use.
 
 Someone may don't know what's the meaning of metadata, in fact it's very simple, metadata is the basic information of a book, including the book title, cover, author, publisher and publish data, ISBN or ASIN number, sometimes it contains a brief introduction of the book. It helps us identify the book and manage our eBooks in an easy way.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Powerful Features of ePub Metadata Editor - [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)
 
@@ -48,10 +55,17 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Edit ePub metadata information
@@ -83,10 +97,10 @@ Download Epubor
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -237,20 +251,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>[New] FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-crafting-engaging-facebook-reels-the-making-process-explained/"><u>2024 Approved Crafting Engaging Facebook Reels The Making Process Explained</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-trailblazing-top-zooid-beginnings-list/"><u>2024 Approved Trailblazing Top Zooid Beginnings List</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/940mx-secure-your-pc-with-the-newest-geforce-driver-software-for-enhanced-performance/"><u>[940MX] Secure Your PC with the Newest GeForce Driver Software for Enhanced Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-find-anything-you-want-to-know-about-instagram-video-limit/"><u>[New] In 2024, Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools-for-2024/"><u>[Updated] Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-intellieditors-ai-transform-photos-effortlessly/"><u>[Updated] IntelliEditors AI Transform Photos Effortlessly</u></a></li>
 <li><a href="https://discover-answers.techidaily.com/orfjpg-movavi/"><u>无需支付，将ORF文件转换为JPG格式 - 利用 Movavi 的映像編輯器服务</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/movwav-movavi/"><u>無限制地瀏覽MOV到WAV轉化 - 利用Movavi自由下載的音頻編譯器</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Redmi Note 12 Pro+ 5G.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/laughs-lab-innovator-for-2024/"><u>Laughs Lab Innovator for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/movavi-m4r-aiff/"><u>Movavi의 인터넷으로부터 비용 없는 M4R에서 AIFF 전환 소프트웨어</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/online-caf-en-m4a-formateren-zonder-kosten-vervangen-met-movavi-convertie/"><u>Online CAF en M4A Formateren Zonder Kosten - Vervangen Met Movavi Convertie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-comprehensive-guide-to-understanding-what-is-ffshow-the-media-processing-powerhouse/"><u>A Comprehensive Guide To Understanding What Is FFShow, The Media Processing Powerhouse.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-way-through-windows-with-mouseclicklock-techniques/"><u>Ace Your Way Through Windows with MouseClickLock Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-audio-in-your-pc-running-windows-7/"><u>Diagnosing and Repairing Non-Functional Audio in Your PC Running Windows 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-15-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 15 Pro Making It Possible</u></a></li>
 <li><a href="https://discover-answers.techidaily.com/os-melhores-programas-para-produzir-e-armazenar-gifs-em-2024-ranking-do-movavi/"><u>Os Melhores Programas Para Produzir E Armazenar GIFs Em 2024: Ranking Do Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-peace-and-productivity-why-drop-facebook/"><u>Privacy, Peace & Productivity: Why Drop Facebook</u></a></li>
 <li><a href="https://discover-answers.techidaily.com/qt-online-free-mp4-to-qt-converter-movavi/"><u>QT 편집은 원할까요? 안전하고 쉬운 Online Free Mp4 to Qt Converter를 찾아주세요 - Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/simplifying-tasks-with-ez-grabber-techniques/"><u>Simplifying Tasks with EZ Grabber Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-overcoming-the-stop-0x0000007b-system-crash-issue/"><u>Step-by-Step Solutions for Overcoming the STOP 0X0000007B System Crash Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-to-fix-signed-out-alert-in-iphones-imessage-applications/"><u>Step-by-Step Solutions to Fix 'Signed Out' Alert in iPhone's iMessage Applications</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/raster-vs-vector-images-what-sets-them-apart/"><u>Raster Vs. Vector Images: What Sets Them Apart?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-guide-creating-videos-from-images-seamlessly/"><u>Simple Guide: Creating Videos From Images Seamlessly</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/telechargez-gratuitement-votre-fichier-nsv-au-format-mp3-avec-cette-solution-facile/"><u>Téléchargez Gratuitement Votre Fichier NSV Au Format MP3 Avec Cette Solution Facile !</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-16-free-video-splitting-software-online-and-offline-options/"><u>Top 16 Free Video Splitting Software - Online and Offline Options</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/topos-nueve-editores-de-video-mp4-sin-coste-comparacion-y-seleccion/"><u>Topos Nueve Editores De Vídeo MP4 Sin Coste: Comparación Y Selección</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-5-essential-tools-for-creating-viral-reaction-videos/"><u>Updated In 2024, 5 Essential Tools for Creating Viral Reaction Videos</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/tod-mpeg/"><u>오토바이오그래피를 쉽게 TOD MPEG로 전환: 모바일에서 무승부</u></a></li>
 </ul></div>
 

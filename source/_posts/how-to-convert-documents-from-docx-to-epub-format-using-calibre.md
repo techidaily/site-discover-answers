@@ -1,7 +1,7 @@
 ---
 title: How to Convert Documents From DOCX to EPUB Format Using Calibre
-date: 2024-09-15T20:36:37.836Z
-updated: 2024-09-18T17:19:42.260Z
+date: 2024-09-16T16:14:08.526Z
+updated: 2024-09-23T16:19:55.553Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
@@ -45,6 +45,13 @@ Run calibre, then click "Add books" to choose your word documents which are with
 
 ![convert word docx to epub calibre](http://www.epubor.com/images/uppic/docx2epub.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4Convert docx to epub
 
 Click on "Convert books", then at the output format pull-down list select epub please. Then "OK" the conversion.
@@ -54,6 +61,13 @@ Click on "Convert books", then at the output format pull-down list select epub p
 After completed, you can "click to open" to get a preview. Now you can read your epub files on your computer, and even transfer them to another devices such as iPad, Kobo, etc.
 
 **Tips:** If you want to convert your word documents to PDF high polished to print good, choose [PDF Creator](https://tools.techidaily.com/epubor/products/).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to convert doc to epub Calibre
 
@@ -75,9 +89,23 @@ Upload your just saved html files to Calibre with "Add books". Then click on "Co
 
 ![add html to calibre](http://www.epubor.com/images/uppic/html-to-calibre.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 At the pop up window, hit the **"Metadata"** to edit, such as title, author, cover, tags, etc.
 
 ![edit html metadata](http://www.epubor.com/images/uppic/edit-html-metadata.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 From the left side menu, click on **"Look & Feel"**, select "Removing spacing between paragraphs".
 
@@ -94,6 +122,13 @@ A new window named "Match HTML tags with tag name" will top up. From the drop do
 Then click "OK", you will see **"//h:h1"** is listed in the Level 1 TOC field.
 
 ![html h1](http://www.epubor.com/images/uppic/html-h1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the upper right corner still in this convert screen, find the "Output format" menu, choose "EPUB" to convert html to epub.
 
@@ -116,10 +151,10 @@ Still think this is a little difficult to understand? How about trying this tool
 ![convert word to epub with wordmate](https://epubor.com/images/uppic/conver-word-to-epub-with-wordmate.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Related Readings
@@ -129,13 +164,6 @@ Still think this is a little difficult to understand? How about trying this tool
 \-How to convert [kindle to epub](https://tools.techidaily.com/epubor/products/).
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -190,18 +218,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-zd-soft-screen-recorder-a-comprehensive-handbook-for-2024/"><u>[New] Mastering ZD Soft Screen Recorder A Comprehensive Handbook for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-demystified-for-passionate-creators-and-viewers-for-2024/"><u>[New] Vimeo Demystified For Passionate Creators & Viewers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>[Updated] In 2024, Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-prime-voice-recorders-for-online-use/"><u>[Updated] Prime Voice Recorders for Online Use</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/webwmamp3-movavi/"><u>「無償WEB音楽ファイルWMAからMP3への高速変換 - Movavi」</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/conversione-gratuita-da-ape-a-ogg-con-movavi-scopri-il-tuo-flusso-audio-migliorato/"><u>Conversione Gratuita Da APE a OGG Con Movavi: Scopri Il Tuo Flusso Audio Migliorato</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/conversor-facil-de-gif-a-formato-mp4-con-movavi/"><u>Conversor Fácil De GIF a Formato MP4 Con Movavi</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/download-and-use-movavi-video-editor-comprehensive-guide-on-the-terms-of-service/"><u>Download and Use Movavi Video Editor: Comprehensive Guide on the Terms of Service</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-f23-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo F23 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-note-30i-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Note 30i is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-internet-browsing-introducing-microsoft-bings-artificial-intelligence-upgrade/"><u>The Future of Internet Browsing: Introducing Microsoft Bing's Artificial Intelligence Upgrade</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-10-free-and-paid-alternatives-to-final-cut-pro-x-for-2024/"><u>The Ultimate List 10 Free and Paid Alternatives to Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/zeven-slechte-praktijken-om-te-ongedaan-met-mp4-versieen-bestaan-u-met-movavi-nl/"><u>Zeven Slechte Praktijken Om Te Ongedaan Met MP4-Versieën, Bestaan U Met Movavi NL</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-design-mastery-in-minutes-canvas-quick-secret-tips/"><u>[New] 2024 Approved Design Mastery in Minutes Canva's Quick Secret Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-list-of-the-best-marriage-videos-celebrations-captured-online-8-for-2024/"><u>[New] A List of the Best Marriage Videos - Celebrations Captured Online (8) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rustworthy-tactics-for-multiplying-a-million-views-on-youtube-for-2024/"><u>[New] Trustworthy Tactics for Multiplying a Million Views on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] In 2024, Best Hashtags for YouTube to Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-divide-how-snapchats-and-microsofts-bing-chat-ai-differ-in-a-side-by-side-comparison-on-skype/"><u>Exploring the Divide: How Snapchat's and Microsoft's Bing Chat AI Differ in a Side-by-Side Comparison on Skype</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-macs-best-video-production-tools-unleash-your-creativity/"><u>New 2024 Approved Macs Best Video Production Tools Unleash Your Creativity</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/online-bestellen-im-geslagensnaam-m2p-enz-zu-mpge-tabberen-gratis-weerkant-voor-altaijdes-movavi/"><u>ONLINE BESTELLEN IM GESLAGENSNAAM M2P ENZ. ZU MPGE TABBEREN, GRATIS WEERKANT VOOR ALTAIJDES - MOVAVI</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/online-vrijetijdige-wma-op-m4a-voeren-overeenkomst-met-movavi-gratis-converter/"><u>Online Vrijetijdige WMA Op M4A Voeren Overeenkomst Met Movavi - Gratis Converter</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/online-webm-to-3gp-video-transcoding-service-no-cost-easy-use-by-movavi/"><u>Online WebM-to-3GP Video Transcoding Service - No Cost, Easy Use by Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/optimizarea-imobilului-tarzie-calatori-bunele-si-moduri-de-transport-neimburit-in-rezolutia-unui-complex-hotelor-vechi/"><u>Optimizarea Imobilului Târzie: Călători, Bunele Și Moduri De Transport Neîmburit În Rezoluția Unui Complex Hotelor Vechi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/raf-movavi/"><u>RAF 線上免費切換服務 - Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/riconverti-i-file-ogg-in-formato-flac-con-una-pace-guida-esclusiva-e-gratuita-su-movavi/"><u>Riconverti I File OGG in Formato FLAC Con Una Pace: Guida Esclusiva E Gratuita Su Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-comprehensive-guide-to-top-ranked-educational-software-for-aspiring-editors/"><u>The Comprehensive Guide to Top-Ranked Educational Software for Aspiring Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audio-harmony-in-editing-perfecting-the-dance-between-music-and-visuals-in-final-cut-pro-x/"><u>Updated Audio Harmony in Editing Perfecting the Dance Between Music and Visuals in Final Cut Pro X</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mp4m4a/"><u>영구제 MP4/M4A 형식을 바꾸기: 이웃 사이트를 통해 무료 전원</u></a></li>
 </ul></div>
 
