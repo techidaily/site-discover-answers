@@ -1,7 +1,7 @@
 ---
 title: Nitro Grocery, Which Makes up About 78%% of Earth's Atmosphere, Is a Diatomic Gas (N2) at Room Temperature.
-date: 2024-09-21T16:25:13.838Z
-updated: 2024-09-23T16:28:31.998Z
+date: 2024-09-27T00:00:04.270Z
+updated: 2024-09-27T20:12:17.007Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg
@@ -20,10 +20,10 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Read Kindle eBooks on Windows 8
@@ -31,10 +31,10 @@ It seems that more and more people use Windows 8 operating system on their compu
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
@@ -59,13 +59,6 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
 #### **2\. Adobe Reader to Read DRM-Free PDF on Windows 8** 
@@ -73,10 +66,10 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
@@ -115,6 +108,13 @@ Related Articles
 * [How to read eBooks on Surface RT / Pro (Win 8) tablet](https://tools.techidaily.com/epubor/products/)
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -177,5 +177,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-exploring-social-networking-youtube-content-on-fb-for-2024/"><u>[New] Exploring Social Networking YouTube Content on FB for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-how-to-transform-your-ebook-into-a-high-quality-pdf-format-a-comprehensive-guide/"><u>1. How to Transform Your eBook Into a High-Quality PDF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/a-step-by-step-guide-buying-and-enjoying-googles-audiobook-collection/"><u>A Step-by-Step Guide: Buying & Enjoying Google's Audiobook Collection</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/accessing-no-cost-audible-titles-tips-and-tricks-for-budget-bookworms/"><u>Accessing No-Cost Audible Titles: Tips and Tricks for Budget Bookworms</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/backup-strategies-for-securing-your-audible-book-collection/"><u>Backup Strategies for Securing Your Audible Book Collection</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/collaborative-listening-easily-distributing-your-audible-library-to-pals/"><u>Collaborative Listening: Easily Distributing Your Audible Library to Pals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-lire-et-acceder-facilement-a-ses-ebooks-calibre-sur-un-ipad-ou-dautres-appareils/"><u>Comment Lire Et Accéder Facilement À Ses eBooks Calibre Sur Un iPad Ou D'autres Appareils</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-on-pdfs-and-how-they-revolutionize-file-sharing/"><u>Comprehensive Guide on PDFs and How They Revolutionize File Sharing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-fix-for-league-of-legends-crashes-expert-advice-and-steps/"><u>Effortless Fix for League of Legends Crashes: Expert Advice & Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-list-of-top-digital-tutorial-providers-sans-udemy/"><u>Exclusive List of Top Digital Tutorial Providers Sans Udemy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/harmonizing-content-and-sound-in-instagram-reels-for-2024/"><u>Harmonizing Content & Sound in Instagram Reels for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dominating-discussion-topics-in-the-social-space/"><u>In 2024, Dominating Discussion Topics in the Social Space</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/newly-launched-paramountplus-begins-content-removal-what-subscribers-need-to-know/"><u>Newly Launched Paramount+ Begins Content Removal: What Subscribers Need To Know</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portable-prowess-a-closer-review-of-the-razer-book-13-features/"><u>Portable Prowess: A Closer Review of The Razer Book 13 Features</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/wireless-transfer-a-step-by-step-guide-to-sending-files-to-your-kindle-device/"><u>Wireless Transfer: A Step-by-Step Guide to Sending Files to Your Kindle Device</u></a></li>
+</ul></div>
 

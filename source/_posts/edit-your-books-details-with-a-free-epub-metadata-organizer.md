@@ -1,7 +1,7 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-09-20T16:12:12.502Z
-updated: 2024-09-23T16:14:35.005Z
+date: 2024-09-23T16:20:05.164Z
+updated: 2024-09-27T18:35:19.276Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -24,10 +24,10 @@ But don't worry, there are many useful tools can help us edit the epub books met
 Someone may don't know what's the meaning of metadata, in fact it's very simple, metadata is the basic information of a book, including the book title, cover, author, publisher and publish data, ISBN or ASIN number, sometimes it contains a brief introduction of the book. It helps us identify the book and manage our eBooks in an easy way.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Powerful Features of ePub Metadata Editor - [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)
@@ -48,6 +48,13 @@ Download Epubor Ultimate for Free
 
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1, Add Books to Epubor Ultimate
 
 In order to edit metadata of your epub files, first of all, just drag and drop them to the right main interface for editing. 
@@ -55,17 +62,10 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Edit ePub metadata information
@@ -75,6 +75,13 @@ Once loaded the ePub books to the program, it will display the book in the main 
 To edit the ePub metadata, click the pencil icon to the right of the book title, it will bring you to this window:
 
 ![edit-matadata](http://www.epubor.com/images/uppic/edit-metadata-with-Epubor.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
@@ -95,13 +102,6 @@ Download Epubor
 * [The Most Powerful eBook Manager-Epubor eBook Manager](https://tools.techidaily.com/epubor/ebook-manager/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -249,5 +249,16 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-from-footage-to-fame-premiere-pro-edition-tricks-for-youtube/"><u>[New] 2024 Approved From Footage to Fame Premiere Pro Edition Tricks for YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-combining-obs-and-zoom-a-step-by-step-guide/"><u>2024 Approved Combining OBS and Zoom A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerating-your-creative-process-with-mac-dvd-authoring-for-2024/"><u>Accelerating Your Creative Process with Mac DVD Authoring for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-common-problems-with-samsung-soundbars/"><u>Diagnosing and Fixing Common Problems with Samsung Soundbars</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-guide-accessing-and-enjoying-epub-books-on-your-amazon-kindle-touch-device/"><u>Easy Guide: Accessing and Enjoying EPUB Books on Your Amazon Kindle Touch Device</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-send-calibre-formatted-books-to-your-kindle-via-wifi/"><u>How to Send Calibre-Formatted Books to Your Kindle via WiFi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lenovo-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lenovo FRP</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/is-it-possible-to-transfer-epub-books-to-your-kindle-using-the-send-to-kindle-feature/"><u>Is It Possible to Transfer EPUB Books to Your Kindle Using the Send to Kindle Feature?</u></a></li>
+</ul></div>
 
