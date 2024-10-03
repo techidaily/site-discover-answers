@@ -1,7 +1,7 @@
 ---
 title: Nitro Grocery, Which Makes up About 78%% of Earth's Atmosphere, Is a Diatomic Gas (N2) at Room Temperature.
-date: 2024-09-27T00:00:04.270Z
-updated: 2024-09-27T20:12:17.007Z
+date: 2024-09-27T04:56:59.929Z
+updated: 2024-10-02T16:10:06.608Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg
@@ -19,22 +19,15 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Read Kindle eBooks on Windows 8
 
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
@@ -59,6 +52,13 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
 #### **2\. Adobe Reader to Read DRM-Free PDF on Windows 8** 
@@ -66,10 +66,10 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
@@ -110,10 +110,10 @@ Related Articles
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -179,22 +179,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-exploring-social-networking-youtube-content-on-fb-for-2024/"><u>[New] Exploring Social Networking YouTube Content on FB for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-how-to-transform-your-ebook-into-a-high-quality-pdf-format-a-comprehensive-guide/"><u>1. How to Transform Your eBook Into a High-Quality PDF Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/a-step-by-step-guide-buying-and-enjoying-googles-audiobook-collection/"><u>A Step-by-Step Guide: Buying & Enjoying Google's Audiobook Collection</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/accessing-no-cost-audible-titles-tips-and-tricks-for-budget-bookworms/"><u>Accessing No-Cost Audible Titles: Tips and Tricks for Budget Bookworms</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/backup-strategies-for-securing-your-audible-book-collection/"><u>Backup Strategies for Securing Your Audible Book Collection</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/collaborative-listening-easily-distributing-your-audible-library-to-pals/"><u>Collaborative Listening: Easily Distributing Your Audible Library to Pals</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-lire-et-acceder-facilement-a-ses-ebooks-calibre-sur-un-ipad-ou-dautres-appareils/"><u>Comment Lire Et Accéder Facilement À Ses eBooks Calibre Sur Un iPad Ou D'autres Appareils</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-on-pdfs-and-how-they-revolutionize-file-sharing/"><u>Comprehensive Guide on PDFs and How They Revolutionize File Sharing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-fix-for-league-of-legends-crashes-expert-advice-and-steps/"><u>Effortless Fix for League of Legends Crashes: Expert Advice & Steps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-list-of-top-digital-tutorial-providers-sans-udemy/"><u>Exclusive List of Top Digital Tutorial Providers Sans Udemy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/harmonizing-content-and-sound-in-instagram-reels-for-2024/"><u>Harmonizing Content & Sound in Instagram Reels for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-dominating-discussion-topics-in-the-social-space/"><u>In 2024, Dominating Discussion Topics in the Social Space</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/newly-launched-paramountplus-begins-content-removal-what-subscribers-need-to-know/"><u>Newly Launched Paramount+ Begins Content Removal: What Subscribers Need To Know</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/portable-prowess-a-closer-review-of-the-razer-book-13-features/"><u>Portable Prowess: A Closer Review of The Razer Book 13 Features</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/wireless-transfer-a-step-by-step-guide-to-sending-files-to-your-kindle-device/"><u>Wireless Transfer: A Step-by-Step Guide to Sending Files to Your Kindle Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-guide-9-cost-free-editing-tools-for-creatives/"><u>[Updated] In 2024, Essential Guide 9 Cost-Free Editing Tools for Creatives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-integrating-youtube-into-tv-sets-with-loop-features/"><u>[Updated] Integrating YouTube Into TV Sets with Loop Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-top-10-apples-affordable-and-free-image-collage-applications/"><u>2024 Approved Explore Top 10 Apple's Affordable & Free Image Collage Applications</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/best-free-online-tools-for-creating-professional-youtube-intros-top-5-picks/"><u>Best Free Online Tools for Creating Professional YouTube Intros: Top 5 Picks</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/best-no-cost-web-video-transcriber-convert-movies-into-mp3-with-ease/"><u>Best No-Cost Web Video Transcriber: Convert Movies Into MP3 with Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic5-ultimate-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-the-best-5-live-broadcast-software-for-content-creators/"><u>Discover the Best 5 Live Broadcast Software for Content Creators</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-methods-to-upload-videos-from-iphone-onto-windows-1n-operating-system/"><u>Easy Methods to Upload Videos From iPhone Onto Windows 1N Operating System</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-power-play-choosing-the-best-ps5-controllers-chargers/"><u>Effortlessly Power Play: Choosing the Best PS5 Controllers Chargers</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/free-tools-and-techniques-for-capturing-your-computers-audio-output/"><u>Free Tools and Techniques for Capturing Your Computer's Audio Output</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-review-of-powerdirector-features-and-tips/"><u>In 2024, Expert Review of PowerDirector - Features & Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-communication-top-rated-free-alternatives-to-skype/"><u>Mastering Communication: Top-Rated Free Alternatives to Skype</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mirroring-your-android-device-on-an-apple-tv-a-step-by-step-guide/"><u>Mirroring Your Android Device on an Apple TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-how-to-clear-out-your-iphones-calendar-data/"><u>The Ultimate Guide: How to Clear Out Your iPhone's Calendar Data</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-reviews-on-the-pro-hd-logitech-c920-webcam-features-quality-and-value-insights/"><u>Top Reviews on the Pro HD Logitech C920 Webcam: Features, Quality and Value Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-12plus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 12+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-ransomware-a-comprehensive-overview-by-malwarefox/"><u>Understanding Ransomware: A Comprehensive Overview by MalwareFox</u></a></li>
 </ul></div>
 

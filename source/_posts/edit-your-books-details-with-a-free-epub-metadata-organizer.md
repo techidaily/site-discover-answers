@@ -1,7 +1,7 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-09-23T16:20:05.164Z
-updated: 2024-09-27T18:35:19.276Z
+date: 2024-09-27T23:54:07.335Z
+updated: 2024-10-03T03:15:22.006Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -24,10 +24,16 @@ But don't worry, there are many useful tools can help us edit the epub books met
 Someone may don't know what's the meaning of metadata, in fact it's very simple, metadata is the basic information of a book, including the book title, cover, author, publisher and publish data, ISBN or ASIN number, sometimes it contains a brief introduction of the book. It helps us identify the book and manage our eBooks in an easy way.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Powerful Features of ePub Metadata Editor - [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)
@@ -49,10 +55,10 @@ Download Epubor Ultimate for Free
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1, Add Books to Epubor Ultimate
@@ -62,10 +68,10 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Edit ePub metadata information
@@ -75,13 +81,6 @@ Once loaded the ePub books to the program, it will display the book in the main 
 To edit the ePub metadata, click the pencil icon to the right of the book title, it will bring you to this window:
 
 ![edit-matadata](http://www.epubor.com/images/uppic/edit-metadata-with-Epubor.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
@@ -102,6 +101,13 @@ Download Epubor
 * [The Most Powerful eBook Manager-Epubor eBook Manager](https://tools.techidaily.com/epubor/ebook-manager/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -251,14 +257,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-from-footage-to-fame-premiere-pro-edition-tricks-for-youtube/"><u>[New] 2024 Approved From Footage to Fame Premiere Pro Edition Tricks for YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-combining-obs-and-zoom-a-step-by-step-guide/"><u>2024 Approved Combining OBS and Zoom A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/accelerating-your-creative-process-with-mac-dvd-authoring-for-2024/"><u>Accelerating Your Creative Process with Mac DVD Authoring for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-common-problems-with-samsung-soundbars/"><u>Diagnosing and Fixing Common Problems with Samsung Soundbars</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-guide-accessing-and-enjoying-epub-books-on-your-amazon-kindle-touch-device/"><u>Easy Guide: Accessing and Enjoying EPUB Books on Your Amazon Kindle Touch Device</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-send-calibre-formatted-books-to-your-kindle-via-wifi/"><u>How to Send Calibre-Formatted Books to Your Kindle via WiFi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lenovo-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lenovo FRP</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/is-it-possible-to-transfer-epub-books-to-your-kindle-using-the-send-to-kindle-feature/"><u>Is It Possible to Transfer EPUB Books to Your Kindle Using the Send to Kindle Feature?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-innovative-ideas-for-customized-gif-art/"><u>[New] In 2024, Innovative Ideas for Customized GIF Art</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[New] In 2024, Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-understanding-youtube-community-interaction/"><u>[New] Understanding YouTube Community Interaction</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-overview-djis-ultra-hd-vr-flight-headsets/"><u>[Updated] Overview DJI's Ultra-HD VR Flight Headsets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-airpods-max-a-sound-investment-or-overpriced-luxury/"><u>Apple AirPods Max: A Sound Investment or Overpriced Luxury?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/complete-guide-to-bypassing-digital-locks-on-ebooks-unlock-your-pdf-epub-and-mobi-files/"><u>Complete Guide to Bypassing Digital Locks on Ebooks - Unlock Your PDF, ePUB & MOBI Files</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-the-best-4-ebook-reading-applications-for-windows-and-macos-a-comprehensive-guide/"><u>Discover the Best 4 eBook Reading Applications for Windows and MacOS : A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-the-essential-insights-on-googles-new-nexus-7-the-ultimate-guide-for-savvy-shoppers/"><u>Discover the Essential Insights on Google's New Nexus 7: The Ultimate Guide for Savvy Shoppers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ending-the-headache-correcting-minecrafts-unexpected-shutdowns-by-improving-your-graphics-drivers-in-windows/"><u>Ending the Headache: Correcting Minecraft's Unexpected Shutdowns by Improving Your Graphics Drivers in Windows</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/explore-amazons-literary-world-with-kindle-e-books-via-apple-books/"><u>Explore Amazon's Literary World with Kindle E-Books via Apple Books</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-storm-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Storm 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/immediate-access-obtain-the-latest-update-of-requiem-trojan-horse-for-your-security-research/"><u>Immediate Access: Obtain the Latest Update of Requiem Trojan Horse for Your Security Research</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>In 2024, Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
 </ul></div>
 
