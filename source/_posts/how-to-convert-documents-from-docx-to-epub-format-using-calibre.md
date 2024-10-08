@@ -1,7 +1,7 @@
 ---
 title: How to Convert Documents From DOCX to EPUB Format Using Calibre
-date: 2024-10-01T05:16:40.304Z
-updated: 2024-10-03T09:12:49.735Z
+date: 2024-10-01T16:05:30.071Z
+updated: 2024-10-08T16:03:12.958Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
@@ -45,22 +45,35 @@ Run calibre, then click "Add books" to choose your word documents which are with
 
 ![convert word docx to epub calibre](http://www.epubor.com/images/uppic/docx2epub.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4Convert docx to epub
 
 Click on "Convert books", then at the output format pull-down list select epub please. Then "OK" the conversion.
 
 ![convert docx to epub](http://www.epubor.com/images/uppic/convert-docx-to-epub.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After completed, you can "click to open" to get a preview. Now you can read your epub files on your computer, and even transfer them to another devices such as iPad, Kobo, etc.
 
 **Tips:** If you want to convert your word documents to PDF high polished to print good, choose [PDF Creator](https://tools.techidaily.com/epubor/products/).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to convert doc to epub Calibre
 
@@ -82,13 +95,6 @@ Upload your just saved html files to Calibre with "Add books". Then click on "Co
 
 ![add html to calibre](http://www.epubor.com/images/uppic/html-to-calibre.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 At the pop up window, hit the **"Metadata"** to edit, such as title, author, cover, tags, etc.
 
 ![edit html metadata](http://www.epubor.com/images/uppic/edit-html-metadata.jpg)
@@ -97,38 +103,31 @@ From the left side menu, click on **"Look & Feel"**, select "Removing spacing be
 
 ![edit html look and feel](http://www.epubor.com/images/uppic/edit-html-look-and-feel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go on with the edit job, click on **"Table of Contents"**, select the "Level 1 TOC" wizard button.
 
 ![edit html table of contents](http://www.epubor.com/images/uppic/edit-html-table-of-contents.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A new window named "Match HTML tags with tag name" will top up. From the drop down list select "h1" please.
 
 ![edit html h1](http://www.epubor.com/images/uppic/edit-html-h1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then click "OK", you will see **"//h:h1"** is listed in the Level 1 TOC field.
 
 ![html h1](http://www.epubor.com/images/uppic/html-h1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the upper right corner still in this convert screen, find the "Output format" menu, choose "EPUB" to convert html to epub.
 
@@ -137,6 +136,13 @@ In the upper right corner still in this convert screen, find the "Output format"
 4Convert html to epub
 
 Check all the procession during the editing, Metadata, Look & Feel,![open html in calibre](http://www.epubor.com/images/uppic/open-epub.jpg) Table of Contents, Output format. If all the settings has finished, click "OK" to start your conversion. For details in this part click here to know more about[converting html to epub](https://tools.techidaily.com/epubor/products/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you see "jobs:0" at the right bottom corner, it says that your conversion has finished. Come back to the main screen, at the right side click "Click to open". Now you can get a preview of your epub files converted from word documents.
 
@@ -159,16 +165,10 @@ Still think this is a little difficult to understand? How about trying this tool
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -224,16 +224,16 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/beyond-acid-the-future-of-graphic-vectors-for-2024/"><u>Beyond ACID The Future of Graphic Vectors for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-optimal-choices-a-comprehensive-benchmarking-of-gaming-laptops-available/"><u>Discover the Optimal Choices - A Comprehensive Benchmarking of Gaming Laptops Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-perfection-v39-driver-installation-for-windows-operating-systems/"><u>Epson Perfection V39 Driver Installation for Windows Operating Systems</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/explore-advanced-capabilities-with-actions-cutting-edge-feature-set/"><u>Explore Advanced Capabilities with Action's Cutting-Edge Feature Set</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/get-top-tracks-as-mp3s-expert-guide-on-converting-4k-youtube-music-videos-to-mp3-format/"><u>Get Top Tracks as MP3s: Expert Guide on Converting 4K YouTube Music Videos to MP3 Format</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/maximize-gaming-and-editing-speed-implementing-intels-quick-sync-video-for-pci-express-graphics-cards/"><u>Maximize Gaming and Editing Speed: Implementing Intel's Quick Sync Video for PCI Express Graphics Cards</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mirillis-comprehensive-overview-of-our-innovative-enterprise/"><u>MirilliS - Comprehensive Overview of Our Innovative Enterprise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcoming-ies-webpage-display-issues/"><u>Resolved: Overcoming IE's Webpage Display Issues</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/steps-for-downloading-tastytrade-video-content-across-macos-and-windows-systems/"><u>Steps for Downloading TastyTrade Video Content Across macOS & Windows Systems</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-youtube-issues-on-your-android-device/"><u>Troubleshooting YouTube Issues on Your Android Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-call-of-duty-ww2-error-code-4128/"><u>[Solved] Call of Duty WW2 Error Code 4128</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazons-favorite-originals-twitter-top-picks/"><u>[Updated] 2024 Approved Amazon's Favorite Originals - Twitter Top Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-new-dimensions-a-look-at-mixed-reality/"><u>[Updated] Crafting New Dimensions A Look at Mixed Reality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-by-step-method-to-share-subtitle-text-online/"><u>[Updated] In 2024, Step-by-Step Method to Share Subtitle Text Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-best-beginnings-choosing-valheims-prime-plants/"><u>[Updated] The Best Beginnings Choosing Valheim's Prime Plants</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-to-effortless-screen-recording-on-macos-for-zero-cost-using-popular-software-picks/"><u>Guide to Effortless Screen Recording on macOS for Zero Cost Using Popular Software Picks</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-how-to-restore-lost-photos-from-an-iphone-device/"><u>Step-by-Step Tutorial: How to Restore Lost Photos From an iPhone Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-missing-pdhdll-issues-on-your-pc/"><u>Troubleshooting Steps for 'Missing pdh.dll' Issues on Your PC</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-list-of-android-quick-action-shortcuts-top-11-picks/"><u>Ultimate List of Android Quick Action Shortcuts - Top 11 Picks</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-strategies-for-enjoying-vainglory-on-a-personal-computer-setup/"><u>Ultimate Strategies for Enjoying Vainglory on a Personal Computer Setup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-ideapad-idepaed-a-perfect-blend-of-attractive-design-portability-and-exceptional-typing-experience/"><u>Unveiling the Lenovo IdeaPad ˈiːdeɪpæd: A Perfect Blend of Attractive Design, Portability & Exceptional Typing Experience</u></a></li>
 </ul></div>
 

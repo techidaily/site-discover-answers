@@ -1,7 +1,7 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-09-27T23:54:07.335Z
-updated: 2024-10-03T03:15:22.006Z
+date: 2024-10-04T16:34:11.414Z
+updated: 2024-10-08T16:23:40.429Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -23,19 +23,6 @@ But don't worry, there are many useful tools can help us edit the epub books met
 
 Someone may don't know what's the meaning of metadata, in fact it's very simple, metadata is the basic information of a book, including the book title, cover, author, publisher and publish data, ISBN or ASIN number, sometimes it contains a brief introduction of the book. It helps us identify the book and manage our eBooks in an easy way.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Powerful Features of ePub Metadata Editor - [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)
 
 [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/) is a free ePub metadata editor with a clean and user-friendly interface.
@@ -55,10 +42,10 @@ Download Epubor Ultimate for Free
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1, Add Books to Epubor Ultimate
@@ -68,10 +55,10 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Edit ePub metadata information
@@ -81,6 +68,13 @@ Once loaded the ePub books to the program, it will display the book in the main 
 To edit the ePub metadata, click the pencil icon to the right of the book title, it will bring you to this window:
 
 ![edit-matadata](http://www.epubor.com/images/uppic/edit-metadata-with-Epubor.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
@@ -103,10 +97,10 @@ Download Epubor
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -257,18 +251,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-innovative-ideas-for-customized-gif-art/"><u>[New] In 2024, Innovative Ideas for Customized GIF Art</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[New] In 2024, Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-understanding-youtube-community-interaction/"><u>[New] Understanding YouTube Community Interaction</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-overview-djis-ultra-hd-vr-flight-headsets/"><u>[Updated] Overview DJI's Ultra-HD VR Flight Headsets</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-airpods-max-a-sound-investment-or-overpriced-luxury/"><u>Apple AirPods Max: A Sound Investment or Overpriced Luxury?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/complete-guide-to-bypassing-digital-locks-on-ebooks-unlock-your-pdf-epub-and-mobi-files/"><u>Complete Guide to Bypassing Digital Locks on Ebooks - Unlock Your PDF, ePUB & MOBI Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-best-4-ebook-reading-applications-for-windows-and-macos-a-comprehensive-guide/"><u>Discover the Best 4 eBook Reading Applications for Windows and MacOS : A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-essential-insights-on-googles-new-nexus-7-the-ultimate-guide-for-savvy-shoppers/"><u>Discover the Essential Insights on Google's New Nexus 7: The Ultimate Guide for Savvy Shoppers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ending-the-headache-correcting-minecrafts-unexpected-shutdowns-by-improving-your-graphics-drivers-in-windows/"><u>Ending the Headache: Correcting Minecraft's Unexpected Shutdowns by Improving Your Graphics Drivers in Windows</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/explore-amazons-literary-world-with-kindle-e-books-via-apple-books/"><u>Explore Amazon's Literary World with Kindle E-Books via Apple Books</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-storm-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Storm 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/immediate-access-obtain-the-latest-update-of-requiem-trojan-horse-for-your-security-research/"><u>Immediate Access: Obtain the Latest Update of Requiem Trojan Horse for Your Security Research</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>In 2024, Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cool-whatsapp-tricks-and-hidden-features-you-should-know-for-2024/"><u>[New] Cool Whatsapp Tricks and Hidden Features You Should Know for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-excellence-the-premier-6-for-zoom-cams-for-2024/"><u>Choosing Excellence The Premier 6 for Zoom Cams for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-on-webhelper-virus-removal-techniques-as-recommended-by-malwarefox/"><u>Comprehensive Guide on Webhelper Virus Removal Techniques as Recommended by MalwareFox</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/explore-great-soundcloud-substitutes-uncover-leading-online-audio-hosting-services/"><u>Explore Great Soundcloud Substitutes: Uncover Leading Online Audio Hosting Services</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-securely-transfer-your-contacts-from-an-iphone-groggy-and-unable-to-answer-the-phone-and-im-worried-about-what-might-have-happened/"><u>How to Securely Transfer Your Contacts From an iPhone Groggy and Unable to Answer the Phone, and I'm Worried About What Might Have Happened.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immersive-tv-show-enjoyment-on-apple-vision-pro-blending-joy-strangeness-and-fatigue-insights-from-zdnet-reader/"><u>Immersive TV Show Enjoyment on Apple Vision Pro: Blending Joy, Strangeness, and Fatigue | Insights From ZDNET Reader</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/leading-6-essential-free-applications-for-effective-data-retrieval-and-recovery/"><u>Leading 6 Essential Free Applications for Effective Data Retrieval and Recovery</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-the-game-a-comprehensive-guide-to-playing-top-rated-wars-titles-on-your-computer/"><u>Mastering the Game: A Comprehensive Guide to Playing Top-Rated Wars Titles on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-detroit-become-human-a-thrilling-interactive-experience-for-pc-gamers/"><u>Navigate 'Detroit: Become Human' - A Thrilling Interactive Experience for PC Gamers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/off-line-disconnecting-discord-servers/"><u>Off-Line Disconnecting Discord Servers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030378765-pc-dvd/"><u>PCへ移行して編集する: DVDビデオ素材焼き付けからの導入法</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-accessing-and-transferring-your-iphones-voice-memo-files/"><u>Step-by-Step Guide: Accessing and Transferring Your iPhone's Voice Memo Files</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unveiling-the-truth-is-the-5th-billion-a-deceptive-google-ad-ploy-and-steps-for-removal/"><u>Unveiling the Truth: Is the '5Th Billion' A Deceptive Google Ad Ploy and Steps for Removal</u></a></li>
 </ul></div>
 
