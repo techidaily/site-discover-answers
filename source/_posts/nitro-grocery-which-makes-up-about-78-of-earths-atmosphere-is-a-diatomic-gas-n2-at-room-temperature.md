@@ -1,7 +1,7 @@
 ---
 title: Nitro Grocery, Which Makes up About 78%% of Earth's Atmosphere, Is a Diatomic Gas (N2) at Room Temperature.
-date: 2024-10-02T16:35:17.812Z
-updated: 2024-10-08T16:23:33.727Z
+date: 2024-10-10T03:48:10.693Z
+updated: 2024-10-14T03:11:55.435Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg
@@ -20,22 +20,15 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Read Kindle eBooks on Windows 8
 
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
 
@@ -52,10 +45,10 @@ Get the Kindle app running on windows 8\. Using your Amazon Account to register 
 After you register the Kindle app, all the Kindle books you purchased under your account will be synced automatically. The kindle books will be listed for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Read EPUB & PDF eBooks on Windows 8 
@@ -65,6 +58,13 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 #### **1\. Metro Reader to Read DRM-Free EPUB on Windows 8** 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
@@ -110,10 +110,10 @@ Related Articles
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -179,15 +179,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-12-best-sites-for-downloading-yt-template-videos/"><u>[New] 12 Best Sites for Downloading YT Template Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-on-youtube-streaming-made-easy-step-by-step-for-2024/"><u>[New] Google Meet on YouTube Streaming Made Easy, Step by Step for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/a-step-by-step-guide-buying-and-enjoying-googles-audiobook-collection/"><u>A Step-by-Step Guide: Buying & Enjoying Google's Audiobook Collection</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/backup-strategies-for-securing-your-audible-book-collection/"><u>Backup Strategies for Securing Your Audible Book Collection</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/collaborative-listening-easily-distributing-your-audible-library-to-pals/"><u>Collaborative Listening: Easily Distributing Your Audible Library to Pals</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-lire-et-acceder-facilement-a-ses-ebooks-calibre-sur-un-ipad-ou-dautres-appareils/"><u>Comment Lire Et Accéder Facilement À Ses eBooks Calibre Sur Un iPad Ou D'autres Appareils</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 when Phone is Broken?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>In 2024, Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-making-a-channels-story-visible-in-snippets/"><u>[New] 2024 Approved Making a Channel's Story Visible in Snippets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rewind-and-play-instagrams-backwards-videos-unveiled/"><u>[New] Rewind and Play Instagram's Backwards Videos Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts-for-2024/"><u>[Updated] Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-honor-90-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Honor 90 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/access-premium-quality-video-editing-software-free-version-for-wmm-users/"><u>Access Premium-Quality Video Editing Software - Free Version for WMM Users</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/budget-friendly-tips-on-changing-heic-photos-into-jpg-without-costs/"><u>Budget-Friendly Tips on Changing HEIC Photos Into JPG Without Costs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube-for-2024/"><u>Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-uncover-hubs-sites-that-connect-you-with-youtube-branding-deals/"><u>In 2024, Uncover Hubs Sites That Connect You with YouTube Branding Deals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mac-users-choice-superior-slideshow-design-tool/"><u>Mac Users' Choice: Superior Slideshow Design Tool</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/master-the-art-of-protective-online-navigation-your-definitive-guide-to-cyber-safety-with-malwarefox/"><u>Master the Art of Protective Online Navigation – Your Definitive Guide to Cyber Safety with MalwareFox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/overcome-chromes-aw-snap-error-during-web-browsing-safely-using-malwarefox-solutions/"><u>Overcome Chrome's 'Aw Snap!' Error During Web Browsing Safely Using MalwareFox Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/thumbnail-transformation-stunning-visuals-for-2024/"><u>Thumbnail Transformation Stunning Visuals for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-tips-for-achieving-pure-white-backgrounds-on-your-iphone-screen/"><u>Top Tips for Achieving Pure White Backgrounds on Your iPhone Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-sony-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Sony FRP Bypass</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-android-phone-cache-what-it-means-and-why-malwarefox-matters/"><u>Understanding Android Phone Cache: What It Means and Why MalwareFox Matters</u></a></li>
 </ul></div>
 

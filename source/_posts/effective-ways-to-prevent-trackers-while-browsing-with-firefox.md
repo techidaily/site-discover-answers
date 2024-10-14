@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Prevent Trackers While Browsing with Firefox
-date: 2024-10-07T16:30:04.479Z
-updated: 2024-10-08T16:09:49.256Z
+date: 2024-10-12T17:53:12.928Z
+updated: 2024-10-14T06:52:06.315Z
 tags:
   - product
   - antivirus
@@ -36,22 +36,29 @@ Firefox started blocking content to protect the privacy of users. Several websit
 
 Click on the **Firefox Menu** and choose **Content Blocking**. If you don’t see the option meaning you haven’t updated the Firefox. This option is available after the Firefox 65 update.![Block Trackers in Firefox 1](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-1.jpg)Now select a mode according to your need.![Block Trackers in Firefox 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-2.jpg)The **Standard** and **Strict** mode are pre-configured. However, the **Custom** mode allows you to configure the settings a little bit more. You can block the tracker in either private windows or all windows. Also, there is four option to select in case of blocking the cookies – third-party trackers, cookies from unvisited websites, all third-party cookies, and all cookies.![Block Trackers in Firefox 3](https://www.malwarefox.com/wp-content/uploads/2019/06/Block-Trackers-in-Firefox-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Changing the Block List
 
 Below the Trackers, there is an option **Change block list**, click on it.![Change block list](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list.jpg)It contains level 1 and level 2 list of trackers. The **Level 1 blocklist** allows some trackers so that the websites don’t break. However, the **Level 2 blocklist** blocks all the trackers, and some website may not load properly.![Change block list 2](https://www.malwarefox.com/wp-content/uploads/2019/06/Change-block-list-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Send Do Not Track Request
@@ -62,22 +69,16 @@ You can even send the **Do Not Track** request to the websites. Two options to c
 
 Now the content blocking on the Firefox is set. It will prevent the content as per the settings. Whenever Firefox blocks the content, you will see a **shield icon** before the URL of the website.![Content Blocking Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Icon.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Content Blocking for Trusted Websites?
 
 If you trust a website and doesn’t want to block the content, then you can disable the content blocking for particular sites. If certain websites that you use regularly are misbehaving or not loading correctly, then you disable the content blocking for that website also. Click on the **Shield icon** that represents the content blocking, then click on **Turn off Blocking for This Site**.![Adding Exception for Content Blocking](https://www.malwarefox.com/wp-content/uploads/2019/06/Adding-Exception-for-Content-Blocking.jpg)Now the website will reload, and the content blocking icon will have a **cross line** that represents all the content from this website is allowed.![Content Blocking Off Icon](https://www.malwarefox.com/wp-content/uploads/2019/06/Content-Blocking-Off-Icon.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
 
@@ -96,13 +97,6 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -129,24 +123,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-ancestral-aesthetics-art-without-restrictive-rights/"><u>[New] Ancestral Aesthetics Art Without Restrictive Rights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-designing-effective-video-previews-for-channels/"><u>[New] In 2024, Designing Effective Video Previews for Channels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-perfection-how-to-erase-background-noise-with-ease/"><u>2024 Approved Photo Perfection How to Erase Background Noise with Ease</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/focusing-on-fine-details-a-minecraft-journey/"><u>Focusing on Fine Details A Minecraft Journey</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-transitioning-kobo-digital-library-content-to-amazons-kindle-platform/"><u>Guide: Transitioning Kobo Digital Library Content to Amazon's Kindle Platform</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-download-and-installation-of-asus-touchpad-software-for-microsoft-windows-11-systems/"><u>Hassle-Free Download & Installation of ASUS Touchpad Software for Microsoft Windows 11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-ebooks-from-amazons-kindle-to-kobos-clara-hd/"><u>How to Migrate Your eBooks From Amazon's Kindle to Kobo's Clara HD</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/insights-into-end-user-reviews-and-thoughts-on-official-guides/"><u>Insights Into End-User Reviews and Thoughts on Official Guides</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/kindle-showdown-fire-edition-versus-paperwhite-choose-the-ultimate-reading-device/"><u>Kindle Showdown: Fire Edition Versus Paperwhite - Choose the Ultimate Reading Device!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/master-the-art-of-ebook-file-conversion-turn-your-drm-locked-amazon-kindle-azw-books-into-universal-epubs/"><u>Master the Art of eBook File Conversion: Turn Your DRM-Locked Amazon Kindle AZW Books Into Universal EPUBs</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-art-of-seo-boost-your-online-presence-with-advanced-activation-techniques/"><u>Mastering the Art of SEO: Boost Your Online Presence with Advanced Activation Techniques</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/nitro-grocery-which-makes-up-about-78-of-earths-atmosphere-is-a-diatomic-gas-n2-at-room-temperature/"><u>Nitro Grocery, Which Makes up About 78% of Earth's Atmosphere, Is a Diatomic Gas (N2) at Room Temperature.</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/rapid-audible-aax-files-transformation-ultra-fast-mp3-converter-with-60x-speed-boost/"><u>Rapid Audible AAX Files Transformation: Ultra-Fast MP3 Converter with 60X Speed Boost</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/razer-portal-deep-dive-is-it-the-perfect-wireless-companion-for-serious-gamers/"><u>Razer Portal Deep Dive: Is It the Perfect Wireless Companion for Serious Gamers?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/remove-protections-free-guide-on-how-to-take-off-drm-from-epub-books/"><u>Remove Protections: Free Guide on How to Take Off DRM From EPUB Books</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-a60-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel A60</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725288607685-winxdvd/"><u>효과적이면서도 WinXDVD과 조화를 이룰 경쟁 강우기의 방법</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ehind-the-scenes-what-does-an-unlisted-video-mean-in-2024/"><u>[New] Behind the Scenes What Does an 'Unlisted' Video Mean, In 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-15-must-have-openers-for-maximum-youtube-engagement/"><u>[Updated] In 2024, 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/5-best-youtube-channels-offering-excellent-substitutes-for-listento/"><u>5 Best YouTube Channels Offering Excellent Substitutes for Listento</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-revenue-in-gamer-channels-for-2024/"><u>Creating Revenue in Gamer Channels for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/enhancing-images-like-a-pro-techniques-for-effective-background-integration/"><u>Enhancing Images Like a Pro - Techniques for Effective Background Integration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-storm-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Storm 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-the-shift-navigating-posting-in-an-algorithm-world/"><u>In 2024, Understanding the Shift Navigating Posting in an Algorithm World</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-high-quality-sound-how-to-enjoy-lossless-music-on-your-android-phone-or-tablet/"><u>Mastering High-Quality Sound: How to Enjoy Lossless Music on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-an-impression-top-video-invitation-tools-for-ios-and-android/"><u>New 2024 Approved Make an Impression Top Video Invitation Tools for iOS and Android</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-tips-for-creating-personalized-iphone-ringtones-at-home/"><u>Simple Tips for Creating Personalized iPhone Ringtones at Home</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-siri-not-responding-in-ios-a-guide-to-overcoming-the-7-most-common-problems/"><u>Solve Siri Not Responding in iOS: A Guide to Overcoming the 7 Most Common Problems</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-free-mp3-download-sites-essential-resources-every-music-lover-needs/"><u>Top Free MP3 Download Sites: Essential Resources Every Music Lover Needs</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-rated-tools-for-adjusting-picture-backdrop-hue/"><u>Top Rated Tools for Adjusting Picture Backdrop Hue</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-strategies-for-defeating-the-mask-curse-in-the-pc-version-of-tomb-of-the-mask/"><u>Ultimate Strategies for Defeating the 'Mask Curse' In the PC Version of 'Tomb of the Mask'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-7-pioneering-ai-approaches/"><u>Unlocking Potential: 7 Pioneering AI Approaches</u></a></li>
 </ul></div>
 

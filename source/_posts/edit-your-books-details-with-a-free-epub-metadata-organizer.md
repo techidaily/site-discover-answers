@@ -1,7 +1,7 @@
 ---
 title: Edit Your Book's Details with a Free ePUB Metadata Organizer
-date: 2024-10-04T16:34:11.414Z
-updated: 2024-10-08T16:23:40.429Z
+date: 2024-10-09T01:27:35.659Z
+updated: 2024-10-13T19:30:27.037Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -42,10 +42,10 @@ Download Epubor Ultimate for Free
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1, Add Books to Epubor Ultimate
@@ -55,10 +55,10 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Edit ePub metadata information
@@ -69,16 +69,16 @@ To edit the ePub metadata, click the pencil icon to the right of the book title,
 
 ![edit-matadata](http://www.epubor.com/images/uppic/edit-metadata-with-Epubor.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
 You can see this book is the lack of ISBN, type the ISBN or leave it whatever you like. Perhaps you don't like the cover? Click **Replace** button to change or add a cover which you like.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Save the Metadata Information
 
@@ -97,10 +97,10 @@ Download Epubor
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -251,20 +251,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-cool-whatsapp-tricks-and-hidden-features-you-should-know-for-2024/"><u>[New] Cool Whatsapp Tricks and Hidden Features You Should Know for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choosing-excellence-the-premier-6-for-zoom-cams-for-2024/"><u>Choosing Excellence The Premier 6 for Zoom Cams for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-on-webhelper-virus-removal-techniques-as-recommended-by-malwarefox/"><u>Comprehensive Guide on Webhelper Virus Removal Techniques as Recommended by MalwareFox</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/explore-great-soundcloud-substitutes-uncover-leading-online-audio-hosting-services/"><u>Explore Great Soundcloud Substitutes: Uncover Leading Online Audio Hosting Services</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-securely-transfer-your-contacts-from-an-iphone-groggy-and-unable-to-answer-the-phone-and-im-worried-about-what-might-have-happened/"><u>How to Securely Transfer Your Contacts From an iPhone Groggy and Unable to Answer the Phone, and I'm Worried About What Might Have Happened.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immersive-tv-show-enjoyment-on-apple-vision-pro-blending-joy-strangeness-and-fatigue-insights-from-zdnet-reader/"><u>Immersive TV Show Enjoyment on Apple Vision Pro: Blending Joy, Strangeness, and Fatigue | Insights From ZDNET Reader</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/leading-6-essential-free-applications-for-effective-data-retrieval-and-recovery/"><u>Leading 6 Essential Free Applications for Effective Data Retrieval and Recovery</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-game-a-comprehensive-guide-to-playing-top-rated-wars-titles-on-your-computer/"><u>Mastering the Game: A Comprehensive Guide to Playing Top-Rated Wars Titles on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-detroit-become-human-a-thrilling-interactive-experience-for-pc-gamers/"><u>Navigate 'Detroit: Become Human' - A Thrilling Interactive Experience for PC Gamers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/off-line-disconnecting-discord-servers/"><u>Off-Line Disconnecting Discord Servers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030378765-pc-dvd/"><u>PCへ移行して編集する: DVDビデオ素材焼き付けからの導入法</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-accessing-and-transferring-your-iphones-voice-memo-files/"><u>Step-by-Step Guide: Accessing and Transferring Your iPhone's Voice Memo Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unveiling-the-truth-is-the-5th-billion-a-deceptive-google-ad-ploy-and-steps-for-removal/"><u>Unveiling the Truth: Is the '5Th Billion' A Deceptive Google Ad Ploy and Steps for Removal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-best-5-youtube-video-editor-alternatives/"><u>[New] 2024 Approved Best 5 YouTube Video Editor Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-freeze-your-pc-display-effortlessly/"><u>[New] Freeze Your PC Display Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-step-by-step-strategies-to-make-your-video-stand-out-with-effective-end-screens/"><u>[New] In 2024, Step-by-Step Strategies to Make Your Video Stand Out with Effective End Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates-for-2024/"><u>[Updated] Amplifying Your Brand The FameBit Approach to YouTube Affiliates for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/epubor-ultimate-software-crashes-during-encounter-with-kindle-drm-at-version-3054/"><u>Epubor Ultimate Software Crashes During Encounter with Kindle DRM at Version 3.0.5.4</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/essential-7-kobo-strategies-key-hacks-and-insights-every-user-should-master/"><u>Essential 7 Kobo Strategies: Key Hacks & Insights Every User Should Master</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/find-solutions-quickly-dive-into-qanda-section-starting-with-page-3/"><u>Find Solutions Quickly - Dive Into Q&A Section, Starting with Page 3</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-detaille-pour-retirer-le-drm-sur-les-livres-numeriques-en-pdf-ou-epub-avec-adobe-systems/"><u>Guide Détaillé Pour Retirer Le DRM Sur Les Livres Numériques en PDF Ou EPUB Avec Adobe Systems</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-transitioning-kobo-digital-library-content-to-amazons-kindle-platform/"><u>Guide: Transitioning Kobo Digital Library Content to Amazon's Kindle Platform</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-ebooks-from-amazons-kindle-to-kobos-clara-hd/"><u>How to Migrate Your eBooks From Amazon's Kindle to Kobo's Clara HD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Magic Vs 2</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-google-pixel-7a-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Google Pixel 7a</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/insights-into-end-user-reviews-and-thoughts-on-official-guides/"><u>Insights Into End-User Reviews and Thoughts on Official Guides</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/kindle-showdown-fire-edition-versus-paperwhite-choose-the-ultimate-reading-device/"><u>Kindle Showdown: Fire Edition Versus Paperwhite - Choose the Ultimate Reading Device!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/master-the-art-of-ebook-file-conversion-turn-your-drm-locked-amazon-kindle-azw-books-into-universal-epubs/"><u>Master the Art of eBook File Conversion: Turn Your DRM-Locked Amazon Kindle AZW Books Into Universal EPUBs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-the-black-screen-issue-in-star-wars-battlefront-ii/"><u>Troubleshooting Guide: Eliminating the Black Screen Issue in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-list-of-20-no-cost-video-format-changers-for-windows-users-windows-11-8-and-7/"><u>Ultimate List of 20 No-Cost Video Format Changers for Windows Users (Windows 11, 8, and 7)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-dual-nature-of-nixplay-w15a-frame-designs/"><u>Unveiling the Dual Nature of Nixplay W15A Frame Designs</u></a></li>
 </ul></div>
 
