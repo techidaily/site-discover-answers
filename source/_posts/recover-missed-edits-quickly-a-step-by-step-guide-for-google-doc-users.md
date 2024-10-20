@@ -1,7 +1,7 @@
 ---
 title: "Recover Missed Edits Quickly: A Step-by-Step Guide for Google Doc Users"
-date: 2024-10-08T01:49:38.038Z
-updated: 2024-10-13T16:58:32.008Z
+date: 2024-10-16T16:08:16.031Z
+updated: 2024-10-20T06:14:11.318Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e47132cccfb907573c9519566.jpg
@@ -36,10 +36,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -92,32 +92,26 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
@@ -131,20 +125,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -162,15 +142,22 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -203,6 +190,13 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -218,20 +212,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-5-easy-free-methods-to-master-youtube-video-frames/"><u>[New] 5 Easy, Free Methods to Master YouTube Video Frames</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exclusive-selection-of-the-top-4k-capture-apps/"><u>[Updated] 2024 Approved Exclusive Selection of the Top 4K Capture Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-your-gaming-diary-overwatch-video-documentation/"><u>[Updated] Streamlining Your Gaming Diary Overwatch Video Documentation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>[Updated] The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-send-calibre-formatted-books-to-your-kindle-via-wifi/"><u>How to Send Calibre-Formatted Books to Your Kindle via WiFi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-magic-v2-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor Magic V2? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>In 2024, Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 6s</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/is-it-possible-to-transfer-epub-books-to-your-kindle-using-the-send-to-kindle-feature/"><u>Is It Possible to Transfer EPUB Books to Your Kindle Using the Send to Kindle Feature?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/limited-time-test-edition-try-first-purchase-later/"><u>Limited-Time Test Edition: Try First, Purchase Later</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-kindle-expert-strategies-to-enhance-your-reading-experience/"><u>Mastering the Kindle: Expert Strategies to Enhance Your Reading Experience</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/must-know-top-12-tips-and-shortcuts-for-maximizing-your-kindle-fire-experience/"><u>Must-Know Top 12 Tips and Shortcuts for Maximizing Your Kindle Fire Experience</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-accessing-and-reading-barnes-and-noble-ebooks-on-your-ipad/"><u>Step-by-Step Guide: Accessing and Reading Barnes & Noble eBooks on Your iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-iphones-depth-first-recovery-dfu-mode-and-its-uses/"><u>Unveiling iPhone's Depth-First Recovery (DFU) Mode and Its Uses</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pros-choices-top-4-fullscreen-recording-software-for-pcmac-for-2024/"><u>[New] Pros' Choices Top 4 Fullscreen Recording Software for PC/Mac for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[New] Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/"><u>2024 Approved A Picture's Worth Top 12 Websites for Exquisite Stock Photography Downloads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341735072-approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-resoudre-les-problemes-de-non-reconnaissance-pour-le-samsung-ssd-860-evo-et-970-evo/"><u>Comment Résoudre Les Problèmes De Non-Reconnaissance Pour Le Samsung SSD 860 EVO Et 970 EVO</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 14/iPad? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-effective-are-new-antivirus-programs-in-eliminating-pre-existing-computer-infections/"><u>How Effective Are New Antivirus Programs in Eliminating Pre-Existing Computer Infections?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-newest-drivers-for-tp-links-ub400-bluetooth-usb-stick-a-step-by-step-guide/"><u>Installing the Newest Drivers for TP-Link's UB400 Bluetooth USB Stick – A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/is-your-usb-contents-at-risk-when-you-format-it-expert-insights-and-tips/"><u>Is Your USB Contents at Risk When You Format It? Expert Insights and Tips</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/trois-facons-efficaces-de-sauvegarder-une-partition-disque-sous-forme-dimage/"><u>Trois Façons Efficaces De Sauvegarder Une Partition Disque Sous Forme D'image</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/vs-code/"><u>どうやってVS Code環境下で消失したファイルを再構築するか？</u></a></li>
 </ul></div>
 

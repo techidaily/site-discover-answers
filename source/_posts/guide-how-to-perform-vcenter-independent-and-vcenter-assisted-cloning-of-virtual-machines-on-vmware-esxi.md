@@ -1,7 +1,7 @@
 ---
 title: "Guide: How to Perform vCenter-Independent and vCenter-Assisted Cloning of Virtual Machines on VMware ESXi"
-date: 2024-10-11T07:29:36.608Z
-updated: 2024-10-14T06:03:42.263Z
+date: 2024-10-17T04:54:08.280Z
+updated: 2024-10-19T16:06:00.263Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0d3eeb6c66835e6a03fad9ac.jpg
@@ -42,20 +42,27 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## About winload.efi file
 
@@ -72,6 +79,13 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **3\. Partition Modifications**: Incorrectly modifying disk partitions or using third-party tools to update antivirus software can corrupt the system's boot process, causing the winload.efi error.  
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
 
@@ -106,10 +120,10 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -142,13 +156,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -178,6 +185,13 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -215,13 +229,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -238,21 +245,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -269,13 +269,6 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -305,13 +298,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -329,22 +329,18 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-melodies-that-matter-instagram-music-guide/"><u>[New] In 2024, Melodies that Matter Instagram Music Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-leveraging-pip-for-multitasking-in-edge-browser-for-2024/"><u>[New] Leveraging PIP for Multitasking in Edge Browser for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-enter-the-tiktok-live-arena-procedures-for-participation/"><u>[Updated] Enter the TikTok Live Arena Procedures for Participation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-how-asmr-can-boost-your-health-and-happiness/"><u>2024 Approved How ASMR Can Boost Your Health & Happiness</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-12-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 Pro Max When Its Locked Within Seconds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/c-vs-d-key-differences-in-windows-disk-drives/"><u>C vs D: Key Differences in Windows Disk Drives</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-facebook-search-efficiency-101/"><u>In 2024, Optimizing Facebook Search Efficiency 101</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/kindle-showdown-fire-edition-versus-paperwhite-choose-the-ultimate-reading-device/"><u>Kindle Showdown: Fire Edition Versus Paperwhite - Choose the Ultimate Reading Device!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/master-the-art-of-ebook-file-conversion-turn-your-drm-locked-amazon-kindle-azw-books-into-universal-epubs/"><u>Master the Art of eBook File Conversion: Turn Your DRM-Locked Amazon Kindle AZW Books Into Universal EPUBs</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-art-of-seo-boost-your-online-presence-with-advanced-activation-techniques/"><u>Mastering the Art of SEO: Boost Your Online Presence with Advanced Activation Techniques</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/nitro-grocery-which-makes-up-about-78-of-earths-atmosphere-is-a-diatomic-gas-n2-at-room-temperature/"><u>Nitro Grocery, Which Makes up About 78% of Earth's Atmosphere, Is a Diatomic Gas (N2) at Room Temperature.</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/rapid-audible-aax-files-transformation-ultra-fast-mp3-converter-with-60x-speed-boost/"><u>Rapid Audible AAX Files Transformation: Ultra-Fast MP3 Converter with 60X Speed Boost</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/remove-protections-free-guide-on-how-to-take-off-drm-from-epub-books/"><u>Remove Protections: Free Guide on How to Take Off DRM From EPUB Books</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/sichere-entschlusselung-von-drm-geschutzten-amazon-kindle-buchern-im-azw-dateityp/"><u>Sichere Entschlüsselung Von DRM-Geschützten Amazon Kindle Büchern Im AZW Dateityp</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-restoring-your-kindle-or-kindle-fire-device/"><u>Step-by-Step Guide: Restoring Your Kindle or Kindle Fire Device</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/your-key-to-effortless-igtv-media-downloads-for-2024/"><u>Your Key to Effortless IGTV Media Downloads for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>2024 Approved Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-legal-limits-of-capturing-youtube-video-footage/"><u>2024 Approved The Legal Limits of Capturing YouTube Video Footage</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/panasonic-avchd-dvd-sd/"><u>免費回復 Panasonic AVCHD DVD格式影片 - 原始SD卡文件</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-recuperer-des-donnees-manquantes-ou-effacees-dans-windows/"><u>Comment Récupérer Des Données Manquantes Ou Effacées Dans Windows #</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-coding-game-on-a-budget-tapping-into-the-power-of-gpt-4-via-copilots-free-toolkit/"><u>Elevate Your Coding Game on a Budget: Tapping Into the Power of GPT-4 via Copilot's Free Toolkit</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guia-completo-sincronizacao-gratuita-de-arquivos-com-a-ferramenta-de-backup-do-aomei/"><u>Guia Completo: Sincronização Gratuita De Arquivos Com a Ferramenta De Backup Do AOMEI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-m3-macbook-pro-updates-launch-date-specifications-pricing-info/"><u>Latest M3 MacBook Pro Updates: Launch Date, Specifications, Pricing Info</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-paper-feeder-malfunction/"><u>Overcome Paper Feeder Malfunction</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/rejuvenate-your-pc-unlock-the-secrets-of-a-hard-system-restore/"><u>Rejuvenate Your PC: Unlock the Secrets of a Hard System Restore</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/swift-remedies-for-iphones-14-and-15-that-cant-complete-data-transfer-process/"><u>Swift Remedies for iPhones 14 and 15 That Can't Complete Data Transfer Process</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-battle-apple-watch-s9-vs-fitbit-charge-6-which-smartwatch-triumphs/"><u>The Ultimate Battle – Apple Watch S9 vs Fitbit Charge 6: Which Smartwatch Triumphs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-the-basics-of-transfer-learning-explained/"><u>Understanding Artificial Intelligence: The Basics of Transfer Learning Explained</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/understanding-the-disparities-youtube-versus-dailymotion/"><u>Understanding the Disparities YouTube Versus Dailymotion</u></a></li>
 </ul></div>
 

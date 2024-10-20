@@ -1,7 +1,7 @@
 ---
 title: "Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?"
-date: 2024-10-10T20:25:36.408Z
-updated: 2024-10-14T07:48:10.346Z
+date: 2024-10-19T07:11:06.733Z
+updated: 2024-10-20T01:23:32.817Z
 tags:
   - product
   - antivirus
@@ -47,6 +47,13 @@ When a security program quarantines a questionable file, a virus, or a malicious
 Essentially, the file still exists. The security program forcibly stops its functions. Moreover, it also removes all the file’s traces from its original location.  
 Think of quarantining a sick person. They are normally in a different location away from the rest of the population to control the infection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why Quarantine?
 
 Understanding the reason behind the quarantine method needs a little bit of insight as to how a virus operates.
@@ -62,10 +69,10 @@ What if it deletes an essential system file? What if it deletes an important fil
 Another reason files are put into quarantine are false alarms. Some legitimate and safe files may carry a signature similar to a virus or a malware. Deleting these files may render its parent program to stop working properly. Moreover, some security programs may identify “threats” in another security program. That is why you should not install two antivirus applications on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Quarantine vs Deleting
@@ -84,17 +91,17 @@ It is easy to remedy false alarms by teaching the security programs to always ig
 
 It is important to keep your security program updated to reduce false alarms, easily identify threats, and quarantine questionable files. Virus and malware in quarantine are perfectly harmless. They cannot run and well-hidden. Only delete if you are sure that the files are infected and all applications in your system are running without any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 thoughts on “Why Does Antivirus Quarantine Instead of Deleting?”
 
 1. ![](https://secure.gravatar.com/avatar/b1c9dc97877b8abded69d855c9e630f5?s=50&d=mm&r=g)  
 RogerH  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [July 12, 2019 at 2:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 How do I tell Malwarewe NOT to quarantine a program in the future. When I restore the qwuarantined program it gets put back in there as soon as I try to open it. I am on trial run of your system but if I can’t run my necessary program, will not go ahead with a purcvhase after the trial period ends?  
@@ -104,22 +111,15 @@ Thanks
    Shawn Abraham  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    [July 25, 2019 at 12:40 pm](https://tools.techidaily.com/malwarefox/products/)  
    You must add the program in Whitelist of the program to avoid being detected / quarantined in future.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -146,22 +146,15 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-crafting-viral-video-content-on-youtube/"><u>2024 Approved The Art of Crafting Viral Video Content on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-selecting-the-ideal-livestream-service/"><u>2024 Approved The Art of Selecting the Ideal Livestream Service</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleashing-fb-video-potential-with-speedy-insights/"><u>2024 Approved Unleashing FB Video Potential with Speedy Insights</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/5-best-youtube-channels-offering-excellent-substitutes-for-listento/"><u>5 Best YouTube Channels Offering Excellent Substitutes for Listento</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/ai-driven-document-automation-transformations-within-the-banking-sector/"><u>AI-Driven Document Automation Transformations Within the Banking Sector</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elite-screen-recording-app-for-no-popups-for-2024/"><u>Elite Screen Recording App for No Popups for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/enhancing-images-like-a-pro-techniques-for-effective-background-integration/"><u>Enhancing Images Like a Pro - Techniques for Effective Background Integration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>In 2024, From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-high-quality-sound-how-to-enjoy-lossless-music-on-your-android-phone-or-tablet/"><u>Mastering High-Quality Sound: How to Enjoy Lossless Music on Your Android Phone or Tablet</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/migracion-de-datos-entre-windows-10-y-11-tres-tecnicas-faciles-para-transferir-archivos-eficientemente/"><u>Migración De Datos Entre Windows 10 Y 11: Tres Técnicas Fáciles Para Transferir Archivos Eficientemente</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-free-mp3-download-sites-essential-resources-every-music-lover-needs/"><u>Top Free MP3 Download Sites: Essential Resources Every Music Lover Needs</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-rated-image-quality-booster-tools-for-stunning-photo-upgrades/"><u>Top Rated Image Quality Booster Tools for Stunning Photo Upgrades</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-rated-tools-for-adjusting-picture-backdrop-hue/"><u>Top Rated Tools for Adjusting Picture Backdrop Hue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-rainbow-six-sieges-nonfunctional-voice-chat-feature-patch/"><u>Troubleshooting Guide for Rainbow Six Siege's Nonfunctional Voice Chat Feature Patch</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-step-by-step-guide-effortlessly-applying-tiktok-filters-and-effects-with-a-single-click-updated-for-2nt/"><u>Ultimate Step-by-Step Guide: Effortlessly Applying TikTok Filters and Effects with a Single Click - Updated for 2N't</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-strategies-for-defeating-the-mask-curse-in-the-pc-version-of-tomb-of-the-mask/"><u>Ultimate Strategies for Defeating the 'Mask Curse' In the PC Version of 'Tomb of the Mask'</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-spotifys-potential-for-brands-a-comprehensive-guide-for-2024/"><u>Unlocking Spotify's Potential for Brands A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-boosting-in-game-charisma-pubg-voice-techniques/"><u>[Updated] 2024 Approved Boosting In-Game Charisma PUBG Voice Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>[Updated] Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-twister-timber-titmice/"><u>[Updated] Twister Timber Titmice</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-peak-predictor-unveil-top-8-rankings/"><u>2024 Approved Premium Peak Predictor Unveil Top 8 Rankings</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/come-sincronizza-la-tua-cartella-di-rete-con-microsoft-onedrive-su-windows/"><u>Come Sincronizza La Tua Cartella Di Rete Con Microsoft OneDrive Su Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457995654-depth-effect-malfunction-in-ios-16-fix-it-fast-with-these-7-essential-tips/"><u>Depth Effect Malfunction in iOS 16? Fix It Fast with These 7 Essential Tips!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/expertise-unlocked-the-definitive-tutorial-on-using-toshibas-recovery-disk-creator/"><u>Expertise Unlocked: The Definitive Tutorial on Using Toshiba's Recovery Disk Creator</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m3-or-m2-a-comprehensive-review-of-apples-macbook-air-models-to-help-you-make-an-informed-buying-decision/"><u>M3 or M2? A Comprehensive Review of Apple's MacBook Air Models to Help You Make an Informed Buying Decision!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/proteja-seus-dados-com-backup-profissional-de-software-em-sistemas-windows-ideal-para-versoes-10-8-e-nao/"><u>Proteja Seus Dados Com Backup Profissional De Software Em Sistemas Windows – Ideal Para Versões 10, 8 E Não!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/software-libre-pour-la-configuration-et-loptimisation-des-disques-ssd-hdd-sous-windows-editions-aller-retour-en-11-10-8-ou-7/"><u>Software Libre Pour La Configuration Et L'Optimisation Des Disques SSD / HDD Sous Windows - Editions Aller-Retour en 11, 10, 8 Ou 7</u></a></li>
 </ul></div>
 

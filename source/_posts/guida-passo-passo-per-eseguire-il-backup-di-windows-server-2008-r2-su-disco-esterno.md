@@ -1,7 +1,7 @@
 ---
 title: Guida Passo-Passo per Eseguire Il Backup Di Windows Server 2008 R2 Su Disco Esterno
-date: 2024-10-11T09:56:15.986Z
-updated: 2024-10-14T00:43:16.661Z
+date: 2024-10-16T22:19:17.315Z
+updated: 2024-10-19T23:49:16.641Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b77526f090d451f34c7ae817.jpg
@@ -43,11 +43,25 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -66,28 +80,15 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -183,6 +184,13 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -203,13 +211,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -224,6 +225,13 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -231,13 +239,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -261,13 +262,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -279,10 +273,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -300,24 +294,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nraveling-youtubes-highest-peaks-post-vidcon/"><u>[New] Unraveling Youtube's Highest Peaks (Post-VidCon)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-discovering-charismatic-faces-on-your-snaps/"><u>[Updated] Discovering Charismatic Faces on Your Snaps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-enhancing-ps3-playthroughs-a-guide-to-effective-capture/"><u>2024 Approved Enhancing PS3 Playthroughs A Guide to Effective Capture</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-tier-gaming-live-broadcast-tools/"><u>2024 Approved Top-Tier Gaming Live Broadcast Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerate-your-typing-experience-effective-fixes-for-lagging-keys-in-the-latest-windows-operating-system/"><u>Accelerate Your Typing Experience: Effective Fixes for Lagging Keys in the Latest Windows Operating System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-ai-for-professional-photography/"><u>Advanced AI for Professional Photography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-smart-tvs-understanding-how-they-connect-online/"><u>Exploring the World of Smart TVs: Understanding How They Connect Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-solve-the-apple-watch-lte-connectivity-problem-quickly-and-easily/"><u>How to Solve the 'Apple Watch LTE Connectivity' Problem Quickly and Easily</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-from-startup-to-standout-10-steps-to-thriving-in-the-world-of-smm/"><u>In 2024, From Startup to Standout 10 Steps to Thriving in the World of SMM</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-narzo-60-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme Narzo 60 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/take-advantage-of-a-risk-free-test-experience-our-products-with-free-trials/"><u>Take Advantage of a Risk-Free Test: Experience Our Products with Free Trials</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ins-and-outs-of-audible-content-a-comprehensive-overview/"><u>The Ins and Outs of Audible Content: A Comprehensive Overview</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-4-excellent-ebook-software-choices-for-apple-devices/"><u>Top 4 Excellent eBook Software Choices for Apple Devices</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-drm-free-conversion-solutions-for-your-amazon-kindle-azw-files/"><u>Top DRM-Free Conversion Solutions for Your Amazon Kindle AZW Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-apps-what-to-do-when-your-application-fails-to-reply/"><u>Troubleshooting Apps: What to Do When Your Application Fails to Reply</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-understanding-why-kindle-doesnt-display-my-localized-textbooks/"><u>Troubleshooting: Understanding Why Kindle Doesn't Display My Localized Textbooks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-guide-to-choosing-the-right-ebook-organizer-for-effortless-reading-pleasure/"><u>Ultimate Guide to Choosing the Right eBook Organizer for Effortless Reading Pleasure</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-the-terms-and-conditions-a-comprehensive-guide-to-end-user-licensing/"><u>Understanding the Terms and Conditions: A Comprehensive Guide to End User Licensing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unveiling-the-elite-circle-amazons-top-100-selling-authors-on-kindle-worth-checking-out/"><u>Unveiling the Elite Circle: Amazon's Top 100 Selling Authors on Kindle Worth Checking Out</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>[Updated] In 2024, A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mediacutmaster-review-in-depth-evaluation/"><u>[Updated] MediaCutMaster Review – In-Depth Evaluation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[Updated] Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-infinix-smart-8-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Infinix Smart 8 Phone When You Forget the Password</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728486936336-windows-11-usb/"><u>如何为不同计算机设置 Windows 11修复工具 - USB下载方法</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows8/"><u>选用本篇教程，了解Windows计算机上8项优秀免费影片修复软件</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/aomei-cloud/"><u>AOMEI Cloudで保存したバックアップから情報を回復する方法</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-pouvez-vous-restaurer-les-fichiers-dun-hdd-defectueux-et-incomprehensible/"><u>Comment Pouvez-Vous Restaurer Les Fichiers D’un HDD Défectueux Et Incompréhensible ?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comprehensive-steps-to-recover-a-damaged-microsoft-project-document/"><u>Comprehensive Steps to Recover a Damaged Microsoft Project Document</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cut-to-the-chase-newest-method-for-idevice-screen-recordings-2023-for-2024/"><u>Cut-to-the-Chase Newest Method for iDevice Screen Recordings, 2023 for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/facilmente-fai-il-backup-del-tuo-outlook-con-dropbox-in-un-clic/"><u>Facilmente Fai Il Backup Del Tuo Outlook Con Dropbox in Un Clic!</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-mini-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 mini Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-asus-rog-phone-7-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Asus ROG Phone 7 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-insights-from-toms-technology-experts/"><u>Mastering Hardware Choices - Insights From Tom's Technology Experts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-resolving-vcenter-server-7-update-errors/"><u>Troubleshooting Guide: Resolving vCenter Server 7 Update Errors</u></a></li>
 </ul></div>
 
