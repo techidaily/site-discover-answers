@@ -1,7 +1,7 @@
 ---
 title: "Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?"
-date: 2024-10-19T07:11:06.733Z
-updated: 2024-10-20T01:23:32.817Z
+date: 2024-10-20T19:56:53.094Z
+updated: 2024-10-26T03:35:54.856Z
 tags:
   - product
   - antivirus
@@ -48,10 +48,10 @@ Essentially, the file still exists. The security program forcibly stops its func
 Think of quarantining a sick person. They are normally in a different location away from the rest of the population to control the infection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why Quarantine?
@@ -69,10 +69,10 @@ What if it deletes an essential system file? What if it deletes an important fil
 Another reason files are put into quarantine are false alarms. Some legitimate and safe files may carry a signature similar to a virus or a malware. Deleting these files may render its parent program to stop working properly. Moreover, some security programs may identify “threats” in another security program. That is why you should not install two antivirus applications on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Quarantine vs Deleting
@@ -92,10 +92,10 @@ It is easy to remedy false alarms by teaching the security programs to always ig
 It is important to keep your security program updated to reduce false alarms, easily identify threats, and quarantine questionable files. Virus and malware in quarantine are perfectly harmless. They cannot run and well-hidden. Only delete if you are sure that the files are infected and all applications in your system are running without any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 thoughts on “Why Does Antivirus Quarantine Instead of Deleting?”
@@ -103,19 +103,19 @@ It is important to keep your security program updated to reduce false alarms, ea
 1. ![](https://secure.gravatar.com/avatar/b1c9dc97877b8abded69d855c9e630f5?s=50&d=mm&r=g)  
 RogerH  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [July 12, 2019 at 2:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 How do I tell Malwarewe NOT to quarantine a program in the future. When I restore the qwuarantined program it gets put back in there as soon as I try to open it. I am on trial run of your system but if I can’t run my necessary program, will not go ahead with a purcvhase after the trial period ends?  
 Thanks  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/85929922e25d4bbc528a838420943841?s=50&d=mm&r=g)  
    Shawn Abraham  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [July 25, 2019 at 12:40 pm](https://tools.techidaily.com/malwarefox/products/)  
    You must add the program in Whitelist of the program to avoid being detected / quarantined in future.  
@@ -146,15 +146,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-boosting-in-game-charisma-pubg-voice-techniques/"><u>[Updated] 2024 Approved Boosting In-Game Charisma PUBG Voice Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>[Updated] Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-twister-timber-titmice/"><u>[Updated] Twister Timber Titmice</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-peak-predictor-unveil-top-8-rankings/"><u>2024 Approved Premium Peak Predictor Unveil Top 8 Rankings</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/come-sincronizza-la-tua-cartella-di-rete-con-microsoft-onedrive-su-windows/"><u>Come Sincronizza La Tua Cartella Di Rete Con Microsoft OneDrive Su Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457995654-depth-effect-malfunction-in-ios-16-fix-it-fast-with-these-7-essential-tips/"><u>Depth Effect Malfunction in iOS 16? Fix It Fast with These 7 Essential Tips!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/expertise-unlocked-the-definitive-tutorial-on-using-toshibas-recovery-disk-creator/"><u>Expertise Unlocked: The Definitive Tutorial on Using Toshiba's Recovery Disk Creator</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/m3-or-m2-a-comprehensive-review-of-apples-macbook-air-models-to-help-you-make-an-informed-buying-decision/"><u>M3 or M2? A Comprehensive Review of Apple's MacBook Air Models to Help You Make an Informed Buying Decision!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/proteja-seus-dados-com-backup-profissional-de-software-em-sistemas-windows-ideal-para-versoes-10-8-e-nao/"><u>Proteja Seus Dados Com Backup Profissional De Software Em Sistemas Windows – Ideal Para Versões 10, 8 E Não!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/software-libre-pour-la-configuration-et-loptimisation-des-disques-ssd-hdd-sous-windows-editions-aller-retour-en-11-10-8-ou-7/"><u>Software Libre Pour La Configuration Et L'Optimisation Des Disques SSD / HDD Sous Windows - Editions Aller-Retour en 11, 10, 8 Ou 7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pocketful-skies-affordable-large-file-allocator/"><u>2024 Approved Pocketful Skies - Affordable Large File Allocator</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/movavi-aacwav/"><u>免費線上改變格式：Movavi為 AAC/WAV 效果提供了如何這樣的轉換方法</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achieve-success-in-fat-to-fit-ultimate-tips-and-strategies-for-pc-gamers/"><u>Achieve Success in 'Fat to Fit': Ultimate Tips and Strategies for PC Gamers</u></a></li>
+<li><a href="https://article-files.techidaily.com/balancing-visual-elements-with-ideal-video-ratios/"><u>Balancing Visual Elements with Ideal Video Ratios</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/effective-techniques-for-successful-mxf-video-file-restoration-expert-advice/"><u>Effective Techniques for Successful MXF Video File Restoration - Expert Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-leap-easy-to-master-global-tongues-list/"><u>Learning Leap: Easy-to-Master Global Tongues List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-unleash-your-potential-with-manycam-top-virtual-camera-software/"><u>Live Streaming Mastery: Unleash Your Potential with ManyCam - Top Virtual Camera Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-knowledge-the-toms-hardware-way/"><u>Mastering Hardware Knowledge - The Tom's Hardware Way</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/menghindari-kecelupan-file-usb-dengan-teknik-restore-langkah-langkah-detailnya/"><u>Menghindari Kecelupan File USB Dengan Teknik Restore: Langkah-Langkah Detailnya!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/professionelle-strategien-zur-ruckgewinnung-geloschter-e-mails-auf-pc-festplatten/"><u>Professionelle Strategien Zur Rückgewinnung Gelöschter E-Mails Auf PC-Festplatten</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/tutorial-mudah-dan-lengkap-mendapatkan-file-terelakkan-pada-sd-guna-cmd/"><u>Tutorial Mudah Dan Lengkap: Mendapatkan File Terelakkan Pada SD Guna CMD</u></a></li>
 </ul></div>
 

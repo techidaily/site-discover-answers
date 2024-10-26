@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-10-16T01:22:16.407Z
-updated: 2024-10-19T16:25:09.720Z
+date: 2024-10-21T01:30:10.196Z
+updated: 2024-10-25T21:36:42.702Z
 tags:
   - product
   - antivirus
@@ -83,10 +83,10 @@ Or in other words, signature-based detection. As noted above, this is practicall
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Heuristics
@@ -99,22 +99,29 @@ A heuristic detection allows a scanner to detect viruses even when they are padd
 
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Sandbox detection
 
 This is a behavioral based detection technique that executes the programs in a virtual environment, as opposed to detecting its fingerprint at run time. Antivirus software that come with this type of detection capabilities execute programs in a separate, virtual environment, and log the actions it performs to determine whether the programs are malicious or not. If found safe, a given program is then executed in the real environment.
 
 As you can imagine, this technique is both heavy and slow, and its resource intensive nature means that it is rarely used in consumer antivirus solutions. End users may not always have the need for sandbox detection, but enterprises do, and antivirus solutions designed for corporate and network use offer this.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Data mining
 
 This is one of the latest approaches in malware detection that security vendors now provide with their antivirus and antimalware products. A series of features of files are extracted from files, and then data mining and machine learning algorithms are used to classify the behavior of a file and detect whether it has malicious intent or not. This is particularly helpful in detecting and defeating the newest forms of malware in the wild.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Types of scans
 
@@ -124,23 +131,9 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 [Why Does Antivirus Quarantine Instead of Deleting?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conventional disk scans
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Real time protection
 
@@ -148,20 +141,27 @@ Also known as memory-resident scanning or background guard, this type of scannin
 
 The price of this type of scanning is performance, but it offers increased protection, and more chances of catching malware before it does damage.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Smart scans
 
 These refer to an approach where an antivirus only scans selected files, that are more suspicious to be altered or infected. Smart scanning lowers the need of system resources, while protecting against the more common types of viruses, threats and risks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Startup scanning
 
 Antivirus software often come with a special program that is designed to run every time the PC is booted up. It does a quick scan of the boot sectors and critical system files, instead of a full disk scan that takes a long time to finish. This comes in particularly handy to catch boot sector viruses, before they get a chance to spread.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Detection rate
 
@@ -198,24 +198,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/mplify-viewership-with-these-top-10-youtube-reaction-strategies-for-2024/"><u>[New] Amplify Viewership with These Top 10 YouTube Reaction Strategies for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-preserving-your-online-reputation-amidst-faux-endorsements/"><u>[New] Preserving Your Online Reputation Amidst Faux Endorsements</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-windows-11-expert-strategies-for-recording-high-quality-sounds/"><u>[New] Windows 11 Expert Strategies for Recording High-Quality Sounds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-strategic-placements-for-elevating-youtube-videos/"><u>[Updated] In 2024, Strategic Placements for Elevating YouTube Videos</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/44cm44oh44o844k5b6p5ywd44gr5asx5pwx44gx44gf5ac05zci44cb5lplusd5a2y5ywi44gm44kp44gl44kj44gq44ge5aplusplus562w44cn/"><u>「データ復元に失敗した場合、保存先がわからない対策」</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/5lit5lia5b6u5lplush5rai5ogv6yen572u56il5bqp5o6o6i2q5yix6kgo/"><u>专业微信消息重置程序推荐列表</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-retrouver-des-fichiers-jadis-effaces-sur-une-cle-usb-sans-utilitaires-speciaux/"><u>Comment Retrouver Des Fichiers Jadis Effacés Sur Une Clé USB Sans Utilitaires Spéciaux</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-permanently-remove-a-desktop-icon-a-six-step-guide/"><u>How to Permanently Remove a Desktop Icon: A Six-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lgs-visionary-pursuit-deep-insights-into-the-31mu97-b-monitor-review-for-2024/"><u>LG's Visionary Pursuit Deep Insights Into the 31MU97-B Monitor Review for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-macro-and-microphotography-techniques-for-2024/"><u>Mastering iPhone Macro & Microphotography Techniques for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-hacks-for-a-smooth-run-of-zombie-army-4-dead-war/"><u>PC Gaming Hacks for a Smooth Run of Zombie Army 4: Dead War</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pemulihangatkan-tempel-bocoria-windows-10-langkah-langkah-utama-dan-efektifnya/"><u>Pemulihangatkan Tempel Bocoria Windows 10: Langkah-Langkah Utama Dan Efektifnya</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/professionelle-tipps-fur-eine-erfolgreiche-bare-metal-wiederherstellung-in-windows-server-umgebungen/"><u>Professionelle Tipps Für Eine Erfolgreiche Bare Metal Wiederherstellung in Windows Server Umgebungen</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/reversing-your-pcs-os-securely-transitioning-from-windows-11-to-10/"><u>Reversing Your PC's OS: Securely Transitioning From Windows 11 to 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/runners-companion-garmin-forerunner/"><u>Runner's Companion: Garmin Forerunner</u></a></li>
-<li><a href="https://tools.techidaily.com/ultrafxvps/products/"><u>Ultrafxvps's Products</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-3-quick-ways-to-convert-audio-to-text-for-freestep-by-step-guide-for-2024/"><u>Updated 3 Quick Ways to Convert Audio to Text for FreeStep-by-Step Guide for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728475914041-windows-11/"><u>Windows 11 操作：成功将现有系统转移到新硬件</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/upacara-aathharata-malyavana-savae-jatal-thavao-ka-bhal-kara/"><u>उपचार-आधारित मूल्यवान सेवाएं - जटिल दवाओं को बहाल करें</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>[Updated] 2024 Approved Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-filmoras-creative-certification-protocol/"><u>[Updated] In 2024, Understanding Filmora's Creative Certification Protocol</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285347187-dvd/"><u>録画データ永続化：DVD保存期間と最大耐久年数のガイド</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/apple-smartphones-iphone-13-bis-7-inzahlungnahme-anbieten-saubern-sie-ihren-mobilen-lebensraum-jetzt/"><u>Apple-Smartphones iPhone 13 Bis 7 Inzahlungnahme Anbieten - Säubern Sie Ihren Mobilen Lebensraum Jetzt!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-step-by-step-guide-how-to-clone-your-hard-drive-on-windows-and-mac/"><u>Easy Step-by-Step Guide: How to Clone Your Hard Drive on Windows and Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tricks-to-master-image-reverse-searches-on-your-android-phone/"><u>Easy Tricks to Master Image Reverse Searches on Your Android Phone!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2016</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-premium-after-effects-text-enhancements/"><u>In 2024, Premium After Effects Text Enhancements</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/meilleures-techniques-de-protection-des-donnees-par-un-backup-efficace/"><u>Meilleures Techniques De Protection Des Données Par Un Backup Efficace</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-free-music-making-software-the-top-10-picks/"><u>New Free Music Making Software The Top 10 Picks</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/sicheres-loschen-ihres-usb-sticks-mit-diesen-4-techniken-fur-windows-11-benutzer/"><u>Sicheres Löschen Ihres USB-Sticks Mit Diesen 4 Techniken Für Windows 11 Benutzer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-rangige-festplatte-kopierprogramme-fur-windows-11-10-8-und-7-die-besten-cloning-losungen/"><u>Top-Rangige Festplatte Kopierprogramme Für Windows 11, 10, 8 Und 7 - Die Besten Cloning-Lösungen</u></a></li>
 </ul></div>
 
