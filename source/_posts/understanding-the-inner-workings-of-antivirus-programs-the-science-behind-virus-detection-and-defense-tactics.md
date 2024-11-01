@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-10-21T01:30:10.196Z
-updated: 2024-10-25T21:36:42.702Z
+date: 2024-10-28T21:51:36.139Z
+updated: 2024-10-31T17:13:23.352Z
 tags:
   - product
   - antivirus
@@ -62,6 +62,13 @@ This approach is what helps protect against encrypted viruses, or viruses that a
 
 That’s the long and short of it, a basic overview of how this type of software works. But as noted above, these security solutions also come with a bunch more advanced detection capabilities and clean up techniques that help them protect against more advanced and stealthier threats.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How an antivirus detects infection?
 
 In an attempt to protect itself, modern malware threats employ several techniques to avoid detection and elimination. It is these self-preservation methods that antivirus programs need to guard against, in order to protect a system or a network. Malicious software can also mutate, making it difficult to create a signature. And worse yet, there is malware that also actively attacks antivirus software and personal firewalls to terminate their processes, and prevent their launch.
@@ -74,6 +81,19 @@ These are some really next generation technologies that are very well equipped a
 
 Though the approaches below are listed under individual headings, the distinctions between many of these are often blurred, as antivirus programs combine different techniques to actively protect against the different types of threats.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Virus definitions
 
 Or in other words, signature-based detection. As noted above, this is practically the first method traditional antivirus software employ to identify malware. The programs rely upon signatures to detect new malware. Provided the company has already analyzed and extracted a proper signature of the file that is then kept in a database. Threats are compared to this database, and devices are then protected in case the signatures match.
@@ -83,10 +103,10 @@ Or in other words, signature-based detection. As noted above, this is practicall
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Heuristics
@@ -99,13 +119,6 @@ A heuristic detection allows a scanner to detect viruses even when they are padd
 
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Sandbox detection
 
 This is a behavioral based detection technique that executes the programs in a virtual environment, as opposed to detecting its fingerprint at run time. Antivirus software that come with this type of detection capabilities execute programs in a separate, virtual environment, and log the actions it performs to determine whether the programs are malicious or not. If found safe, a given program is then executed in the real environment.
@@ -115,13 +128,6 @@ As you can imagine, this technique is both heavy and slow, and its resource inte
 ### Data mining
 
 This is one of the latest approaches in malware detection that security vendors now provide with their antivirus and antimalware products. A series of features of files are extracted from files, and then data mining and machine learning algorithms are used to classify the behavior of a file and detect whether it has malicious intent or not. This is particularly helpful in detecting and defeating the newest forms of malware in the wild.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Types of scans
 
@@ -142,26 +148,26 @@ Also known as memory-resident scanning or background guard, this type of scannin
 The price of this type of scanning is performance, but it offers increased protection, and more chances of catching malware before it does damage.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Smart scans
 
 These refer to an approach where an antivirus only scans selected files, that are more suspicious to be altered or infected. Smart scanning lowers the need of system resources, while protecting against the more common types of viruses, threats and risks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Startup scanning
 
 Antivirus software often come with a special program that is designed to run every time the PC is booted up. It does a quick scan of the boot sectors and critical system files, instead of a full disk scan that takes a long time to finish. This comes in particularly handy to catch boot sector viruses, before they get a chance to spread.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Detection rate
 
@@ -198,18 +204,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>[Updated] 2024 Approved Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-filmoras-creative-certification-protocol/"><u>[Updated] In 2024, Understanding Filmora's Creative Certification Protocol</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285347187-dvd/"><u>録画データ永続化：DVD保存期間と最大耐久年数のガイド</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/apple-smartphones-iphone-13-bis-7-inzahlungnahme-anbieten-saubern-sie-ihren-mobilen-lebensraum-jetzt/"><u>Apple-Smartphones iPhone 13 Bis 7 Inzahlungnahme Anbieten - Säubern Sie Ihren Mobilen Lebensraum Jetzt!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-step-by-step-guide-how-to-clone-your-hard-drive-on-windows-and-mac/"><u>Easy Step-by-Step Guide: How to Clone Your Hard Drive on Windows and Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tricks-to-master-image-reverse-searches-on-your-android-phone/"><u>Easy Tricks to Master Image Reverse Searches on Your Android Phone!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2016</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-premium-after-effects-text-enhancements/"><u>In 2024, Premium After Effects Text Enhancements</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/meilleures-techniques-de-protection-des-donnees-par-un-backup-efficace/"><u>Meilleures Techniques De Protection Des Données Par Un Backup Efficace</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-free-music-making-software-the-top-10-picks/"><u>New Free Music Making Software The Top 10 Picks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/sicheres-loschen-ihres-usb-sticks-mit-diesen-4-techniken-fur-windows-11-benutzer/"><u>Sicheres Löschen Ihres USB-Sticks Mit Diesen 4 Techniken Für Windows 11 Benutzer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-rangige-festplatte-kopierprogramme-fur-windows-11-10-8-und-7-die-besten-cloning-losungen/"><u>Top-Rangige Festplatte Kopierprogramme Für Windows 11, 10, 8 Und 7 - Die Besten Cloning-Lösungen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ice-cream-recording-tech-deep-dive-analysis/"><u>[New] 2024 Approved Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-ranked-pixel-perfection-appweb-software/"><u>[New] In 2024, Top-Ranked Pixel Perfection App/Web Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-comparing-splitcams-features-with-industry-leaders/"><u>2024 Approved Comparing SplitCam's Features with Industry Leaders</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guia-completo-para-fazer-o-backup-e-restauracao-de-dados-no-windows-10-etapas-detalhadas-do-clonagem-ao-resgate/"><u>Guia Completo Para Fazer O Backup E Restauração De Dados No Windows 10: Etapas Detalhadas Do Clonagem Ao Resgate</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-simple-et-pratique-pour-recuperer-un-fichier-txt-delete-par-accident-sur-votre-ordinateur-avec-windows/"><u>Guide Simple Et Pratique Pour Recuperer Un Fichier .txt Deleté Par Accident Sur Votre Ordinateur Avec Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-chromebook-2-review-ultra-portable-productivity/"><u>Samsung Galaxy Chromebook 2 Review: Ultra-Portable Productivity</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-einer-automatischen-backup-funktion/"><u>Schritt-Für-Schritt-Anleitung Zum Einrichten Einer Automatischen Backup-Funktion</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-on-retrieving-accidentally-deleted-rw2-file-formats/"><u>Step-by-Step Tutorial on Retrieving Accidentally Deleted RW2 File Formats</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/transferencia-musical-eficaz-como-mover-tu-repertorio-de-iphone-a-computadora-con-los-5-metodos-mas-efectivos/"><u>Transferencia Musical Eficaz: Cómo Mover Tu Repertorio De iPhone a Computadora Con Los 5 Métodos Más Efectivos</u></a></li>
 </ul></div>
 
