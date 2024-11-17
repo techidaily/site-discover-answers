@@ -1,7 +1,7 @@
 ---
 title: "Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?"
-date: 2024-11-05T19:12:33.889Z
-updated: 2024-11-06T18:05:30.837Z
+date: 2024-11-13T19:05:11.966Z
+updated: 2024-11-17T01:46:17.369Z
 tags:
   - product
   - antivirus
@@ -48,10 +48,10 @@ Essentially, the file still exists. The security program forcibly stops its func
 Think of quarantining a sick person. They are normally in a different location away from the rest of the population to control the infection.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why Quarantine?
@@ -80,16 +80,16 @@ Additionally, most modern viruses make their own files. Security programs can ea
 
 It is easy to remedy false alarms by teaching the security programs to always ignore certain files from legitimate applications. This will significantly reduce false alarm reports in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Thoughts
 
 It is important to keep your security program updated to reduce false alarms, easily identify threats, and quarantine questionable files. Virus and malware in quarantine are perfectly harmless. They cannot run and well-hidden. Only delete if you are sure that the files are infected and all applications in your system are running without any issues.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 thoughts on “Why Does Antivirus Quarantine Instead of Deleting?”
 
@@ -97,10 +97,10 @@ It is important to keep your security program updated to reduce false alarms, ea
 RogerH  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [July 12, 2019 at 2:21 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -111,10 +111,16 @@ Thanks
    Shawn Abraham  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    [July 25, 2019 at 12:40 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -146,19 +152,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enhance-facebook-visibility-uploading-panoramic-content-on-mobile/"><u>[Updated] In 2024, Enhance Facebook Visibility Uploading Panoramic Content on Mobile</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-techniques-for-storing-lol-battles-for-2024/"><u>[Updated] Top 5 Techniques for Storing LOL Battles for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-enhance-learning-on-the-go-podcast-tips-and-tricks/"><u>2024 Approved Enhance Learning on the Go Podcast Tips & Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>2024 Approved Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/complete-website-recovery-services/"><u>Complete Website Recovery Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/elite-firefox-video-recording-apps/"><u>Elite FireFox Video Recording Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-20-proplus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 20 Pro+ Face Lock?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/key-view-figures-for-earning-living-on-youtube-for-2024/"><u>Key View Figures for Earning Living on YouTube for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/losungen-fur-den-nicht-funktionierenden-quick-access-in-windows-11-drei-effiziente-ansatze/"><u>Lösungen Für Den Nicht Funktionierenden Quick Access in Windows 11 - Drei Effiziente Ansätze</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/optimize-and-revive-your-system-master-the-art-of-deactivating-fast-startup-in-windows-11/"><u>Optimize and Revive Your System: Master the Art of Deactivating Fast Startup in Windows 11</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/riparare-il-tuo-pc-come-eseguire-un-ripristino-di-sistema-su-windows-11-tramite-la-riga-di-comando/"><u>Riparare Il Tuo PC: Come Eseguire Un Ripristino Di Sistema Su Windows 11 Tramite La Riga Di Comando</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/en-youtube-regulations-to-abide-by/"><u>Top Ten YouTube Regulations to Abide By</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728510067067-windows-114/"><u>Windows 11で並行して何重にもバックアップを作成するための4つのテクニック</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-see-your-subscribers-on-youtube/"><u>[New] How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-profile-pictorialism-designing-your-exaggerated-visage/"><u>[Updated] In 2024, Profile Pictorialism Designing Your Exaggerated Visage</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-storytelling-free-soundtrack-options-available/"><u>Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/fix-fur-iphone-video-ladeprobleme-losungen-finden/"><u>Fix Für iPhone-Video Ladeprobleme - Lösungen Finden</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/high-end-horizons-the-elite-8k-camera-selection-for-2024/"><u>High-End Horizons The Elite 8K Camera Selection for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/improving-image-quality-easy-tips-for-tweaking-contrast-on-flipiamagenet/"><u>Improving Image Quality: Easy Tips for Tweaking Contrast on flipiamage.net</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/schnell-lernende-tools-zum-schutz-ihrer-outlook-2016-pst-dateien/"><u>Schnell Lernende Tools Zum Schutz Ihrer Outlook 2016 PST-Dateien</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/solution-immediates-et-facilement-accessibles-a-lorde-de-travail-soudainement-disparue-sur-windows-(-10/"><u>Solution Immédiates Et Facilement Accessibles À L'Orde De Travail Soudainement Disparue Sur Windows < 10</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/speichern-und-kopieren-von-daten-ohne-volumenbeschrankungen-benutzeroptimierte-losung/"><u>Speichern Und Kopieren Von Daten Ohne Volumenbeschränkungen - Benutzeroptimierte Lösung</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-setting-up-windows-server-in-virtualbox-environment/"><u>Step-by-Step Guide: Setting Up Windows Server in VirtualBox Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-curtail-autonomous-cmd-display/"><u>Strategies to Curtail Autonomous CMD Display</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-os-x-mavericks-video-editing-101-from-beginner-to-pro-for-2024/"><u>Updated OS X Mavericks Video Editing 101 From Beginner to Pro for 2024</u></a></li>
 </ul></div>
 
