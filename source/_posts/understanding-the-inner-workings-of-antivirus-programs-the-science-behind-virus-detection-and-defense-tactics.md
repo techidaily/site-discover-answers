@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-11-14T19:16:07.525Z
-updated: 2024-11-16T17:37:11.625Z
+date: 2024-11-22T06:47:05.191Z
+updated: 2024-11-26T03:37:09.461Z
 tags:
   - product
   - antivirus
@@ -44,6 +44,10 @@ Find and Remove Hidden Malware Viruses on your PC
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The makings of a guardian
 
 Think of antivirus software as the penicillin of the PC world. These applications may look lightweight, and function in the background, but are built on some of the most advanced computing and security technologies available. They have to be, considering the continually evolving threats of advanced malware these days.
@@ -74,13 +78,6 @@ These are some really next generation technologies that are very well equipped a
 
 Though the approaches below are listed under individual headings, the distinctions between many of these are often blurred, as antivirus programs combine different techniques to actively protect against the different types of threats.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Virus definitions
 
 Or in other words, signature-based detection. As noted above, this is practically the first method traditional antivirus software employ to identify malware. The programs rely upon signatures to detect new malware. Provided the company has already analyzed and extracted a proper signature of the file that is then kept in a database. Threats are compared to this database, and devices are then protected in case the signatures match.
@@ -100,16 +97,7 @@ A heuristic detection allows a scanner to detect viruses even when they are padd
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Sandbox detection
@@ -117,13 +105,6 @@ Behavior detection is a signatureless approach to detection that helps the progr
 This is a behavioral based detection technique that executes the programs in a virtual environment, as opposed to detecting its fingerprint at run time. Antivirus software that come with this type of detection capabilities execute programs in a separate, virtual environment, and log the actions it performs to determine whether the programs are malicious or not. If found safe, a given program is then executed in the real environment.
 
 As you can imagine, this technique is both heavy and slow, and its resource intensive nature means that it is rarely used in consumer antivirus solutions. End users may not always have the need for sandbox detection, but enterprises do, and antivirus solutions designed for corporate and network use offer this.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Data mining
 
@@ -141,22 +122,23 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Real time protection
 
 Also known as memory-resident scanning or background guard, this type of scanning refers to the automatic protection that almost all modern antivirus programs offer. It basically monitors the system for any suspicious activity in real time, while data is loaded into the active memory. For example, when a USB drive is inserted, a browser is opened, or a downloaded file is executed.
 
 The price of this type of scanning is performance, but it offers increased protection, and more chances of catching malware before it does damage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smart scans
 
 These refer to an approach where an antivirus only scans selected files, that are more suspicious to be altered or infected. Smart scanning lowers the need of system resources, while protecting against the more common types of viruses, threats and risks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Startup scanning
 
@@ -173,10 +155,7 @@ Typically, more than 100,000 samples are used for testing, and a detection rate 
 The detection rates fluctuate over time, with no best product constantly on top. Then again, this goes to show just how dynamic and constantly changing the computing security landscape is these days.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -204,22 +183,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-a-new-age-of-games-debate-the-best-vr-headsets-today/"><u>[Updated] A New Age of Games? Debate the Best VR Headsets Today</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-boosting-viewership-responsibly-strategies-that-work-for-2024/"><u>[Updated] Boosting Viewership Responsibly Strategies That Work for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-gestion-des-fichiers-avec-systemes-de-soutien-integres/"><u>1. Gestion Des Fichiers Avec Systèmes De Soutien Intégrés</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-risoluzione-dei-problemi-come-trovare-e-affrontare-le-soluzioni-corrette/"><u>1. Risoluzione Dei Problemi: Come Trovare E Affrontare Le Soluzioni Corrette</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comprehensive-tutorial-backing-up-your-c-drive-on-windows-10-using-four-effective-methods/"><u>Comprehensive Tutorial: Backing Up Your C Drive on Windows 10 Using Four Effective Methods</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-steps-setting-up-vmware-on-hardware-a-beginners-tutorial/"><u>Easy Steps: Setting Up VMware on Hardware - A Beginners Tutorial</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-complet-a-la-protection-et-au-depannage-des-laptops-alienware/"><u>Guide Complet À La Protection Et Au Dépannage Des Laptops Alienware</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-note-30i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-analyzing-the-features-of-vegaspros-latest-release/"><u>In 2024, Analyzing the Features of VegasPro's Latest Release</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>In 2024, Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-note-12-pro-4g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi Note 12 Pro 4G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-five-leading-pc-tools-for-sonys-ps1-experience/"><u>In 2024, The Five Leading PC Tools for Sony's PS1 Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-underdogs-playbook-livestream-youtube-on-smartphones-no-million-followers/"><u>In 2024, The Underdog's Playbook Livestream YouTube on Smartphones, No Million Followers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/les-deux-methodes-pour-synchroniser-automatiquement-vos-images-vers-votre-compte-dropbox/"><u>Les Deux Méthodes Pour Synchroniser Automatiquement Vos Images Vers Votre Compte Dropbox</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastery-guide-to-flawless-srt-file-construction-for-2024/"><u>Mastery Guide to Flawless SRT File Construction for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/revive-your-pc-with-these-tips-for-restoring-windows-11-from-an-image-backup/"><u>Revive Your PC with These Tips for Restoring Windows 11 From an Image Backup!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/techniques-pour-recouvrer-des-donnees-de-disque-dur-endommage-et-lecture-impossible-guide-complet/"><u>Techniques Pour Recouvrer Des Données De Disque Dur Endommagé Et Lecture Impossible : Guide Complet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-instantly-impress-followers-with-an-updated-tiktok-bio-and-pics/"><u>[New] 2024 Approved Instantly Impress Followers with an Updated TikTok Bio & Pics</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-discover-the-secret-art-of-crafting-podcast-narratives-for-2024/"><u>[New] Discover the Secret Art of Crafting Podcast Narratives for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[Updated] 2024 Approved Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>[Updated] In 2024, Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728486936336-windows-11-usb/"><u>如何为不同计算机设置 Windows 11修复工具 - USB下载方法</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows8/"><u>选用本篇教程，了解Windows计算机上8项优秀免费影片修复软件</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/aomei-cloud/"><u>AOMEI Cloudで保存したバックアップから情報を回復する方法</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 12 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comprehensive-steps-to-recover-a-damaged-microsoft-project-document/"><u>Comprehensive Steps to Recover a Damaged Microsoft Project Document</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/entdecken-sie-die-top-3-methoden-zur-anzeige-versteckter-ordnernamenspunkte-unter-windows-11/"><u>Entdecken Sie Die Top 3 Methoden Zur Anzeige Versteckter Ordnernamenspunkte Unter Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-problems-when-connecting-via-steam-voice-chat/"><u>Expert Tips for Fixing Problems When Connecting Via Steam Voice Chat</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-moving-discs-unjam-your-xbox-sx-series-x/"><u>No Moving Discs? Unjam Your Xbox SX Series X</u></a></li>
 </ul></div>
 

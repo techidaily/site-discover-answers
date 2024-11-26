@@ -1,7 +1,7 @@
 ---
 title: "Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?"
-date: 2024-11-13T19:05:11.966Z
-updated: 2024-11-17T01:46:17.369Z
+date: 2024-11-24T08:43:38.864Z
+updated: 2024-11-26T13:04:47.109Z
 tags:
   - product
   - antivirus
@@ -40,19 +40,16 @@ So, why quarantine instead of deleting?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is Quarantine?
 
 When a security program quarantines a questionable file, a virus, or a malicious software, it moves the said files to a safe location. The security program manages the location itself where it neutralizes all functions and executable commands of the file.
 
 Essentially, the file still exists. The security program forcibly stops its functions. Moreover, it also removes all the file’s traces from its original location.  
 Think of quarantining a sick person. They are normally in a different location away from the rest of the population to control the infection.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Quarantine?
 
@@ -68,6 +65,10 @@ What if it deletes an essential system file? What if it deletes an important fil
 
 Another reason files are put into quarantine are false alarms. Some legitimate and safe files may carry a signature similar to a virus or a malware. Deleting these files may render its parent program to stop working properly. Moreover, some security programs may identify “threats” in another security program. That is why you should not install two antivirus applications on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quarantine vs Deleting
 
 So, what do you do with identified infected files? Do you quarantine? Or do you delete?
@@ -80,28 +81,22 @@ Additionally, most modern viruses make their own files. Security programs can ea
 
 It is easy to remedy false alarms by teaching the security programs to always ignore certain files from legitimate applications. This will significantly reduce false alarm reports in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Final Thoughts
 
 It is important to keep your security program updated to reduce false alarms, easily identify threats, and quarantine questionable files. Virus and malware in quarantine are perfectly harmless. They cannot run and well-hidden. Only delete if you are sure that the files are infected and all applications in your system are running without any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 thoughts on “Why Does Antivirus Quarantine Instead of Deleting?”
 
 1. ![](https://secure.gravatar.com/avatar/b1c9dc97877b8abded69d855c9e630f5?s=50&d=mm&r=g)  
 RogerH  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [July 12, 2019 at 2:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 How do I tell Malwarewe NOT to quarantine a program in the future. When I restore the qwuarantined program it gets put back in there as soon as I try to open it. I am on trial run of your system but if I can’t run my necessary program, will not go ahead with a purcvhase after the trial period ends?  
@@ -111,16 +106,7 @@ Thanks
    Shawn Abraham  
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    [July 25, 2019 at 12:40 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -152,20 +138,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-see-your-subscribers-on-youtube/"><u>[New] How to See Your Subscribers on YouTube?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-profile-pictorialism-designing-your-exaggerated-visage/"><u>[Updated] In 2024, Profile Pictorialism Designing Your Exaggerated Visage</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-storytelling-free-soundtrack-options-available/"><u>Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/fix-fur-iphone-video-ladeprobleme-losungen-finden/"><u>Fix Für iPhone-Video Ladeprobleme - Lösungen Finden</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/high-end-horizons-the-elite-8k-camera-selection-for-2024/"><u>High-End Horizons The Elite 8K Camera Selection for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/improving-image-quality-easy-tips-for-tweaking-contrast-on-flipiamagenet/"><u>Improving Image Quality: Easy Tips for Tweaking Contrast on flipiamage.net</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/schnell-lernende-tools-zum-schutz-ihrer-outlook-2016-pst-dateien/"><u>Schnell Lernende Tools Zum Schutz Ihrer Outlook 2016 PST-Dateien</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/solution-immediates-et-facilement-accessibles-a-lorde-de-travail-soudainement-disparue-sur-windows-(-10/"><u>Solution Immédiates Et Facilement Accessibles À L'Orde De Travail Soudainement Disparue Sur Windows < 10</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/speichern-und-kopieren-von-daten-ohne-volumenbeschrankungen-benutzeroptimierte-losung/"><u>Speichern Und Kopieren Von Daten Ohne Volumenbeschränkungen - Benutzeroptimierte Lösung</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-setting-up-windows-server-in-virtualbox-environment/"><u>Step-by-Step Guide: Setting Up Windows Server in VirtualBox Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-curtail-autonomous-cmd-display/"><u>Strategies to Curtail Autonomous CMD Display</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-os-x-mavericks-video-editing-101-from-beginner-to-pro-for-2024/"><u>Updated OS X Mavericks Video Editing 101 From Beginner to Pro for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-aligning-with-audience-habits-in-podcast-releases/"><u>[Updated] In 2024, Aligning with Audience Habits in Podcast Releases</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-vidsnapper-live-and-group-videos-fb/"><u>2024 Approved VidSnapper Live and Group Videos, FB</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728498583627-windows-10/"><u>快速过渡到 Windows 10：详细数据迁移教程</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/5pyq5l6g5lin5pyd5b6m5oku55qe6loh5rqq5zue5ps25qg25y2456m65qmf5yi26kej5aplusgic3mnidkvbpkv67mrapmlrnms5u/"><u>未來不會後悔的資源回收桶卸空機制解密 -最佳修正方法</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diypc/"><u>DIY方法：新PCへ完全データ転送テクニック</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-solution-restoring-image-viewing-functionality-on-iphones/"><u>Easy Solution: Restoring Image Viewing Functionality on iPhones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-apples-vision-pro-unveiled-pricing-capabilities-and-firsthand-experience-your-essential-guide-by-zdnet/"><u>Explore Apple's Vision Pro Unveiled: Pricing, Capabilities & Firsthand Experience - Your Essential Guide by ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfectpicturefree-ultimate-erase-for-clean-bgs/"><u>In 2024, PerfectPictureFree Ultimate Erase for Clean BGs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-your-device-truly-experiencing-dolby-atmos-audio-quality/"><u>Is Your Device Truly Experiencing Dolby Atmos Audio Quality?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-hitman-3-setup-resolving-cannot-connect-errors-effectively/"><u>Mastering Hitman 3 Setup: Resolving 'Cannot Connect' Errors Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-refresh-your-winos-drivers/"><u>Rapidly Refresh Your WinOS Drivers</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/restore-damaged-rows-partitions-within-windows-11-a-guide-to-the-five-best-repair-methods/"><u>Restore Damaged ROWS Partitions Within Windows 11: A Guide to the Five Best Repair Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/restore-windows-photo-viewer-efficiency-on-windows-10-pcs-for-2024/"><u>Restore Windows Photo Viewer Efficiency on Windows 10 PCs for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reviving-your-accidentally-deleted-data-on-windows-10-a-step-by-step-guide-to-recovery/"><u>Reviving Your Accidentally Deleted Data on Windows 10: A Step-by-Step Guide to Recovery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-groundbreaking-garmin-ultra-30-action-camera-reviewed/"><u>The Groundbreaking Garmin Ultra 30 Action Camera Reviewed</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/trouble-logging-into-your-icloud-account-on-iphone-discover-reliable-solutions/"><u>Trouble Logging Into Your iCloud Account on iPhone? Discover Reliable Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098408681-troubleshooting-iphone-usb-connection-issues-solve-mtp-driver-problems-today/"><u>Troubleshooting iPhone USB Connection Issues: Solve MTP Driver Problems Today!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-11-synctoy/"><u>Windows 11 SyncToyによる自動ファイルバックアップ手順ガイド</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-11samsung-t73/"><u>Windows 11環境下のSamsung T7ドライブを修復:3つの最適解</u></a></li>
 </ul></div>
 
