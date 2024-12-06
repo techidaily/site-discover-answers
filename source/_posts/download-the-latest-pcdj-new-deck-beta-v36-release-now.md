@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest PCDJ New Deck: Beta v3.6 Release Now!"
-date: 2024-11-20T08:48:35.151Z
-updated: 2024-11-25T21:27:44.466Z
+date: 2024-11-30T04:43:31.587Z
+updated: 2024-12-06T03:55:04.849Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-harmonizing-content-and-sound-in-instagram-reels/"><u>[Updated] 2024 Approved Harmonizing Content & Sound in Instagram Reels</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/3yahoo/"><u>掌握验证过的信件归还方法：精选3种手段，重获Yahoo逝去邮件</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/aomei-backupper-fehlerbehebung-fur-nicht-gefundene-seiten-error-404-losungen-und-tipps/"><u>AOMEI Backupper: Fehlerbehebung Für Nicht Gefundene Seiten (Error 404) - Lösungen Und Tipps</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728468246642-aomei/"><u>AOMEI バックアッパー 先進セグメントバッキアップソリューション</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/best-ios-video-converter-apps-get-them-for-absolutely-no-charge/"><u>Best iOS Video Converter Apps : Get Them for Absolutely No Charge</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-with-clarity-advanced-tips-for-gopro-hero5-black/"><u>Capture with Clarity Advanced Tips for GoPro Hero5 Black</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/drones-uncovered-the-top-pre-purchase-checklist-for-buyers/"><u>Drones Uncovered The Top Pre-Purchase Checklist for Buyers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-move-data-to-a-new-samsung-ssd-without-refreshing-your-system-or-programs/"><u>How to Move Data to a New Samsung SSD without Refreshing Your System or Programs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ioss-finest-virtual-ps2-games/"><u>IOS's Finest Virtual PS2 Games</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/migliora-le-perfomanze-sistema-soluzioni-innovative-altre-di-robocopy-su-mac/"><u>Migliora Le Perfomanze Sistema: Soluzioni Innovative Altre Di Robocopy Su Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-2-pc-performance-boosters-fix-these-six-common-causes-of-game-crashes/"><u>Modern Warfare 2 PC Performance Boosters - Fix These Six Common Causes of Game Crashes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-wisdom-from-toms-technology-blog/"><u>Navigating Hardware Choices - Wisdom From Tom's Technology Blog</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-destiny-2s-vegetable-vexation-the-complete-guide-to-the-2024-patch-and-beyond/"><u>Overcoming Destiny 2'S Vegetable Vexation - The Complete Guide To The 2024 Patch & Beyond</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-controls-overcoming-mouse-sluggishness-in-bf2/"><u>Swift Controls: Overcoming Mouse Sluggishness in BF2</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/transferir-de-forma-eficaz-una-copia-de-seguridad-del-disco-duro-externo-a-google-drive-metodos-efectivos/"><u>Transferir De Forma Eficaz Una Copia De Seguridad Del Disco Duro Externo a Google Drive - Métodos Efectivos</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-backupper-winpe-why-it-fails-to-detect-nvme-storage-devices/"><u>Troubleshooting Backupper WinPE: Why It Fails To Detect NVMe Storage Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/understanding-the-triumph-of-nintendos-wii-u/"><u>Understanding the Triumph of Nintendo's Wii U</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-the-mystery-a-9-step-guide-to-restoring-visibility-of-icloud-music-library-on-ios-devices/"><u>Unlocking the Mystery: A 9-Step Guide to Restoring Visibility of iCloud Music Library on iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207172245-usb-peripherals-failure-in-windows-7-heres-how-you-can-repair-them/"><u>USB Peripherals Failure in Windows 7? Here's How You Can Repair Them</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-reverse-a-youtube-playlist/"><u>[New] 2024 Approved How to Reverse a YouTube Playlist</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aster-the-algorithm-effective-tools-to-increase-youtube-views/"><u>[New] Master the Algorithm Effective Tools to Increase YouTube Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-soundcheck-evaluation/"><u>2024 Approved SoundCheck Evaluation</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/beat-mix-mastery-unleashed-enjoy-a-25-discount-on-every-pcdj-tool-until-july-5th/"><u>Beat Mix Mastery Unleashed! Enjoy a 25% Discount on Every PCDJ Tool Until July 5Th</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-steps-for-correcting-your-tiktok-profile-age/"><u>Easy Steps for Correcting Your TikTok Profile Age</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/enchanting-mirabel-encanto-wallpaper-and-image-collections-by-yl-computing/"><u>Enchanting Mirabel Encanto Wallpaper & Image Collections by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exclusive-selection-best-10-cameras-for-win-11-recording/"><u>Exclusive Selection Best 10 Cameras for Win 11 Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highlighted-20-anime-melodies-at-start/"><u>Highlighted 20 Anime Melodies at Start</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Lock Screen Password</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/master-level-tips-for-locking-down-windows-files-and-folders-with-strong-passwords-insights-from-yl-software/"><u>Master Level Tips for Locking Down Windows Files and Folders with Strong Passwords – Insights From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-windows-update-hiccups-expert-tips-from-yl-computings-software-division/"><u>Solving Windows Update Hiccups: Expert Tips From YL Computing's Software Division</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-crafting-your-first-excel-spreadsheet-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Crafting Your First Excel Spreadsheet - Tips & Tricks From YL Computing</u></a></li>
 </ul></div>
 

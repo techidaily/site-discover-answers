@@ -1,7 +1,7 @@
 ---
 title: Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration
-date: 2024-11-19T05:01:22.650Z
-updated: 2024-11-26T05:09:43.931Z
+date: 2024-12-03T20:25:21.393Z
+updated: 2024-12-05T21:46:35.995Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,15 +85,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-from-novice-to-expert-film-cameras-you-can-trust/"><u>2024 Approved From Novice to Expert Film Cameras You Can Trust</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728468290243-pc/"><u>開始不能PCから情報を安全にバックアップするテクニック</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728487596920-pc/"><u>無効化されたPCでのデータ救出手順</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/efficient-window-based-data-protection-tools-an-incremental-backup-solution-comparable-to-rsync/"><u>Efficient Window-Based Data Protection Tools: An Incremental Backup Solution Comparable to Rsync</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/error-unable-to-locate-webpage-http-404-missing-content-alert/"><u>Error: Unable to Locate Webpage (HTTP 404) | Missing Content Alert</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-when-your-key-stops-responding-on-computer-or-smartphone/"><u>Fixing When Your '@' Key Stops Responding on Computer or Smartphone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-zte-blade-a73-5g-frp-by-drfone-android/"><u>Full Guide to Bypass ZTE Blade A73 5G FRP</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-moto-g-with-stylus-unmatched-performance-and-satisfactory-energy-reserves-for-effortless-note-taking/"><u>The Moto G with Stylus – Unmatched Performance & Satisfactory Energy Reserves for Effortless Note-Taking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/timeless-tales-of-cinematic-masterpieces/"><u>Timeless Tales of Cinematic Masterpieces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cutting-edge-ipad-voice-recording-tools-3p/"><u>[New] In 2024, Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch-for-2024/"><u>[New] The Best Streaming Cameras to Boost Viewer Interaction on Twitch for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-recording-of-netflix-a-step-by-step-guide-for-2024/"><u>[Updated] Effortless Recording of Netflix A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-unveiling-2023s-enhanced-sony-s3700-overview/"><u>2024 Approved Unveiling 2023'S Enhanced Sony S3700 Overview</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-huawei-p60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Huawei P60 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decoding-the-difficulties-a-comprehensive-guide-to-fixing-arise-ue4-catastrophes/"><u>Decoding the Difficulties: A Comprehensive Guide to Fixing Arise UE4 Catastrophes</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/fix-your-pcs-graphics-card-woes-with-yl-computings-expert-advice-for-windows-users/"><u>Fix Your PC's Graphics Card Woes with YL Computing's Expert Advice for Windows Users</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gmail-pstand/"><u>Gmail メールを迅速に PST形式でエクスポート&バックアップするテクニック</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-cryptocurrency-selection-with-strategic-tips-by-yl-software-professionals/"><u>Mastering Cryptocurrency Selection with Strategic Tips by YL Software Professionals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/safe-practices-for-purchasing-and-trading-crypto-assets-tips-from-yl-computing-expertise/"><u>Safe Practices for Purchasing & Trading Crypto Assets - Tips From YL Computing Expertise</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-a-black-computer-display-issue-potential-graphics-card-troubles-explained-by-yl-computing/"><u>Solving a Black Computer Display Issue - Potential Graphics Card Troubles Explained by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-pc-memory-deficiency-problems-with-expert-advice-from-yl-software/"><u>Solving PC Memory Deficiency Problems with Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-updating-your-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/forming-ideas-into-viral-video-hits-on-youtube/"><u>Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-mp4-video-editor-for-windows-8-users-2023-update/"><u>Updated 2024 Approved The Ultimate MP4 Video Editor for Windows 8 Users (2023 Update)</u></a></li>
 </ul></div>
 

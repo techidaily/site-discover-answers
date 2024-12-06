@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2024-11-19T22:42:16.229Z
-updated: 2024-11-25T22:58:25.118Z
+date: 2024-11-30T20:33:16.432Z
+updated: 2024-12-06T00:51:31.045Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,18 +46,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-broadcast-battle-analyzing-obs-vs-twitchs-pros/"><u>[New] In 2024, Broadcast Battle Analyzing OBS Vs. Twitch's Pros</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems-for-2024/"><u>[Updated] From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-windows-11-videography-selecting-best-apps/"><u>[Updated] Windows 11 Videography Selecting Best Apps</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728495480130-aomei-fonebackup-iphone/"><u>AOMEI FoneBackup: IPhoneとコンピューター間で簡単に転送するステップ</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-reasons-behind-an-inactive-apple-id-on-itunes-connect-a-comprehensive-guide/"><u>Discover the Reasons Behind an Inactive Apple ID on iTunes Connect: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-to-correct-the-missing-msvcr100dll-file-issue/"><u>Easy Fixes to Correct the Missing msvcr100.dll File Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/echoing-scenes-iphone-as-a-tool-for-music-filmmakers/"><u>Echoing Scenes IPhone as a Tool for Music Filmmakers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/gratis-wie-man-songs-von-einem-iphone-auf-den-pc-kopiert-ohne-dass-itunes-dafur-benotigt-wird/"><u>Gratis - Wie Man Songs Von Einem iPhone Auf Den PC Kopiert, Ohne Dass iTunes Dafür Benötigt Wird</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-detaille-comment-organiser-une-copie-de-secours-avec-aomei-backupper-sur-windows/"><u>Guide Détaillé : Comment Organiser Une Copie De Secours Avec AOMEI Backupper Sur Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>How Can We Bypass Vivo V29 Pro FRP?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/laughs-in-a-click-building-hilarious-memes/"><u>Laughs in a Click Building Hilarious Memes</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/tests-complets-sur-la-recuperation-de-fichiers-avec-windows-performe-t-il-reellement/"><u>Tests Complets Sur La Récupération De Fichiers Avec Windows - Performe-T-Il Réellement?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-truth-in-digital-health-guidance-fact-check-tips/"><u>Unveiling the Truth in Digital Health Guidance: Fact-Check Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-viral-potential-hashtags-for-gamers-vlogs/"><u>[New] Unlocking Viral Potential Hashtags for Gamers' Vlogs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mental-marathons-in-elite-escapade-venues/"><u>[Updated] In 2024, Mental Marathons in Elite Escapade Venues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-6-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 6 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-becoming-a-lut-connoisseur/"><u>In 2024, The Path to Becoming a LUT Connoisseur</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-c67-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme C67 4G Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-16-update-woes-identifying-and-avoiding-bricking-risks-for-your-ipads-insiders-guide/"><u>IOS 16 Update Woes: Identifying and Avoiding Bricking Risks for Your iPads | Insider's Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-cryptocurrency-selection-with-strategic-tips-by-yl-software-professionals/"><u>Mastering Cryptocurrency Selection with Strategic Tips by YL Software Professionals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-undetected-devices-on-windows-expert-tips-by-yl-software/"><u>Resolving Undetected Devices on Windows: Expert Tips by YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-pc-memory-deficiency-problems-with-expert-advice-from-yl-software/"><u>Solving PC Memory Deficiency Problems with Expert Advice From YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-solving-high-pitched-noises-in-your-pcs-integrated-speakers-windows-107/"><u>Ultimate Guide to Solving High-Pitched Noises in Your PC's Integrated Speakers (Windows 10/7)</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-the-mechanics-of-crypto-transactions-insights-from-yl-computings-expertise/"><u>Understanding the Mechanics of Crypto Transactions: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worldwide-joy-for-freedoms-birthday/"><u>Worldwide Joy for Freedom's Birthday</u></a></li>
 </ul></div>
 

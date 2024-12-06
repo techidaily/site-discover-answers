@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2024-11-19T16:32:40.184Z
-updated: 2024-11-25T19:00:23.889Z
+date: 2024-11-29T03:17:25.827Z
+updated: 2024-12-05T23:28:02.255Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,19 +90,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>[New] Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-effortless-fb-movie-access-top-8-tools-of-23/"><u>[Updated] In 2024, Effortless FB Movie Access Top #8 Tools of '23</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-list-of-ex-followers-on-instagram/"><u>[Updated] In 2024, List of Ex-Followers on Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-journey-through-powerdirector-2024-complete-review-and-walkthrough/"><u>[Updated] Journey Through PowerDirector 2024 Complete Review & Walkthrough</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-snapping-your-view-on-windows-devices/"><u>[Updated] Snapping Your View on Windows Devices</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-restaurer-les-anciennes-versions-disparues-une-solution-facile/"><u>Comment Restaurer Les Anciennes Versions Disparues ? Une Solution Facile</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/effortless-server-backup-solutions-mastering-the-art-of-using-dropbox/"><u>Effortless Server Backup Solutions: Mastering the Art of Using Dropbox</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expert-level-premium-dashboard-design-with-bootstrap-5-from-creative-tims-soft-ui-suite/"><u>Expert-Level Premium Dashboard Design with Bootstrap 5 From Creative Tim's Soft UI Suite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-top-8-innovative-learning-tools-for-a-brighter-future-2024-edition/"><u>Explore the Top 8 Innovative Learning Tools for a Brighter Future, 2024 Edition</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/secure-steps-comprehensive-guide-to-safely-transferring-operating-system-to-compact-ssd/"><u>Secure Steps: Comprehensive Guide to Safely Transferring Operating System to Compact SSD</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solutions-pour-les-problemes-rencontres-en-tentant-de-restaurerextraire-des-fichiers-lors-de-la-configuration-ou-de-la-restauration-sur-windows-amo/"><u>Solutions Pour Les Problèmes Rencontrés en Tentant De Restaurer/Extraire Des Fichiers Lors De La Configuration Ou De La Restauration Sur Windows Amo.</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/tests-complets-sur-la-recuperation-de-fichiers-avec-windows-performe-t-il-reellement/"><u>Tests Complets Sur La Récupération De Fichiers Avec Windows - Performe-T-Il Réellement?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-in-podcasts-through-chatgpt-an-inspirational-guide/"><u>Unlocking Creativity in Podcasts Through ChatGPT: An Inspirational Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-7-boot-repair-via-command-prompt-using-chkdsk-and-bootrec-methods/"><u>Windows 7 Boot Repair via Command Prompt: Using Chkdsk and BootRec Methods</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-5-things-you-should-know-when-using-tiktok-web-on-mac/"><u>[New] 5 Things You Should Know When Using TikTok Web on Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/anddvdmp4/"><u>安心&高品質でDVDからMP4への変換 - 無料、コピーロックを解除可能</u></a></li>
+<li><a href="https://driver-install.techidaily.com/canon-printer-drivers-download-for-windows-11/"><u>Canon Printer Drivers Download for Windows 11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-tell-if-your-graphics-card-is-overheating-tips-from-yl-computing/"><u>How to Tell If Your Graphics Card Is Overheating: Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>In 2024, From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-zte-nubia-z60-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your ZTE Nubia Z60 Ultra to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-mini-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 13 mini without Apple Account</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/master-the-art-of-windows-11-maintenance-best-cleanup-techniques-revealed-by-yl-computing-experts/"><u>Master the Art of Windows 11 Maintenance: Best Cleanup Techniques Revealed by YL Computing Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-100-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 100? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-secrets-from-pros-for-stellar-youtubers-music-videos-for-2024/"><u>Top 10 Secrets From Pros for Stellar Youtubers' Music Videos for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-and-resolving-sound-card-issues-effectively-expert-advice-from-yl-computing/"><u>Troubleshooting and Resolving Sound Card Issues Effectively - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-printer-issues-post-windows-11-update-expert-advice-from-yl-computing/"><u>Troubleshooting Printer Issues Post-Windows 11 Update: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-post-policy-transformations-a-deep-dive-into-the-one-child-policy-effects-with-yl-computing-and-yl-software-analysis/"><u>Understanding Post-Policy Transformations: A Deep Dive Into the One-Child Policy Effects with YL Computing & YL Software Analysis</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-software-essentials-efficiently-managing-and-removing-user-accounts-within-your-system/"><u>YL Software Essentials: Efficiently Managing and Removing User Accounts Within Your System</u></a></li>
 </ul></div>
 
