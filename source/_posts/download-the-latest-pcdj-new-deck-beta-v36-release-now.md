@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest PCDJ New Deck: Beta v3.6 Release Now!"
-date: 2024-11-30T04:43:31.587Z
-updated: 2024-12-06T03:55:04.849Z
+date: 2024-12-08T19:02:10.510Z
+updated: 2024-12-12T00:14:15.197Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,17 +73,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-reverse-a-youtube-playlist/"><u>[New] 2024 Approved How to Reverse a YouTube Playlist</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aster-the-algorithm-effective-tools-to-increase-youtube-views/"><u>[New] Master the Algorithm Effective Tools to Increase YouTube Views</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-soundcheck-evaluation/"><u>2024 Approved SoundCheck Evaluation</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/beat-mix-mastery-unleashed-enjoy-a-25-discount-on-every-pcdj-tool-until-july-5th/"><u>Beat Mix Mastery Unleashed! Enjoy a 25% Discount on Every PCDJ Tool Until July 5Th</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/easy-steps-for-correcting-your-tiktok-profile-age/"><u>Easy Steps for Correcting Your TikTok Profile Age</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/enchanting-mirabel-encanto-wallpaper-and-image-collections-by-yl-computing/"><u>Enchanting Mirabel Encanto Wallpaper & Image Collections by YL Computing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/exclusive-selection-best-10-cameras-for-win-11-recording/"><u>Exclusive Selection Best 10 Cameras for Win 11 Recording</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highlighted-20-anime-melodies-at-start/"><u>Highlighted 20 Anime Melodies at Start</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Lock Screen Password</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/master-level-tips-for-locking-down-windows-files-and-folders-with-strong-passwords-insights-from-yl-software/"><u>Master Level Tips for Locking Down Windows Files and Folders with Strong Passwords – Insights From YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-windows-update-hiccups-expert-tips-from-yl-computings-software-division/"><u>Solving Windows Update Hiccups: Expert Tips From YL Computing's Software Division</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-crafting-your-first-excel-spreadsheet-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Crafting Your First Excel Spreadsheet - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-enhance-your-conference-experience-with-webcam-recordings/"><u>[New] 2024 Approved Enhance Your Conference Experience with Webcam Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-knowledge-for-saving-app-activity/"><u>[New] Essential Knowledge for Saving App Activity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-whats-the-best-cloud-storage-2024-know-these-5-for-your-needs/"><u>[New] What’s the Best Cloud Storage 2024? Know These 5 for Your Needs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-connecting-through-ig-a-guide-for-hyperlink-posts/"><u>[Updated] Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-peak-players-choice-selecting-the-top-7-fps/"><u>2024 Approved Peak Players' Choice Selecting the Top 7 FPS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pro-gear-for-documenting-excursions/"><u>2024 Approved Pro Gear for Documenting Excursions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-graphics-an-examination-of-cg318-4k-by-eizo/"><u>2024 Approved Revolutionizing Graphics An Examination of CG318-4K by EIZO</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/chinas-evolution-analyzing-its-position-between-developing-and-developed-status-amidst-emergence-as-the-globes-second-largest-economy/"><u>China's Evolution: Analyzing Its Position Between Developing and Developed Status Amidst Emergence as the Globe's Second Largest Economy</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/clearer-pictures-ahead-mastering-sharpness-in-scanned-images-with-insights-from-yl-software-experts/"><u>Clearer Pictures Ahead: Mastering Sharpness in Scanned Images with Insights From YL Software Experts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/detecting-and-fixing-hard-disk-failures-guidance-by-yl-software-experts/"><u>Detecting and Fixing Hard Disk Failures: Guidance by YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-best-browser-add-ons-for-effortlessly-saving-movies-and-clips-from-websites-such-as-vimeo-youtube-and-social-media/"><u>Discover the Best Browser Add-Ons for Effortlessly Saving Movies & Clips From Websites Such as Vimeo, YouTube, and Social Media</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easily-switch-your-computers-display-language-a-step-by-step-guide-powered-by-yl-technology/"><u>Easily Switch Your Computer's Display Language: A Step-by-Step Guide - Powered by YL Technology</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-guide-to-updating-your-printer-drivers-on-windows-pcs-tips-from-yl-computing/"><u>Easy Guide to Updating Your Printer Drivers on Windows PCs - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-check-if-your-storage-device-is-malfunctioning-expert-advice-from-yl-software/"><u>How to Check If Your Storage Device Is Malfunctioning - Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-the-perfect-graphics-card-for-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Identifying the Perfect Graphics Card for Your Windows PC: A Comprehensive Guide - By YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/protect-your-data-easy-steps-to-create-a-pc-backup-using-the-control-panel-tutorials-from-yl-software/"><u>Protect Your Data: Easy Steps to Create a PC Backup Using the Control Panel - Tutorials From YL Software</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-lava-by-fonelab-android-recover-music/"><u>The way to get back lost music from Lava</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-deficient-computer-equipment-on-windows-with-yl-computings-tips-and-tricks/"><u>Troubleshooting Deficient Computer Equipment on Windows with YL Computing's Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-declutter-how-to-excise-spotlight-icon/"><u>Win11 Declutter: How to Excise Spotlight Icon</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2024-11-30T20:33:16.432Z
-updated: 2024-12-06T00:51:31.045Z
+date: 2024-12-05T16:11:05.251Z
+updated: 2024-12-12T04:16:05.882Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,18 +46,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-viral-potential-hashtags-for-gamers-vlogs/"><u>[New] Unlocking Viral Potential Hashtags for Gamers' Vlogs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mental-marathons-in-elite-escapade-venues/"><u>[Updated] In 2024, Mental Marathons in Elite Escapade Venues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-6-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 6 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 8 Plus?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-becoming-a-lut-connoisseur/"><u>In 2024, The Path to Becoming a LUT Connoisseur</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-c67-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme C67 4G Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-16-update-woes-identifying-and-avoiding-bricking-risks-for-your-ipads-insiders-guide/"><u>IOS 16 Update Woes: Identifying and Avoiding Bricking Risks for Your iPads | Insider's Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-cryptocurrency-selection-with-strategic-tips-by-yl-software-professionals/"><u>Mastering Cryptocurrency Selection with Strategic Tips by YL Software Professionals</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/resolving-undetected-devices-on-windows-expert-tips-by-yl-software/"><u>Resolving Undetected Devices on Windows: Expert Tips by YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-pc-memory-deficiency-problems-with-expert-advice-from-yl-software/"><u>Solving PC Memory Deficiency Problems with Expert Advice From YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-solving-high-pitched-noises-in-your-pcs-integrated-speakers-windows-107/"><u>Ultimate Guide to Solving High-Pitched Noises in Your PC's Integrated Speakers (Windows 10/7)</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-the-mechanics-of-crypto-transactions-insights-from-yl-computings-expertise/"><u>Understanding the Mechanics of Crypto Transactions: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/worldwide-joy-for-freedoms-birthday/"><u>Worldwide Joy for Freedom's Birthday</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-epic-browser-recording-tools-for-the-ultimate-surfers-dream-for-2024/"><u>[New] Epic Browser Recording Tools for the Ultimate Surfer's Dream for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-directly-download-youtube-videos/"><u>[Updated] 2024 Approved Directly Download YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>2024 Approved Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722171686590-avoid-wasting-time-on-ineffective-chatgpt-extensions-heres-what-to-use/"><u>Avoid Wasting Time on Ineffective ChatGPT Extensions - Here's What to Use!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/choosing-the-right-gpu-for-your-computer-dedicated-vs-integrated-graphics-options-explained/"><u>Choosing the Right GPU for Your Computer - Dedicated Vs. Integrated Graphics Options Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-twitter-personalities-in-travel-offers-wisdom-and-excursions-for-66-profiles/"><u>Discover the Best Twitter Personalities in Travel: Offers, Wisdom & Excursions for 66 Profiles</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-x8b-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor X8b for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-uncovering-youtubes-top-viewed-comments/"><u>In 2024, Uncovering YouTube's Top Viewed Comments</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/maximizing-earnings-with-crypto-investments-insights-from-yl-computings-expertise/"><u>Maximizing Earnings with Crypto Investments - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/premium-kdrama-show-laptop-backdrops-and-pc-splash-images-provided-by-yl-tech-solutions-transform-your-computers-look/"><u>Premium Kdrama Show Laptop Backdrops & PC Splash Images Provided by YL Tech Solutions - Transform Your Computer's Look</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-playlist-of-pcdj-hits-rewind-through-2019/"><u>The Ultimate Playlist of PCDJ Hits - Rewind Through 2019!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-network-adapter-that-wont-go-online-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix a Network Adapter That Won't Go Online - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-installation-issues-how-to-fix-windows-program-setup-problems-tips-from-yl-computing/"><u>Understanding Installation Issues: How to Fix Windows Program Setup Problems - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unveiling-power-management-features-in-yl-software-systems-for-enhanced-efficiency/"><u>Unveiling Power Management Features in YL Software Systems for Enhanced Efficiency</u></a></li>
 </ul></div>
 

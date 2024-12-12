@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2024-12-02T04:36:29.793Z
-updated: 2024-12-05T22:35:20.458Z
+date: 2024-12-07T22:37:20.556Z
+updated: 2024-12-11T17:54:02.989Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,20 +65,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-action-camera-for-gamers-and-sports-enthusiasts-xs-100-is-take/"><u>[New] In 2024, The Ultimate Action Camera for Gamers & Sports Enthusiasts - XS 100 I's Take</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-vibrance-alignment-system-for-2024/"><u>[New] Vibrance Alignment System for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-redefine-your-viewing-experience-without-xplit/"><u>[Updated] Redefine Your Viewing Experience Without Xplit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/essential-techniques-for-computer-based-vhs-image-transformation-for-2024/"><u>Essential Techniques for Computer-Based VHS Image Transformation for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-common-challenges-with-chromecast-setup-and-connection/"><u>Expert Tips: Overcoming Common Challenges with Chromecast Setup and Connection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/how-to-add-radial-blur-effect-to-photos-in-photoshop-for-2024/"><u>How to Add Radial Blur Effect to Photos in Photoshop for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-resolve-your-computers-unresponsive-graphics-card-on-windows-tips-from-yl-computing/"><u>How to Resolve Your Computer's Unresponsive Graphics Card on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/matching-the-right-directx-version-to-your-graphics-hardware-tips-from-yl-computing/"><u>Matching the Right DirectX Version to Your Graphics Hardware - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/securing-digital-assets-an-in-depth-look-at-security-measures-by-yl-software-for-cryptocurrency-transactions/"><u>Securing Digital Assets: An In-Depth Look at Security Measures by YL Software for Cryptocurrency Transactions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-updating-your-sound-card-drivers-tech-solutions-by-yl/"><u>Step-by-Step Guide: Updating Your Sound Card Drivers - Tech Solutions by YL</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/stunning-nissan-prisejpg-the-400z-top-picks-for-images-and-desktop-wallpapers-from-yl-computing/"><u>Stunning Nissan prise.jpg the 400Z: Top Picks for Images and Desktop Wallpapers From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/successful-strategies-for-securing-your-machine-against-cybervirus-attacks/"><u>Successful Strategies for Securing Your Machine Against Cybervirus Attacks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/664608-9781400837083-the-i-ching-or-book-of-changes/"><u>The I Ching or Book of Changes | Free Book</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-techniques-for-optimizing-your-computers-input-devices-mice-and-keyboards-insights-by-yl-software-experts/"><u>Troubleshooting Techniques for Optimizing Your Computer's Input Devices, Mice and Keyboards – Insights by YL Software Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-to-enhance-camera-functions-on-ios-devices/"><u>Ultimate Tips to Enhance Camera Functions on iOS Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-seamless-time-manipulation-for-professional-videos/"><u>[Updated] Seamless Time Manipulation for Professional Videos</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-memory-issues-top-techniques-for-detecting-system-memory-failures-by-yl-computing/"><u>Identifying Memory Issues: Top Techniques for Detecting System Memory Failures by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-signs-of-malfunction-a-guide-to-diagnosing-faulty-gpu-issues-in-windows-environments/"><u>Identifying Signs of Malfunction: A Guide to Diagnosing Faulty GPU Issues in Windows Environments</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/is-pre-backup-essential-for-optimal-performance-with-windows-file-recovery-tool/"><u>Is Pre-Backup Essential for Optimal Performance with Windows File Recovery Tool?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New In 2024, The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-mac-video-tag-editors-for-effortless-organization-for-2024/"><u>New Top 10 Mac Video Tag Editors for Effortless Organization for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/say-goodbye-to-netflixs-offline-viewing-the-download-feature-discontinues-for-windows-users/"><u>Say Goodbye to Netflix's Offline Viewing: The Download Feature Discontinues for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-computings-expert-advice-on-configuring-effective-parental-restrictions-using-yl-software/"><u>YL Computing's Expert Advice on Configuring Effective Parental Restrictions Using YL Software</u></a></li>
 </ul></div>
 

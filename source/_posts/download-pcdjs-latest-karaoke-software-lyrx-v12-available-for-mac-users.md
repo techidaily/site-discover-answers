@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2024-11-29T03:17:25.827Z
-updated: 2024-12-05T23:28:02.255Z
+date: 2024-12-07T04:04:11.500Z
+updated: 2024-12-11T17:12:22.235Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,20 +90,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-5-things-you-should-know-when-using-tiktok-web-on-mac/"><u>[New] 5 Things You Should Know When Using TikTok Web on Mac</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/anddvdmp4/"><u>安心&高品質でDVDからMP4への変換 - 無料、コピーロックを解除可能</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-printer-drivers-download-for-windows-11/"><u>Canon Printer Drivers Download for Windows 11</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-tell-if-your-graphics-card-is-overheating-tips-from-yl-computing/"><u>How to Tell If Your Graphics Card Is Overheating: Tips From YL Computing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>In 2024, From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-zte-nubia-z60-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your ZTE Nubia Z60 Ultra to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-mini-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 13 mini without Apple Account</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/master-the-art-of-windows-11-maintenance-best-cleanup-techniques-revealed-by-yl-computing-experts/"><u>Master the Art of Windows 11 Maintenance: Best Cleanup Techniques Revealed by YL Computing Experts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-100-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 100? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/0-secrets-from-pros-for-stellar-youtubers-music-videos-for-2024/"><u>Top 10 Secrets From Pros for Stellar Youtubers' Music Videos for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-and-resolving-sound-card-issues-effectively-expert-advice-from-yl-computing/"><u>Troubleshooting and Resolving Sound Card Issues Effectively - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-printer-issues-post-windows-11-update-expert-advice-from-yl-computing/"><u>Troubleshooting Printer Issues Post-Windows 11 Update: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-post-policy-transformations-a-deep-dive-into-the-one-child-policy-effects-with-yl-computing-and-yl-software-analysis/"><u>Understanding Post-Policy Transformations: A Deep Dive Into the One-Child Policy Effects with YL Computing & YL Software Analysis</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-software-essentials-efficiently-managing-and-removing-user-accounts-within-your-system/"><u>YL Software Essentials: Efficiently Managing and Removing User Accounts Within Your System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-youtube-premium-what-makes-it-worth-the-price-for-2024/"><u>[New] Choosing YouTube Premium What Makes It Worth the Price for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-brisk-blueprint-to-crafting-google-image-mosaics/"><u>[New] The Brisk Blueprint to Crafting Google Image Mosaics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-free-templates-for-bespoke-video-epilogues-for-2024/"><u>[Updated] Free Templates for Bespoke Video Epilogues for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-personal-emblem-creation-fashioning-an-exaggerated-self/"><u>[Updated] Personal Emblem Creation Fashioning an Exaggerated Self</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diverse-selection-of-the-simpsons-themed-digital-artwork-photos-pictures-and-wallpaper-by-yl-software/"><u>Diverse Selection of The Simpsons Themed Digital Artwork: Photos, Pictures, and Wallpaper by YL Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/flying-high-with-the-blade-blh4100-a-thrilling-rtf-rc-chopper-review/"><u>Flying High with the Blade BLH4100 - A Thrilling RTF RC Chopper Review</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-can-i-fix-scanning-problems-in-windows-a-guide-by-yl-computing/"><u>How Can I Fix Scanning Problems in Windows: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-failure-indicators-a-guide-to-knowing-whether-you-need-a-new-computer-power-unit-by-yl-software-experts/"><u>Identifying Failure Indicators: A Guide to Knowing Whether You Need a New Computer Power Unit by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-broadcast-brilliance-transforming-fb-live-for-tv/"><u>In 2024, Broadcast Brilliance Transforming FB Live for TV</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-30-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 30 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-your-laptops-sound-quality-problems-with-yl-software-techniques/"><u>Resolving Your Laptop's Sound Quality Problems with YL Software Techniques</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-adjusting-date-and-time-on-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Date & Time on Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-mouse-issues-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Unresponsive Mouse Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-the-security-features-types-of-threats-identified-by-windows-defender-insights-from-yl-computing/"><u>Understanding the Security Features: Types of Threats Identified by Windows Defender - Insights From YL Computing</u></a></li>
 </ul></div>
 
