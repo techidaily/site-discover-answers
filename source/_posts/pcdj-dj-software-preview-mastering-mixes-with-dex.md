@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2024-12-05T16:11:05.251Z
-updated: 2024-12-12T04:16:05.882Z
+date: 2024-12-12T23:29:55.174Z
+updated: 2024-12-17T19:42:09.990Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,20 +46,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-epic-browser-recording-tools-for-the-ultimate-surfers-dream-for-2024/"><u>[New] Epic Browser Recording Tools for the Ultimate Surfer's Dream for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-directly-download-youtube-videos/"><u>[Updated] 2024 Approved Directly Download YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>2024 Approved Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722171686590-avoid-wasting-time-on-ineffective-chatgpt-extensions-heres-what-to-use/"><u>Avoid Wasting Time on Ineffective ChatGPT Extensions - Here's What to Use!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/choosing-the-right-gpu-for-your-computer-dedicated-vs-integrated-graphics-options-explained/"><u>Choosing the Right GPU for Your Computer - Dedicated Vs. Integrated Graphics Options Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-twitter-personalities-in-travel-offers-wisdom-and-excursions-for-66-profiles/"><u>Discover the Best Twitter Personalities in Travel: Offers, Wisdom & Excursions for 66 Profiles</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-x8b-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor X8b for Free? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-uncovering-youtubes-top-viewed-comments/"><u>In 2024, Uncovering YouTube's Top Viewed Comments</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/maximizing-earnings-with-crypto-investments-insights-from-yl-computings-expertise/"><u>Maximizing Earnings with Crypto Investments - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/premium-kdrama-show-laptop-backdrops-and-pc-splash-images-provided-by-yl-tech-solutions-transform-your-computers-look/"><u>Premium Kdrama Show Laptop Backdrops & PC Splash Images Provided by YL Tech Solutions - Transform Your Computer's Look</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ultimate-playlist-of-pcdj-hits-rewind-through-2019/"><u>The Ultimate Playlist of PCDJ Hits - Rewind Through 2019!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-network-adapter-that-wont-go-online-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix a Network Adapter That Won't Go Online - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-installation-issues-how-to-fix-windows-program-setup-problems-tips-from-yl-computing/"><u>Understanding Installation Issues: How to Fix Windows Program Setup Problems - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unveiling-power-management-features-in-yl-software-systems-for-enhanced-efficiency/"><u>Unveiling Power Management Features in YL Software Systems for Enhanced Efficiency</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bypassing-watermarks-for-photographic-needs/"><u>[New] Bypassing Watermarks for Photographic Needs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-affordable-tutorial-on-professional-looking-youtube-introsends/"><u>[New] In 2024, Affordable Tutorial on Professional Looking YouTube Intros/Ends</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-the-complexities-of-youtube-copyright-claims-for-2024/"><u>[New] Navigating the Complexities of YouTube Copyright Claims for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-most-watched-twitter-moments-of-the-decade-for-2024/"><u>[New] The Most Watched Twitter Moments of the Decade for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-clip-curator-platform/"><u>[Updated] In 2024, Clip Curator Platform</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-search-comments-on-youtube-quickly/"><u>[Updated] In 2024, How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/deciphering-the-benefits-in-depth-look-at-bandicams-capabilities-for-2024/"><u>Deciphering the Benefits In-Depth Look at Bandicam's Capabilities for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/download-the-latest-pcdj-new-deck-beta-v36-release-now/"><u>Download the Latest PCDJ New Deck: Beta v3.6 Release Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-the-update-failed-error-code-0x800f0922-on-windows-10/"><u>Expert Tips for Overcoming the 'Update Failed' Error (Code 0X800f0922) on Windows 10</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/premium-drift-wallpapers-with-professional-photos-and-graphics-from-yl-software-solutions/"><u>Premium Drift Wallpapers with Professional Photos and Graphics From YL Software Solutions</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ram-troubleshooting-made-easy-learn-how-to-identify-faulty-memory-with-yl-computings-expert-advice/"><u>RAM Troubleshooting Made Easy: Learn How to Identify Faulty Memory with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/skullgirls-mrs-fortune-exquisite-background-art-and-imagery-for-desktop-walls-curated-by-yl-software/"><u>Skullgirls' Mrs. Fortune: Exquisite Background Art & Imagery for Desktop Walls - Curated by YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unique-automotive-scenes-with-lush-greenery-premium-image-collections-from-yl-software/"><u>Unique Automotive Scenes with Lush Greenery - Premium Image Collections From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-software-insights-easily-update-your-desktop-image-on-windows-systems/"><u>YL Software Insights: Easily Update Your Desktop Image on Windows Systems</u></a></li>
 </ul></div>
 

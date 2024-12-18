@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2024-12-07T04:04:11.500Z
-updated: 2024-12-11T17:12:22.235Z
+date: 2024-12-13T16:55:49.639Z
+updated: 2024-12-18T06:03:26.860Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,20 +90,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-youtube-premium-what-makes-it-worth-the-price-for-2024/"><u>[New] Choosing YouTube Premium What Makes It Worth the Price for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-brisk-blueprint-to-crafting-google-image-mosaics/"><u>[New] The Brisk Blueprint to Crafting Google Image Mosaics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-free-templates-for-bespoke-video-epilogues-for-2024/"><u>[Updated] Free Templates for Bespoke Video Epilogues for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-personal-emblem-creation-fashioning-an-exaggerated-self/"><u>[Updated] Personal Emblem Creation Fashioning an Exaggerated Self</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/diverse-selection-of-the-simpsons-themed-digital-artwork-photos-pictures-and-wallpaper-by-yl-software/"><u>Diverse Selection of The Simpsons Themed Digital Artwork: Photos, Pictures, and Wallpaper by YL Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/flying-high-with-the-blade-blh4100-a-thrilling-rtf-rc-chopper-review/"><u>Flying High with the Blade BLH4100 - A Thrilling RTF RC Chopper Review</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-can-i-fix-scanning-problems-in-windows-a-guide-by-yl-computing/"><u>How Can I Fix Scanning Problems in Windows: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-failure-indicators-a-guide-to-knowing-whether-you-need-a-new-computer-power-unit-by-yl-software-experts/"><u>Identifying Failure Indicators: A Guide to Knowing Whether You Need a New Computer Power Unit by YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-broadcast-brilliance-transforming-fb-live-for-tv/"><u>In 2024, Broadcast Brilliance Transforming FB Live for TV</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-30-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 30 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-phantom-grip-advanced-camera-review/"><u>[New] 2024 Approved Phantom Grip Advanced Camera Review</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-fix-unrecognized-usb-devices-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix Unrecognized USB Devices on Your PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://discover-answers.techidaily.com/resolving-your-laptops-sound-quality-problems-with-yl-software-techniques/"><u>Resolving Your Laptop's Sound Quality Problems with YL Software Techniques</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-adjusting-date-and-time-on-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Date & Time on Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-5-ios-podcast-apps-your-ultimate-listing/"><u>Top 5 iOS Podcast Apps Your Ultimate Listing</u></a></li>
 <li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-mouse-issues-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Unresponsive Mouse Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-the-security-features-types-of-threats-identified-by-windows-defender-insights-from-yl-computing/"><u>Understanding the Security Features: Types of Threats Identified by Windows Defender - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unlocking-secure-data-how-to-use-administrator-permissions-for-file-access-in-windows-yl-software-solutions/"><u>Unlocking Secure Data: How to Use Administrator Permissions for File Access in Windows - YL Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-upcoming-new-ipad-pro-and-air-anticipated-release-in-early-may-key-features-revealed/"><u>Unveiling the Upcoming New iPad Pro & Air: Anticipated Release in Early May - Key Features Revealed!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-7-essential-software-for-creating-stunning-animation-drawings/"><u>Updated 2024 Approved 7 Essential Software for Creating Stunning Animation Drawings</u></a></li>
 </ul></div>
 
