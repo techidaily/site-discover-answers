@@ -1,7 +1,7 @@
 ---
 title: Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration
-date: 2024-12-13T05:35:44.106Z
-updated: 2024-12-17T20:16:01.208Z
+date: 2024-12-23T16:51:42.568Z
+updated: 2024-12-26T20:19:14.362Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,20 +85,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-enhance-viewership-with-advanced-youtube-video-tracker-tools/"><u>[New] In 2024, Enhance Viewership with Advanced YouTube Video Tracker Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-essential-mobile-apps-top-8-creativity-boosters-on-ios-and-android/"><u>[New] In 2024, Essential Mobile Apps Top 8 Creativity Boosters on iOS and Android</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-smartphone-filmmakers-handbook-for-youtube-thumbnails-for-2024/"><u>[New] The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/amd-elevates-revenue-outlook-for-instinct-mi130-series-to-4-billion-dollars-how-it-measures-against-nvidias-whopping-40-billion-forecast/"><u>AMD Elevates Revenue Outlook for Instinct MI130# Series to 4 Billion Dollars: How It Measures Against Nvidia's Whopping $40 Billion Forecast</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/avoid-cryptocurrency-pitfalls-with-yls-insights-smart-strategies-for-secure-investments/"><u>Avoid Cryptocurrency Pitfalls with YL's Insights: Smart Strategies for Secure Investments</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/complete-guide-step-by-step-removal-of-windows-defender-perma-uninstall-techniques/"><u>Complete Guide: Step-by-Step Removal of Windows Defender - Perma Uninstall Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pop 7 Pro Phone?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/maximizing-earnings-with-crypto-investments-insights-from-yl-computings-expertise/"><u>Maximizing Earnings with Crypto Investments - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pcdj-dj-software-preview-mastering-mixes-with-dex/"><u>PCDJ DJ Software Preview: Mastering Mixes with DEX</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/premium-kdrama-show-laptop-backdrops-and-pc-splash-images-provided-by-yl-tech-solutions-transform-your-computers-look/"><u>Premium Kdrama Show Laptop Backdrops & PC Splash Images Provided by YL Tech Solutions - Transform Your Computer's Look</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-twitter-management-apps-enhance-your-social-presence/"><u>Top Twitter Management Apps: Enhance Your Social Presence</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-network-adapter-that-wont-go-online-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix a Network Adapter That Won't Go Online - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/whimseypixels-mememakerspace-for-2024/"><u>WhimseyPixels MemeMakerSpace for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-software-unveiled-mastering-network-connection-management-in-the-control-panel/"><u>YL Software Unveiled: Mastering Network Connection Management in the Control Panel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-story-game-with-multiple-image-strategies/"><u>[New] Elevate Your Story Game with Multiple Image Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-audioscapevisumedia-network/"><u>[New] Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-tips-for-capturing-clear-facetime-dialogues-on-screen-for-2024/"><u>[New] Top Tips for Capturing Clear FaceTime Dialogues on Screen for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-stunning-iphone-portraits-through-water-imagery-techniques/"><u>2024 Approved Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/dex-3-unveiled-revolutionary-auto-play-karaoke-backgrounds-in-dj-software-tutorial-video/"><u>DEX 3 Unveiled - Revolutionary Auto-Play Karaoke Backgrounds in DJ Software [Tutorial Video]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experience-the-best-of-both-worlds-a-seamless-blend-of-retro-charm-and-future-technology-in-a-fanless-mini-pc-with-cutting-edge-usb4-ssds/"><u>Experience the Best of Both Worlds: A Seamless Blend of Retro Charm and Future Technology in a Fanless Mini PC with Cutting-Edge USB4 SSDs</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/high-definition-bugatti-veyron-eb-164-hd-desktop-backgrounds-by-yl-computing-ultimate-speed-and-luxury/"><u>High-Definition Bugatti Veyron EB 16.^4 HD Desktop Backgrounds by YL Computing - Ultimate Speed & Luxury</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-graphics-card-failure-step-by-step-guide-by-yl-software-specialists/"><u>Identifying Graphics Card Failure - Step-by-Step Guide by YL Software Specialists</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-memory-issues-top-techniques-for-detecting-system-memory-failures-by-yl-computing/"><u>Identifying Memory Issues: Top Techniques for Detecting System Memory Failures by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-signs-of-malfunction-a-guide-to-diagnosing-faulty-gpu-issues-in-windows-environments/"><u>Identifying Signs of Malfunction: A Guide to Diagnosing Faulty GPU Issues in Windows Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-multiplatform-movie-capture-with-expert-ease/"><u>In 2024, Navigating Multiplatform Movie Capture with Expert Ease</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/is-pre-backup-essential-for-optimal-performance-with-windows-file-recovery-tool/"><u>Is Pre-Backup Essential for Optimal Performance with Windows File Recovery Tool?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-video-rankings-on-youtube-essential-seo-techniques-unveiled-for-2024/"><u>Mastering Video Rankings on YouTube Essential SEO Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/social-sites-for-effective-youtube-video-promotion/"><u>Social Sites for Effective YouTube Video Promotion</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-to-adjusting-mouse-settings-with-yl-software-yl-computing-solutions/"><u>The Ultimate Guide to Adjusting Mouse Settings with YL Software - YL Computing Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-computings-expert-advice-on-configuring-effective-parental-restrictions-using-yl-software/"><u>YL Computing's Expert Advice on Configuring Effective Parental Restrictions Using YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cómo Crear Una Copia De Seguridad en VHD De La Imagen Del Sistema Para Windows 11, 8 O 7
-date: 2024-12-07T03:30:18.250Z
-updated: 2024-12-11T18:27:27.686Z
+date: 2024-12-24T16:12:30.264Z
+updated: 2024-12-26T18:26:45.152Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35ff890c97d3a0607584104c84.jpg
@@ -24,9 +24,17 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -49,10 +57,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -69,12 +73,16 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -95,6 +103,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -113,10 +125,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -134,6 +142,10 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -195,10 +207,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -234,7 +242,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -255,15 +263,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,17 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>[New] 2024 Approved Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-aerial-angle-appraisal-overlook/"><u>[New] In 2024, Aerial Angle Appraisal Overlook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-convenient-steps-to-validate-age-in-tiktok-profiles/"><u>2024 Approved Convenient Steps to Validate Age in TikTok Profiles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-radiance-and-refine-essential-editing-secrets-revealed/"><u>2024 Approved Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/best-practices-for-streamlining-your-start-up-apps-insights-from-yl-computings-expertise/"><u>Best Practices for Streamlining Your Start-Up Apps: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/efficiently-navigate-files-in-windows-by-learning-to-make-shortcuts-expert-advice-by-yl-software/"><u>Efficiently Navigate Files in Windows by Learning to Make Shortcuts - Expert Advice by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/interpreting-laws-around-youtube-content-capture/"><u>Interpreting Laws Around YouTube Content Capture</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-recurrent-enter-to-bios-in-windows-boot-cycle/"><u>Overcoming Recurrent Enter To BIOS in Windows Boot Cycle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventive-measures-against-windows-notepad-freezes/"><u>Preventive Measures Against Windows Notepad Freezes</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-easy-file-sharing-techniques-for-windows-users-by-yl-software-experts/"><u>Step-by-Step Guide: Easy File Sharing Techniques for Windows Users by YL Software Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-your-devices-full-potential-a-deep-dive-into-the-system-settings-of-yl-computing-solutions/"><u>Unlocking Your Device's Full Potential: A Deep Dive Into the System Settings of YL Computing Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-free-youtube-money-calculators-calculate-youtube-money/"><u>[New] Free YouTube Money Calculators-Calculate YouTube Money</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-inter-app-playlist-exchange-made-simple/"><u>[New] Inter-App Playlist Exchange Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pugilism-power-play-against-viewership-virtue/"><u>2024 Approved Pugilism Power Play Against Viewership Virtue</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/compatibility-check-does-your-dj-controller-work-with-macos-high-sierra/"><u>Compatibility Check: Does Your DJ Controller Work with MacOS High Sierra?</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/complete-guide-to-using-flippdfs-knowledge-repository-on-flipbuildercom/"><u>Complete Guide to Using FlipPDF's Knowledge Repository on FlipBuilder.com</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/decoding-display-malfunctions-an-in-depth-analysis-by-yl-softwares-technology-team/"><u>Decoding Display Malfunctions: An In-Depth Analysis by YL Software's Technology Team</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-your-computers-sound-card-a-step-by-step-guide-from-yl-computing/"><u>Discover Your Computer's Sound Card: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-fix-a-faulty-network-adapter-a-step-by-step-guide-by-yl-computing/"><u>How to Fix a Faulty Network Adapter: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-twitter-video-content-flow-to-facebook/"><u>In 2024, Navigating Twitter Video Content Flow to Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-quick-launch-long-growth-the-10-best-youtube-business-channels/"><u>In 2024, Quick Launch, Long Growth The 10 Best YouTube Business Channels</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/latest-karaoke-cloud-pro-update-launched-subscribe-now-released-on-0518-pcdj/"><u>Latest Karaoke Cloud Pro Update Launched - Subscribe Now (Released on 05/18) | PCDJ</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/new-in-dex-311-update-revolutionary-shaders-boost-on-screen-visualizations/"><u>New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-audio-issues-fixing-distortion-from-your-sound-card-insights-by-yl-computing/"><u>Resolving Audio Issues: Fixing Distortion From Your Sound Card - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-annotate-windows-photos-video-content-for-2024/"><u>Step-by-Step Guide to Annotate Windows Photos Video Content for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-your-non-functional-gpu-expert-solutions-from-yl-software-engineers/"><u>Troubleshooting Your Non-Functional GPU: Expert Solutions From YL Software Engineers</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-guide-how-to-optimally-handle-user-management-with-yl-computings-innovative-solutions/"><u>Ultimate Guide: How to Optimally Handle User Management with YL Computing's Innovative Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-8-interactive-gloves-in-vr-for-2024/"><u>Unveiling Top 8 Interactive Gloves in VR for 2024</u></a></li>
 </ul></div>
 

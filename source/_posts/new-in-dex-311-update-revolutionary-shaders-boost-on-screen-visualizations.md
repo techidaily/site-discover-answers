@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2024-12-16T11:16:58.581Z
-updated: 2024-12-18T11:33:12.736Z
+date: 2024-12-24T21:16:45.348Z
+updated: 2024-12-26T20:08:07.580Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,24 +65,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-closer-conversations-mastering-in-camera-precision/"><u>[Updated] 2024 Approved Closer Conversations Mastering In-Camera Precision</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-gopros-underwater-journey-essential-tactics-to-make-your-videos-stand-out/"><u>[Updated] GoPro’s Underwater Journey Essential Tactics to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[Updated] Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-understanding-the-mechanics-how-to-follow-facebook-live-for-2024/"><u>[Updated] Understanding the Mechanics How to Follow Facebook Live for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-substitutes-for-chatgpt-our-1-picks/"><u>Best Substitutes for ChatGPT: Our #1 Picks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/compatibility-check-does-your-dj-controller-work-with-macos-high-sierra/"><u>Compatibility Check: Does Your DJ Controller Work with MacOS High Sierra?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-your-computers-sound-card-a-step-by-step-guide-from-yl-computing/"><u>Discover Your Computer's Sound Card: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-guide-to-enhancing-youtube-content-post-upload/"><u>Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-fix-a-faulty-network-adapter-a-step-by-step-guide-by-yl-computing/"><u>How to Fix a Faulty Network Adapter: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-signs-of-a-malfunctioning-scanner-driver-expert-insights-from-yl-computing/"><u>Identifying Signs of a Malfunctioning Scanner Driver: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/latest-karaoke-cloud-pro-update-launched-subscribe-now-released-on-0518-pcdj/"><u>Latest Karaoke Cloud Pro Update Launched - Subscribe Now (Released on 05/18) | PCDJ</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2250930-9781844038121-living-with-time-to-think/"><u>Living with Time to Think | Free Book</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/maximizing-performance-what-to-do-when-your-gpu-doesnt-meet-expectations-advice-by-yl-software-experts/"><u>Maximizing Performance: What to Do When Your GPU Doesn't Meet Expectations - Advice by YL Software Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/past-paints-legal-freedoms-for-classics-for-2024/"><u>Past Paints Legal Freedoms for Classics for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/resolving-audio-issues-fixing-distortion-from-your-sound-card-insights-by-yl-computing/"><u>Resolving Audio Issues: Fixing Distortion From Your Sound Card - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-process-to-refresh-your-pcs-driver-software-by-yl-software-experts/"><u>Step-by-Step Process to Refresh Your PC's Driver Software by YL Software Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-by-zdnet-retrieve-lost-airpods-and-avoid-misplacement-in-the-future/"><u>The Ultimate Guide by ZDNet: Retrieve Lost AirPods & Avoid Misplacement in the Future</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultra-clear-hd-wallpaper-designs-and-background-pixels-creative-visuals-by-yl-computing/"><u>Ultra-Clear HD Wallpaper Designs & Background Pixels: Creative Visuals by YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-virtual-symphonies-adding-music-to-imagery/"><u>[New] In 2024, Virtual Symphonies Adding Music to Imagery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-impart-rotational-luminosity-modification-in-photoshopping-for-2024/"><u>[Updated] Impart Rotational Luminosity Modification in Photoshopping for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-sd-card-compatible-with-a7s-ii/"><u>[Updated] Superior SD Card Compatible with A7S II</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-rise-to-greatness-with-these-10-elevating-films/"><u>2024 Approved Rise to Greatness with These 10 Elevating Films</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-11x-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme 11X 5G Phone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/maximizing-earnings-with-crypto-investments-insights-from-yl-computings-expertise/"><u>Maximizing Earnings with Crypto Investments - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/pcdj-dj-software-preview-mastering-mixes-with-dex/"><u>PCDJ DJ Software Preview: Mastering Mixes with DEX</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/premium-kdrama-show-laptop-backdrops-and-pc-splash-images-provided-by-yl-tech-solutions-transform-your-computers-look/"><u>Premium Kdrama Show Laptop Backdrops & PC Splash Images Provided by YL Tech Solutions - Transform Your Computer's Look</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-impact-of-freesync-on-lgs-ultra-hd-monitors-27uhd68/"><u>The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68)</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-network-adapter-that-wont-go-online-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix a Network Adapter That Won't Go Online - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-software-unveiled-mastering-network-connection-management-in-the-control-panel/"><u>YL Software Unveiled: Mastering Network Connection Management in the Control Panel</u></a></li>
 </ul></div>
 

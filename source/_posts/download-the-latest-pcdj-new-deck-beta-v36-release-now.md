@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest PCDJ New Deck: Beta v3.6 Release Now!"
-date: 2024-12-12T21:57:46.450Z
-updated: 2024-12-18T09:29:04.146Z
+date: 2024-12-25T01:28:49.662Z
+updated: 2024-12-26T16:43:50.111Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,21 +73,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[Updated] 2024 Approved How to Edit YouTube Videos in Final Cut Pro</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-superior-earners-on-social-media-platform/"><u>[Updated] 2024 Approved Superior Earners on Social Media Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-content-that-captivates-easy-to-try-videos/"><u>[Updated] Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/dex-3-unveiled-revolutionary-auto-play-karaoke-backgrounds-in-dj-software-tutorial-video/"><u>DEX 3 Unveiled - Revolutionary Auto-Play Karaoke Backgrounds in DJ Software [Tutorial Video]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-computer-and-gadget-critiques-from-toms-hardware-authority/"><u>Expert Computer and Gadget Critiques From Tom's Hardware Authority</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/expert-strategies-for-total-program-deletion-in-windows-by-yl-software-professionals/"><u>Expert Strategies for Total Program Deletion in Windows by YL Software Professionals</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/high-definition-bugatti-veyron-eb-164-hd-desktop-backgrounds-by-yl-computing-ultimate-speed-and-luxury/"><u>High-Definition Bugatti Veyron EB 16.^4 HD Desktop Backgrounds by YL Computing - Ultimate Speed & Luxury</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-11f-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 11F 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-the-keychron-k2-he-special-edition-a-blend-of-vintage-style-and-contemporary-functionality/"><u>Review: The Keychron K2 HE Special Edition - A Blend of Vintage Style and Contemporary Functionality</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-how-to-overcome-the-live-config-sync-error-quickly/"><u>Troubleshoot: How to Overcome the ‘Live Config Sync Error’ Quickly</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-non-compatible-programs-in-windows-expert-advice-from-yl-software-experts/"><u>Troubleshooting Non-Compatible Programs in Windows: Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-printer-issues-post-windows-11-update-expert-advice-from-yl-computing/"><u>Troubleshooting Printer Issues Post-Windows 11 Update: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-magsafe-wallets-in-depth-analysis-and-professional-ratings-zdnet/"><u>Ultimate Selection of MagSafe Wallets : In-Depth Analysis and Professional Ratings | ZDNet</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-post-policy-transformations-a-deep-dive-into-the-one-child-policy-effects-with-yl-computing-and-yl-software-analysis/"><u>Understanding Post-Policy Transformations: A Deep Dive Into the One-Child Policy Effects with YL Computing & YL Software Analysis</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unique-japanese-art-collection-premium-wallpapers-hd-backgrounds-and-stunning-visuals-discovered-by-yl-computing/"><u>Unique Japanese Art Collection: Premium Wallpapers, HD Backgrounds, and Stunning Visuals - Discovered by YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-subtitled-content-download-without-paying-for-2024/"><u>[New] Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>[New] In 2024, Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-impact-of-luts-on-professional-photography/"><u>[New] The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023s-social-media-video-extractor-for-all-platforms/"><u>[Updated] 2023'S Social Media Video Extractor for All Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-core-strategies-for-tailoring-compelling-social-media-promotions/"><u>[Updated] In 2024, Core Strategies for Tailoring Compelling Social Media Promotions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-secrets-of-instagram-scheduling/"><u>[Updated] In 2024, Unlocking the Secrets of Instagram Scheduling</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/adjusting-device-configuration-a-step-by-step-guide-by-yl-software/"><u>Adjusting Device Configuration: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/amg-mercedes-benz-cls-63-stunning-wallpaper-collection-by-yl-computing-and-yl-software/"><u>AMG Mercedes-Benz CLS 63 Stunning Wallpaper Collection by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-dell-wireless-keyboard-troubleshooting-tips-and-solutions/"><u>Fixing Your Dell Wireless Keyboard: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/rev-up-your-system-speed-with-essential-tweaks-guidance-by-yl-software-experts/"><u>Rev Up Your System Speed with Essential Tweaks - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/rising-appetite-for-safety-causes-fluctuations-in-precious-metal-values-specialists-caution-on-impulsive-gold-market-movements-insights-by-yl-computing/"><u>Rising Appetite for Safety Causes Fluctuations in Precious Metal Values: Specialists Caution on Impulsive Gold Market Movements - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-audio-issues-on-your-pcs-sound-card-a-step-by-step-guide-by-yl-software/"><u>Solving Audio Issues on Your PC's Sound Card - A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-picks-best-free-cross-platform-video-communication-tools-for-2024/"><u>Top Picks Best Free Cross-Platform Video Communication Tools for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unleashing-innovation-at-yl-softwares-new-york-summit-a-capital-event/"><u>Unleashing Innovation at YL Software’s New York Summit – A Capital Event!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/usdc-trading-platform-withdrawal-hits-seven-day-low-at-1616m-insights-from-glassnode-by-yl-computing-and-yl-software/"><u>USDC Trading Platform Withdrawal Hits Seven-Day Low at $16.16M: Insights From Glassnode - By YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-computings-collection-of-authentic-kiwi-background-graphics-photos-and-visual-art-from-aotearoanew-zealand/"><u>YL Computing's Collection of Authentic Kiwi Background Graphics, Photos, and Visual Art From Aotearoa/New Zealand</u></a></li>
 </ul></div>
 

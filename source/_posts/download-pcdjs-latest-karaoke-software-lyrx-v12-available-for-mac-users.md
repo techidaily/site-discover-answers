@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2024-12-13T16:55:49.639Z
-updated: 2024-12-18T06:03:26.860Z
+date: 2024-12-20T23:59:03.848Z
+updated: 2024-12-26T22:44:01.882Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,14 +90,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-phantom-grip-advanced-camera-review/"><u>[New] 2024 Approved Phantom Grip Advanced Camera Review</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-fix-unrecognized-usb-devices-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix Unrecognized USB Devices on Your PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/resolving-your-laptops-sound-quality-problems-with-yl-software-techniques/"><u>Resolving Your Laptop's Sound Quality Problems with YL Software Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-5-ios-podcast-apps-your-ultimate-listing/"><u>Top 5 iOS Podcast Apps Your Ultimate Listing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-mouse-issues-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Unresponsive Mouse Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-secure-data-how-to-use-administrator-permissions-for-file-access-in-windows-yl-software-solutions/"><u>Unlocking Secure Data: How to Use Administrator Permissions for File Access in Windows - YL Software Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-upcoming-new-ipad-pro-and-air-anticipated-release-in-early-may-key-features-revealed/"><u>Unveiling the Upcoming New iPad Pro & Air: Anticipated Release in Early May - Key Features Revealed!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-7-essential-software-for-creating-stunning-animation-drawings/"><u>Updated 2024 Approved 7 Essential Software for Creating Stunning Animation Drawings</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnostic-unable-to-start-local-spooler-service/"><u>[DIAGNOSTIC] Unable to Start Local Spooler Service</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/accelerate-your-internet-updating-network-drivers-made-easy-tips-from-yl-computing/"><u>Accelerate Your Internet: Updating Network Drivers Made Easy - Tips From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converti-dati-vob-a-formato-m4v-online-gratuitamente-con-movavi/"><u>Converti Dati VOB a Formato M4V Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/enhance-your-desktop-with-bonnie-from-the-vampire-diaries-high-res-graphics-by-yl-software/"><u>Enhance Your Desktop with Bonnie From The Vampire Diaries - High-Res Graphics by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innocent-looking-software-uncovered-for-windows-11-speed-drop/"><u>Innocent-Looking Software Uncovered for Windows 11 Speed Drop</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/modifying-display-properties-via-control-panel-essential-tips-from-yl-systems-engineering-expertise/"><u>Modifying Display Properties via Control Panel: Essential Tips From YL Systems Engineering Expertise</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reverting-your-printer-to-original-factory-conditions-a-comprehensive-guide/"><u>Reverting Your Printer to Original Factory Conditions: A Comprehensive Guide</u></a></li>
 </ul></div>
 
