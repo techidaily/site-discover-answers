@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2024-12-24T21:16:45.348Z
-updated: 2024-12-26T20:08:07.580Z
+date: 2024-12-28T21:17:30.981Z
+updated: 2025-01-05T07:42:14.622Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,16 +65,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-virtual-symphonies-adding-music-to-imagery/"><u>[New] In 2024, Virtual Symphonies Adding Music to Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-impart-rotational-luminosity-modification-in-photoshopping-for-2024/"><u>[Updated] Impart Rotational Luminosity Modification in Photoshopping for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-superior-sd-card-compatible-with-a7s-ii/"><u>[Updated] Superior SD Card Compatible with A7S II</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-rise-to-greatness-with-these-10-elevating-films/"><u>2024 Approved Rise to Greatness with These 10 Elevating Films</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-11x-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme 11X 5G Phone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/maximizing-earnings-with-crypto-investments-insights-from-yl-computings-expertise/"><u>Maximizing Earnings with Crypto Investments - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pcdj-dj-software-preview-mastering-mixes-with-dex/"><u>PCDJ DJ Software Preview: Mastering Mixes with DEX</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/premium-kdrama-show-laptop-backdrops-and-pc-splash-images-provided-by-yl-tech-solutions-transform-your-computers-look/"><u>Premium Kdrama Show Laptop Backdrops & PC Splash Images Provided by YL Tech Solutions - Transform Your Computer's Look</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-impact-of-freesync-on-lgs-ultra-hd-monitors-27uhd68/"><u>The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68)</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-a-network-adapter-that-wont-go-online-expert-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix a Network Adapter That Won't Go Online - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-software-unveiled-mastering-network-connection-management-in-the-control-panel/"><u>YL Software Unveiled: Mastering Network Connection Management in the Control Panel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-beginners-guide-to-video-capture-with-logitech-cam-for-2024/"><u>[New] Beginner's Guide to Video Capture with Logitech Cam for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-10-tips-to-make-your-youtube-shorts-channels-stand-out/"><u>[New] In 2024, 10 Tips to Make Your YouTube Shorts Channels Stand Out</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-youtube-income-insights-and-techniques/"><u>[Updated] 2024 Approved Maximize Youtube Income Insights and Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-strategies-optimizing-for-business-growth/"><u>[Updated] In 2024, Snapchat Strategies Optimizing for Business Growth</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-sony-bdp-s3700-review/"><u>2024 Approved Sony BDP- S3700 Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/beats-and-bars-top-20-rap-tracks-soaring-on-tiktok/"><u>Beats & Bars Top 20 Rap Tracks Soaring on TikTok</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/fix-fur-iphone-video-ladeprobleme-losungen-finden/"><u>Fix Für iPhone-Video Ladeprobleme - Lösungen Finden</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-flat-to-fierce-transformative-color-workflows-for-2024/"><u>From Flat to Fierce Transformative Color Workflows for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-note-50-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme Note 50 Phone that is Locked?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/speichern-und-kopieren-von-daten-ohne-volumenbeschrankungen-benutzeroptimierte-losung/"><u>Speichern Und Kopieren Von Daten Ohne Volumenbeschränkungen - Benutzeroptimierte Lösung</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-setting-up-windows-server-in-virtualbox-environment/"><u>Step-by-Step Guide: Setting Up Windows Server in VirtualBox Environment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-approaches-to-ai-assistance-in-professional-writing-services/"><u>Strategic Approaches to AI Assistance in Professional Writing Services</u></a></li>
 </ul></div>
 

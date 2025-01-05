@@ -1,7 +1,7 @@
 ---
 title: Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration
-date: 2024-12-23T16:51:42.568Z
-updated: 2024-12-26T20:19:14.362Z
+date: 2025-01-02T02:53:55.339Z
+updated: 2025-01-05T09:56:02.802Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-story-game-with-multiple-image-strategies/"><u>[New] Elevate Your Story Game with Multiple Image Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-audioscapevisumedia-network/"><u>[New] Harmonizing Audioscape/Visumedia Network</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-tips-for-capturing-clear-facetime-dialogues-on-screen-for-2024/"><u>[New] Top Tips for Capturing Clear FaceTime Dialogues on Screen for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-stunning-iphone-portraits-through-water-imagery-techniques/"><u>2024 Approved Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/dex-3-unveiled-revolutionary-auto-play-karaoke-backgrounds-in-dj-software-tutorial-video/"><u>DEX 3 Unveiled - Revolutionary Auto-Play Karaoke Backgrounds in DJ Software [Tutorial Video]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/experience-the-best-of-both-worlds-a-seamless-blend-of-retro-charm-and-future-technology-in-a-fanless-mini-pc-with-cutting-edge-usb4-ssds/"><u>Experience the Best of Both Worlds: A Seamless Blend of Retro Charm and Future Technology in a Fanless Mini PC with Cutting-Edge USB4 SSDs</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/high-definition-bugatti-veyron-eb-164-hd-desktop-backgrounds-by-yl-computing-ultimate-speed-and-luxury/"><u>High-Definition Bugatti Veyron EB 16.^4 HD Desktop Backgrounds by YL Computing - Ultimate Speed & Luxury</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-graphics-card-failure-step-by-step-guide-by-yl-software-specialists/"><u>Identifying Graphics Card Failure - Step-by-Step Guide by YL Software Specialists</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-memory-issues-top-techniques-for-detecting-system-memory-failures-by-yl-computing/"><u>Identifying Memory Issues: Top Techniques for Detecting System Memory Failures by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-signs-of-malfunction-a-guide-to-diagnosing-faulty-gpu-issues-in-windows-environments/"><u>Identifying Signs of Malfunction: A Guide to Diagnosing Faulty GPU Issues in Windows Environments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-multiplatform-movie-capture-with-expert-ease/"><u>In 2024, Navigating Multiplatform Movie Capture with Expert Ease</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/is-pre-backup-essential-for-optimal-performance-with-windows-file-recovery-tool/"><u>Is Pre-Backup Essential for Optimal Performance with Windows File Recovery Tool?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-video-rankings-on-youtube-essential-seo-techniques-unveiled-for-2024/"><u>Mastering Video Rankings on YouTube Essential SEO Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/social-sites-for-effective-youtube-video-promotion/"><u>Social Sites for Effective YouTube Video Promotion</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-to-adjusting-mouse-settings-with-yl-software-yl-computing-solutions/"><u>The Ultimate Guide to Adjusting Mouse Settings with YL Software - YL Computing Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-computings-expert-advice-on-configuring-effective-parental-restrictions-using-yl-software/"><u>YL Computing's Expert Advice on Configuring Effective Parental Restrictions Using YL Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-charm-in-the-click-a-thumbnail-hack-for-youtube-shorts-for-2024/"><u>[New] Crafting Charm in the Click A Thumbnail Hack for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-detailed-analysis-vlc-for-video-capture/"><u>[New] Detailed Analysis VLC for Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>[Updated] Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-superior-2-written-by-robert-littell/"><u>[Updated] In 2024, Superior 2 Written by Robert Littell</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/44cm57sb5asx44o75ymk6zmk44gx44gf5yuv55s744ks5ywd44gr5oi744gz44oh44k444k44or44kr44oh44op44om44o844k244o85zcr44gr44ks44kk44oj44cn/"><u>「紛失・削除した動画を元に戻すデジタルカメラユーザー向けガイド」</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-use-youtube-cards-and-annotations/"><u>2024 Approved How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guerir-la-sauvegarde-de-votre-systeme-windows-11-sur-un-nas-qnap-deux-methodes-efficaces/"><u>Guérir La Sauvegarde De Votre Système Windows 11 Sur Un NAS QNAP: Deux Méthodes Efficaces</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-etape-par-etape-pour-restaurer-un-historique-de-navigation-supprime-sur-firefox/"><u>Guide Étape Par Étape Pour Restaurer Un Historique De Navigation Supprimé Sur Firefox</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-capture-motion-blur-photos-with-iphone-for-2024/"><u>How to Capture Motion Blur Photos with iPhone for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-permanently-remove-a-desktop-icon-a-six-step-guide/"><u>How to Permanently Remove a Desktop Icon: A Six-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/increasing-video-popularity-persisting-with-cc-on-youtube-for-2024/"><u>Increasing Video Popularity Persisting with CC on YouTube for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-the-ps5-ssd-firmware-update-a-comprehensive-guide/"><u>Mastering the PS5 SSD Firmware Update: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/pemulihangatkan-tempel-bocoria-windows-10-langkah-langkah-utama-dan-efektifnya/"><u>Pemulihangatkan Tempel Bocoria Windows 10: Langkah-Langkah Utama Dan Efektifnya</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/type-diskpart-to-start-the-disk-partition-tool/"><u>Type `Diskpart` to Start the Disk Partition Tool.</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-guide-premium-yet-free-tools-for-migrating-your-data-to-a-new-kingston-ssd/"><u>Ultimate Guide: Premium Yet Free Tools for Migrating Your Data to a New Kingston SSD</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlock-brand-potential-top-terminology-for-impactful-campaigns-for-2024/"><u>Unlock Brand Potential Top Terminology for Impactful Campaigns for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2024-12-23T21:45:12.653Z
-updated: 2024-12-26T21:41:18.806Z
+date: 2025-01-04T12:40:45.139Z
+updated: 2025-01-04T17:23:46.552Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,17 +46,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-3ds-pc-mimicry-software-choices/"><u>[New] In 2024, Premium 3Ds PC Mimicry Software Choices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-calm-cursor-3-pathways-to-mellow-watching-videos-on-youtube-57-chars/"><u>2024 Approved Calm Cursor 3 Pathways to Mellow Watching Videos on YouTube (57 Chars)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-purifying-audio-from-films-and-movies-cost-effective-methods/"><u>2024 Approved Purifying Audio From Films and Movies Cost-Effective Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>2024 Approved The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aerial-innovations-explained-drone-technology-simplified/"><u>Aerial Innovations Explained Drone Technology Simplified</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/compatibility-check-does-your-dj-controller-work-with-macos-high-sierra/"><u>Compatibility Check: Does Your DJ Controller Work with MacOS High Sierra?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dealing-with-amazon-echo-network-issues-how-to-get-your-smart-assistant-back-online/"><u>Dealing with Amazon Echo Network Issues: How to Get Your Smart Assistant Back Online</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-your-computers-sound-card-a-step-by-step-guide-from-yl-computing/"><u>Discover Your Computer's Sound Card: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-fix-a-faulty-network-adapter-a-step-by-step-guide-by-yl-computing/"><u>How to Fix a Faulty Network Adapter: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-corsair-hs70-headset-microphone-malfunctions/"><u>Step-by-Step Solution for Corsair HS70 Headset Microphone Malfunctions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-your-non-functional-gpu-expert-solutions-from-yl-software-engineers/"><u>Troubleshooting Your Non-Functional GPU: Expert Solutions From YL Software Engineers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-guide-how-to-optimally-handle-user-management-with-yl-computings-innovative-solutions/"><u>Ultimate Guide: How to Optimally Handle User Management with YL Computing's Innovative Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-commanding-attention-on-digital-platforms-via-custom-designs/"><u>[New] 2024 Approved Commanding Attention on Digital Platforms via Custom Designs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-facebook-to-play-youtube-videos-without-interruption-for-2024/"><u>[New] Navigating Facebook to Play YouTube Videos Without Interruption for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>[Updated] 2024 Approved Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-skis-and-boards-best-from-x-games/"><u>[Updated] 2024 Approved Elite Skis & Boards Best From X Games</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-user-terms-and-conditions-crypto-balance-verification-app-by-yl-computing/"><u>1. User Terms and Conditions: Crypto Balance Verification App by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1732514612631-u-yl/"><u>在市场下跌中保持平静：投资者安全睡眠指南 - U兄解析万亿孤独之路-YL计算机与软件专利</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diagnosing-and-repairing-bsod-issues-in-windows-os-with-expert-advice-by-yl-software/"><u>Diagnosing and Repairing BSOD Issues in Windows OS with Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ensuring-perfect-harmony-a-guide-to-match-your-speakers-with-any-sound-card-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: A Guide to Match Your Speakers with Any Sound Card - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/exploring-future-possibilities-how-can-blockchain-reshape-industries-with-yl-computings-insights/"><u>Exploring Future Possibilities: How Can Blockchain Reshape Industries with YL Computing's Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/headphones-battle-apple-airpods-pro-versus-samsung-buds-pro/"><u>Headphones Battle: Apple AirPods Pro Versus Samsung Buds Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom-for-2024/"><u>Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 15 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-xr21-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia XR21 Device</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-video-file-reduction-with-easy-steps-from-yl-software-experts/"><u>Mastering Video File Reduction with Easy Steps From YL Software Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/rev-up-your-social-media-impact-essential-hashtags-for-high-likes-and-follows/"><u>Rev Up Your Social Media Impact Essential Hashtags for High Likes and Follows</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/stay-ahead-of-the-curve-tracking-new-advances-in-digital-currency-insights-from-yl-computing/"><u>Stay Ahead of the Curve: Tracking New Advances in Digital Currency - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/video-guide-aligning-your-mobile-dj-skills-with-the-perfect-event-pcdj-techniques-revealed/"><u>Video Guide: Aligning Your Mobile DJ Skills with the Perfect Event - PCDJ Techniques Revealed</u></a></li>
+<li><a href="https://win-guides.techidaily.com/vue-argon-pro-admin-suite-with-bootstrap-integration-premium-template-package-from-creative-tim/"><u>Vue Argon Pro Admin Suite with Bootstrap Integration | Premium Template Package From Creative Tim</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/which-platforms-support-the-use-of-windows-defender-by-microsoft-insights-from-yl-computing/"><u>Which Platforms Support the Use of Windows Defender by Microsoft - Insights From YL Computing</u></a></li>
 </ul></div>
 

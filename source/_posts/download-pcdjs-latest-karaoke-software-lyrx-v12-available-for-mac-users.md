@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2024-12-20T23:59:03.848Z
-updated: 2024-12-26T22:44:01.882Z
+date: 2024-12-31T03:33:35.589Z
+updated: 2025-01-05T14:19:33.431Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,14 +90,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/diagnostic-unable-to-start-local-spooler-service/"><u>[DIAGNOSTIC] Unable to Start Local Spooler Service</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/accelerate-your-internet-updating-network-drivers-made-easy-tips-from-yl-computing/"><u>Accelerate Your Internet: Updating Network Drivers Made Easy - Tips From YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/converti-dati-vob-a-formato-m4v-online-gratuitamente-con-movavi/"><u>Converti Dati VOB a Formato M4V Online Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/enhance-your-desktop-with-bonnie-from-the-vampire-diaries-high-res-graphics-by-yl-software/"><u>Enhance Your Desktop with Bonnie From The Vampire Diaries - High-Res Graphics by YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innocent-looking-software-uncovered-for-windows-11-speed-drop/"><u>Innocent-Looking Software Uncovered for Windows 11 Speed Drop</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/modifying-display-properties-via-control-panel-essential-tips-from-yl-systems-engineering-expertise/"><u>Modifying Display Properties via Control Panel: Essential Tips From YL Systems Engineering Expertise</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/reverting-your-printer-to-original-factory-conditions-a-comprehensive-guide/"><u>Reverting Your Printer to Original Factory Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-compreenas-guide-to-seamless-time-marking-in-youtube-videos-desktopmobile/"><u>[New] 2024 Approved The Compreenas Guide to Seamless Time Marking in YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-hdr-tvs-explored-is-aurora-at-the-forefront-in-2024/"><u>[New] HDR TVs Explored Is Aurora at the Forefront, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-perfect-your-focus-a-guide-to-roblox-tight-scopes-for-2024/"><u>[New] Perfect Your Focus A Guide to Roblox Tight Scopes for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-auroras-dynamic-range-feature-a-detailed-perspective/"><u>[Updated] In 2024, Aurora's Dynamic Range Feature A Detailed Perspective</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728483249229-aomei/"><u>AOMEI 中备份器赞助的文件系统列表</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/effizientes-vorgehen-wie-man-versehentlich-geloschte-kontakte-wiederherstellt-outlook-tipps/"><u>Effizientes Vorgehen: Wie Man Versehentlich Gelöschte Kontakte Wiederherstellt - Outlook Tipps</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/expert-strategies-for-efficient-file-retrieval-in-windows-11-the-complete-how-to-guide/"><u>Expert Strategies for Efficient File Retrieval in Windows 11 - The Complete How-To Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-supports-latest-printer-model/"><u>Fix: Windows Supports Latest Printer Model</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-ace-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Ace 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-advanced-recording-strategies-for-effective-ppt-dissemination/"><u>In 2024, Advanced Recording Strategies for Effective PPT Dissemination</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-ifunny-memes/"><u>In 2024, Mastering the Art of iFunny Memes</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/planen-sie-ihre-datenwiederherstellung-mit-einfachen-strategien-automatische-backups-von-windows-server-202/"><u>Planen Sie Ihre Datenwiederherstellung Mit Einfachen Strategien: Automatische Backups Von Windows Server 202</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reclaiming-data-from-missing-partitions-on-windows-11-easy-restoration-steps/"><u>Reclaiming Data From Missing Partitions on Windows 11 - Easy Restoration Steps</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-list-of-the-worlds-most-menacing-hackers-ever-insights-from-malwarefox/"><u>The Ultimate List of the World's Most Menacing Hackers Ever - Insights From MalwareFox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/titre-verification-historique-des-fichiers-est-ce-que-vous-ne-trouverez-aucun-enregistrement-precedent/"><u>Titre: Vérification Historique Des Fichiers : Est-Ce Que Vous Ne Trouverez Aucun Enregistrement Précédent ?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-windows-10-at-home-to-pro-efficiency/"><u>Transform Your Windows 10 at Home to Pro Efficiency</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728483131471-windows-11/"><u>Windows 11 文件管理指南：有效的方法详解 - 文件传输和转移技术</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest PCDJ New Deck: Beta v3.6 Release Now!"
-date: 2024-12-25T01:28:49.662Z
-updated: 2024-12-26T16:43:50.111Z
+date: 2024-12-29T09:46:53.404Z
+updated: 2025-01-05T07:55:48.595Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-subtitled-content-download-without-paying-for-2024/"><u>[New] Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>[New] In 2024, Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-impact-of-luts-on-professional-photography/"><u>[New] The Impact of LUTs on Professional Photography</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2023s-social-media-video-extractor-for-all-platforms/"><u>[Updated] 2023'S Social Media Video Extractor for All Platforms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-core-strategies-for-tailoring-compelling-social-media-promotions/"><u>[Updated] In 2024, Core Strategies for Tailoring Compelling Social Media Promotions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-secrets-of-instagram-scheduling/"><u>[Updated] In 2024, Unlocking the Secrets of Instagram Scheduling</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/adjusting-device-configuration-a-step-by-step-guide-by-yl-software/"><u>Adjusting Device Configuration: A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/amg-mercedes-benz-cls-63-stunning-wallpaper-collection-by-yl-computing-and-yl-software/"><u>AMG Mercedes-Benz CLS 63 Stunning Wallpaper Collection by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-dell-wireless-keyboard-troubleshooting-tips-and-solutions/"><u>Fixing Your Dell Wireless Keyboard: Troubleshooting Tips and Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/rev-up-your-system-speed-with-essential-tweaks-guidance-by-yl-software-experts/"><u>Rev Up Your System Speed with Essential Tweaks - Guidance by YL Software Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/rising-appetite-for-safety-causes-fluctuations-in-precious-metal-values-specialists-caution-on-impulsive-gold-market-movements-insights-by-yl-computing/"><u>Rising Appetite for Safety Causes Fluctuations in Precious Metal Values: Specialists Caution on Impulsive Gold Market Movements - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-audio-issues-on-your-pcs-sound-card-a-step-by-step-guide-by-yl-software/"><u>Solving Audio Issues on Your PC's Sound Card - A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-picks-best-free-cross-platform-video-communication-tools-for-2024/"><u>Top Picks Best Free Cross-Platform Video Communication Tools for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unleashing-innovation-at-yl-softwares-new-york-summit-a-capital-event/"><u>Unleashing Innovation at YL Software’s New York Summit – A Capital Event!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/usdc-trading-platform-withdrawal-hits-seven-day-low-at-1616m-insights-from-glassnode-by-yl-computing-and-yl-software/"><u>USDC Trading Platform Withdrawal Hits Seven-Day Low at $16.16M: Insights From Glassnode - By YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-computings-collection-of-authentic-kiwi-background-graphics-photos-and-visual-art-from-aotearoanew-zealand/"><u>YL Computing's Collection of Authentic Kiwi Background Graphics, Photos, and Visual Art From Aotearoa/New Zealand</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-excellent-micro-photography-videos-step-by-step/"><u>[New] Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-gb-games-selecting-pc-emulators-to-simulate-gba-perfectly-for-2024/"><u>[New] Essential GB Games Selecting PC Emulators to Simulate GBA Perfectly for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-edge-advanced-photo-editing-strategies/"><u>[New] In 2024, Instagram Edge Advanced Photo Editing Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-11-best-free-youtube-name-generators-you-should-try/"><u>[Updated] In 2024, 11 Best Free YouTube Name Generators You Should Try</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-master-your-minds-library-utilize-mematic-for-2024/"><u>[Updated] Master Your Mind's Library - Utilize Mematic for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/44cq5lplusu5b6p5a6m5oiq44cr5ywx5lqr6loh5paz5asplus5ywn77ym5oko55qe6lplus05zyi5bey5zcm5q2l5yiw5oir5ycr55qe56il5byp57we/"><u>【修復完成】共享資料夾內，您的迴圈已同步到我們的程式組</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/7-solutions-to-recover-from-failed-backup-image-creation/"><u>7 Solutions to Recover From Failed Backup Image Creation</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/fix-fur-iphone-video-ladeprobleme-losungen-finden/"><u>Fix Für iPhone-Video Ladeprobleme - Lösungen Finden</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-f5-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco F5 Pro 5G Phone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unravel-the-mystery-of-reversed-videos-on-snapchat/"><u>In 2024, Unravel the Mystery of Reversed Videos on Snapchat</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installing-drivers-for-print-sysware/"><u>Installing Drivers for Print SysWare</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/schnell-lernende-tools-zum-schutz-ihrer-outlook-2016-pst-dateien/"><u>Schnell Lernende Tools Zum Schutz Ihrer Outlook 2016 PST-Dateien</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/speichern-und-kopieren-von-daten-ohne-volumenbeschrankungen-benutzeroptimierte-losung/"><u>Speichern Und Kopieren Von Daten Ohne Volumenbeschränkungen - Benutzeroptimierte Lösung</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/start-your-edit-journey-top-tips-for-photo-gurus-in-training/"><u>Start Your Edit Journey Top Tips for Photo Gurus in Training</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-setting-up-windows-server-in-virtualbox-environment/"><u>Step-by-Step Guide: Setting Up Windows Server in VirtualBox Environment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-12-07T00:55:04.097Z
-updated: 2024-12-12T05:08:17.506Z
+date: 2024-12-28T21:43:53.884Z
+updated: 2025-01-05T02:51:21.286Z
 tags:
   - product
   - antivirus
@@ -44,10 +44,6 @@ Find and Remove Hidden Malware Viruses on your PC
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The makings of a guardian
 
 Think of antivirus software as the penicillin of the PC world. These applications may look lightweight, and function in the background, but are built on some of the most advanced computing and security technologies available. They have to be, considering the continually evolving threats of advanced malware these days.
@@ -65,10 +61,6 @@ In addition to signature detection, antivirus programs also attempt to identify 
 This approach is what helps protect against encrypted viruses, or viruses that are yet to be identified.
 
 That’s the long and short of it, a basic overview of how this type of software works. But as noted above, these security solutions also come with a bunch more advanced detection capabilities and clean up techniques that help them protect against more advanced and stealthier threats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How an antivirus detects infection?
 
@@ -90,6 +82,10 @@ Or in other words, signature-based detection. As noted above, this is practicall
 
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Heuristics
 
 While identifying a specific virus is well and good, most antivirus programs come with advanced heuristics that allows them to quickly detect a virus family, even by an inexact match to an existing signature. This helps protect against viruses that start as a single infection, but grow into dozens or even hundreds of slightly different variants.
@@ -100,19 +96,23 @@ A heuristic detection allows a scanner to detect viruses even when they are padd
 
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Sandbox detection
 
 This is a behavioral based detection technique that executes the programs in a virtual environment, as opposed to detecting its fingerprint at run time. Antivirus software that come with this type of detection capabilities execute programs in a separate, virtual environment, and log the actions it performs to determine whether the programs are malicious or not. If found safe, a given program is then executed in the real environment.
 
 As you can imagine, this technique is both heavy and slow, and its resource intensive nature means that it is rarely used in consumer antivirus solutions. End users may not always have the need for sandbox detection, but enterprises do, and antivirus solutions designed for corporate and network use offer this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Data mining
 
 This is one of the latest approaches in malware detection that security vendors now provide with their antivirus and antimalware products. A series of features of files are extracted from files, and then data mining and machine learning algorithms are used to classify the behavior of a file and detect whether it has malicious intent or not. This is particularly helpful in detecting and defeating the newest forms of malware in the wild.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Types of scans
 
@@ -126,6 +126,10 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Real time protection
 
 Also known as memory-resident scanning or background guard, this type of scanning refers to the automatic protection that almost all modern antivirus programs offer. It basically monitors the system for any suspicious activity in real time, while data is loaded into the active memory. For example, when a USB drive is inserted, a browser is opened, or a downloaded file is executed.
@@ -136,13 +140,13 @@ The price of this type of scanning is performance, but it offers increased prote
 
 These refer to an approach where an antivirus only scans selected files, that are more suspicious to be altered or infected. Smart scanning lowers the need of system resources, while protecting against the more common types of viruses, threats and risks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Startup scanning
 
 Antivirus software often come with a special program that is designed to run every time the PC is booted up. It does a quick scan of the boot sectors and critical system files, instead of a full disk scan that takes a long time to finish. This comes in particularly handy to catch boot sector viruses, before they get a chance to spread.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Detection rate
 
@@ -153,10 +157,6 @@ And while this decline is a bit scary, detection rate is still a very important 
 Typically, more than 100,000 samples are used for testing, and a detection rate is then determined, which is obviously different for different antivirus programs. In particular, antivirus companies that have more efficient heuristics and release more virus definitions than their competitors, usually see higher detection rates.
 
 The detection rates fluctuate over time, with no best product constantly on top. Then again, this goes to show just how dynamic and constantly changing the computing security landscape is these days.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -183,22 +183,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-recording-skills-for-every-lenovo-user/"><u>[New] In 2024, Essential Recording Skills for Every Lenovo User</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamline-shorter-optimizing-youtube-videos-for-less-time-for-2024/"><u>[Updated] Streamline Shorter Optimizing YouTube Videos for Less Time for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-adjustments-the-editors-guide-to-gopro-video-magic/"><u>2024 Approved Masterful Adjustments The Editor's Guide to GoPro Video Magic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6dvdwindowsmac/"><u>6推奨の無料DVDプレイヤーウェア選びガイド（Windows・Mac対応）</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-realme-gt-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme GT 5 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/diagnosing-and-solving-compatibility-errors-between-scanners-and-computers-with-yl-computing-support/"><u>Diagnosing and Solving Compatibility Errors Between Scanners and Computers with YL Computing Support</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s23-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S23 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-adsense-a-step-by-step-approach-for-youtubers/"><u>In 2024, Navigating AdSense A Step-by-Step Approach for YouTubers</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/repair-guide-resolving-graphics-card-issues-on-your-computer-tips-from-yl-computing-experts/"><u>Repair Guide: Resolving Graphics Card Issues on Your Computer - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/revealed-5-surprising-capabilities-of-our-premium-singstar-program-pcdj/"><u>Revealed: 5 Surprising Capabilities of Our Premium SingStar Program | PCDJ</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor-for-2024/"><u>Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-common-problems-with-cddvd-drives-tips-by-yl-computing-experts/"><u>Solving Common Problems with CD/DVD Drives: Tips by YL Computing Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-random-restarts-and-memory-malfunctions-a-guide-by-yl-software-experts/"><u>Solving Random Restarts and Memory Malfunctions: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/transform-files-with-confidence-in-windows-discover-yl-softwares-simple-format-conversion-methods/"><u>Transform Files with Confidence in Windows: Discover YL Software's Simple Format Conversion Methods</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/updating-your-microsoft-windows-os-a-step-by-step-guide-from-yl-computing/"><u>Updating Your Microsoft Windows OS: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-softwares-ultimate-solution-for-scanners-that-wont-start-working-anymore/"><u>YL Software's Ultimate Solution for Scanners That Won't Start Working Anymore</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-immediate-mp3-download-from-facebook-media-posts/"><u>[New] 2024 Approved Immediate MP3 Download From Facebook Media Posts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-smile-generator-for-memes/"><u>[New] Best Smile Generator for Memes</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discovering-the-origin-identifying-the-initial-ruler-of-the-han-empire-insights-from-yl-computing-and-yl-software/"><u>Discovering the Origin: Identifying the Initial Ruler of the Han Empire - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/enhance-protection-key-control-panel-security-features-from-yl-software/"><u>Enhance Protection: Key Control Panel Security Features From YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-origin-application-failure-to-start-up/"><u>Fixing Origin Application Failure to Start Up</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generate-impressive-corporate-emails-instantly-for-free-discover-how-chatgpt-and-ai-innovation-can-streamline-your-inbox/"><u>Generate Impressive Corporate Emails Instantly for Free - Discover How ChatGPT & AI Innovation Can Streamline Your Inbox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/high-definition-portraiture-priyanka-chopras-stunning-visual-gallery-by-yl-computing-and-software-solutions/"><u>High-Definition Portraiture: Priyanka Chopra's Stunning Visual Gallery by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-tecno-pova-5-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Tecno Pova 5 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-mac-screen-recording-via-keyboard-tricks-for-2024/"><u>Mastering Mac Screen Recording via Keyboard Tricks for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-freezing-issues-with-your-graphics-card-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Freezing Issues with Your Graphics Card: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unraveling-the-mystery-behind-your-gpu-issues-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your GPU Issues - A Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/xbox-onexbox-360dvd/"><u>Xbox One・Xbox 360でDVD再生手順とトラブルシューティングガイド</u></a></li>
 </ul></div>
 
