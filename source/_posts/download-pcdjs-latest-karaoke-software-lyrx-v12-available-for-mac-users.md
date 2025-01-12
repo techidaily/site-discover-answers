@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2024-12-31T03:33:35.589Z
-updated: 2025-01-05T14:19:33.431Z
+date: 2025-01-09T17:54:07.398Z
+updated: 2025-01-12T04:33:16.835Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,22 +90,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-compreenas-guide-to-seamless-time-marking-in-youtube-videos-desktopmobile/"><u>[New] 2024 Approved The Compreenas Guide to Seamless Time Marking in YouTube Videos (Desktop/Mobile)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-hdr-tvs-explored-is-aurora-at-the-forefront-in-2024/"><u>[New] HDR TVs Explored Is Aurora at the Forefront, In 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-perfect-your-focus-a-guide-to-roblox-tight-scopes-for-2024/"><u>[New] Perfect Your Focus A Guide to Roblox Tight Scopes for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-auroras-dynamic-range-feature-a-detailed-perspective/"><u>[Updated] In 2024, Aurora's Dynamic Range Feature A Detailed Perspective</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728483249229-aomei/"><u>AOMEI 中备份器赞助的文件系统列表</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/effizientes-vorgehen-wie-man-versehentlich-geloschte-kontakte-wiederherstellt-outlook-tipps/"><u>Effizientes Vorgehen: Wie Man Versehentlich Gelöschte Kontakte Wiederherstellt - Outlook Tipps</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/expert-strategies-for-efficient-file-retrieval-in-windows-11-the-complete-how-to-guide/"><u>Expert Strategies for Efficient File Retrieval in Windows 11 - The Complete How-To Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-windows-supports-latest-printer-model/"><u>Fix: Windows Supports Latest Printer Model</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-ace-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Ace 2 Devices | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-advanced-recording-strategies-for-effective-ppt-dissemination/"><u>In 2024, Advanced Recording Strategies for Effective PPT Dissemination</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-ifunny-memes/"><u>In 2024, Mastering the Art of iFunny Memes</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/planen-sie-ihre-datenwiederherstellung-mit-einfachen-strategien-automatische-backups-von-windows-server-202/"><u>Planen Sie Ihre Datenwiederherstellung Mit Einfachen Strategien: Automatische Backups Von Windows Server 202</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/reclaiming-data-from-missing-partitions-on-windows-11-easy-restoration-steps/"><u>Reclaiming Data From Missing Partitions on Windows 11 - Easy Restoration Steps</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ultimate-list-of-the-worlds-most-menacing-hackers-ever-insights-from-malwarefox/"><u>The Ultimate List of the World's Most Menacing Hackers Ever - Insights From MalwareFox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/titre-verification-historique-des-fichiers-est-ce-que-vous-ne-trouverez-aucun-enregistrement-precedent/"><u>Titre: Vérification Historique Des Fichiers : Est-Ce Que Vous Ne Trouverez Aucun Enregistrement Précédent ?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-windows-10-at-home-to-pro-efficiency/"><u>Transform Your Windows 10 at Home to Pro Efficiency</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728483131471-windows-11/"><u>Windows 11 文件管理指南：有效的方法详解 - 文件传输和转移技术</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-the-art-of-zoom-filters-for-premium-sessions/"><u>[New] 2024 Approved Mastering the Art of Zoom Filters for Premium Sessions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-phantom-camera-pause-tips/"><u>[New] 2024 Approved Phantom Camera Pause Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-decoding-the-best-timing-strategies-for-instagram-posts/"><u>[New] In 2024, Decoding the Best Timing Strategies for Instagram Posts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-online-gaming-earnings-in-the-future-for-2024/"><u>[Updated] Online Gaming Earnings in the Future for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-unveils-groundbreaking-ai-enhanced-ecam-cooling-system-pioneering-production-via-advanced-3d-metal-additive-manufacturing-and-partnership-with-fabric1/"><u>Asetek Unveils Groundbreaking AI-Enhanced ECAM Cooling System - Pioneering Production via Advanced 3D Metal Additive Manufacturing and Partnership with Fabric8 Labs</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/assessing-various-cryptocurrency-tokens-a-guide-by-yl-computing/"><u>Assessing Various Cryptocurrency Tokens: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/backup-ed-archiviazione-dei-dati-con-windows-11-8-o-7-programmi-software-liberi-gratis/"><u>Backup Ed Archiviazione Dei Dati Con Windows 11, 8 O 7: Programmi Software Liberi Gratis</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/chkdsk-file-risks-what-happens-to-your-data-and-how-to-recover-information-accidentally-deleted-by-scandisk/"><u>CHKDSK File Risks: What Happens to Your Data and How To Recover Information Accidentally Deleted By ScanDisk</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-your-digital-identity-with-aomei-unveiling-who-we-are/"><u>Discover Your Digital Identity with AOMEI: Unveiling 'Who We Are'</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-x90s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo X90S</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y28-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y28 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/loschen-sie-iphone-bilder-nicht-los-wege-um-geloschte-aufnahmen-zuruckzuholen/"><u>Löschen Sie iPhone-Bilder Nicht Los – Wege, Um Gelöschte Aufnahmen Zurückzuholen</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/recuperation-assuree-recuperer-automatiquement-les-cles-usb-supprimees-pour-appareil-photo-pentax/"><u>Recuperation Assurée : Récupérer Automatiquement Les Clés USB Supprimées Pour Appareil Photo Pentax</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210685508-9781646045211-spell-jars-for-the-modern-witch/"><u>Spell Jars for the Modern Witch | Free Book</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/steps-to-restore-accidentally-deleted-images-in-windows-1011-a-comprehensive-guide/"><u>Steps to Restore Accidentally Deleted Images in Windows 10/11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-continuous-crashes-in-lost-ark-on-windows-and-mac/"><u>Troubleshooting Steps for Continuous Crashes in Lost Ark on Windows and Mac</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728477911411-windows-11/"><u>Windows 11 快速關機的全面指南：每一步都解開</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728477688475-windows-11/"><u>Windows 11移行ツールを見極める：最適なソフトウェアとその使い方</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/shag-za-shagom-bystro-ispravit-sboj-rezervnogo-kopirovaniya-v-windows-10/"><u>Шаг За Шагом: Быстро Исправить Сбой Резервного Копирования В Windows 10</u></a></li>
 </ul></div>
 

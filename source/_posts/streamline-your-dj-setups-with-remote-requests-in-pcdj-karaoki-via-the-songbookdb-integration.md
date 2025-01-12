@@ -1,7 +1,7 @@
 ---
 title: Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration
-date: 2025-01-02T02:53:55.339Z
-updated: 2025-01-05T09:56:02.802Z
+date: 2025-01-07T23:15:56.383Z
+updated: 2025-01-11T22:49:48.704Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-charm-in-the-click-a-thumbnail-hack-for-youtube-shorts-for-2024/"><u>[New] Crafting Charm in the Click A Thumbnail Hack for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-detailed-analysis-vlc-for-video-capture/"><u>[New] Detailed Analysis VLC for Video Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>[Updated] Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-superior-2-written-by-robert-littell/"><u>[Updated] In 2024, Superior 2 Written by Robert Littell</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/44cm57sb5asx44o75ymk6zmk44gx44gf5yuv55s744ks5ywd44gr5oi744gz44oh44k444k44or44kr44oh44op44om44o844k244o85zcr44gr44ks44kk44oj44cn/"><u>「紛失・削除した動画を元に戻すデジタルカメラユーザー向けガイド」</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-use-youtube-cards-and-annotations/"><u>2024 Approved How to Use YouTube Cards and Annotations?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guerir-la-sauvegarde-de-votre-systeme-windows-11-sur-un-nas-qnap-deux-methodes-efficaces/"><u>Guérir La Sauvegarde De Votre Système Windows 11 Sur Un NAS QNAP: Deux Méthodes Efficaces</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-etape-par-etape-pour-restaurer-un-historique-de-navigation-supprime-sur-firefox/"><u>Guide Étape Par Étape Pour Restaurer Un Historique De Navigation Supprimé Sur Firefox</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-capture-motion-blur-photos-with-iphone-for-2024/"><u>How to Capture Motion Blur Photos with iPhone for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-permanently-remove-a-desktop-icon-a-six-step-guide/"><u>How to Permanently Remove a Desktop Icon: A Six-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/increasing-video-popularity-persisting-with-cc-on-youtube-for-2024/"><u>Increasing Video Popularity Persisting with CC on YouTube for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-ps5-ssd-firmware-update-a-comprehensive-guide/"><u>Mastering the PS5 SSD Firmware Update: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pemulihangatkan-tempel-bocoria-windows-10-langkah-langkah-utama-dan-efektifnya/"><u>Pemulihangatkan Tempel Bocoria Windows 10: Langkah-Langkah Utama Dan Efektifnya</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/type-diskpart-to-start-the-disk-partition-tool/"><u>Type `Diskpart` to Start the Disk Partition Tool.</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-guide-premium-yet-free-tools-for-migrating-your-data-to-a-new-kingston-ssd/"><u>Ultimate Guide: Premium Yet Free Tools for Migrating Your Data to a New Kingston SSD</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlock-brand-potential-top-terminology-for-impactful-campaigns-for-2024/"><u>Unlock Brand Potential Top Terminology for Impactful Campaigns for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004547299-fixed-zoom-crashing-on-windows-1110-2024-tips/"><u>[FIXED] Zoom Crashing on Windows 11/10 – 2024 Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/kyrocket-traffic-secrets-to-attract-more-viewers-online-for-2024/"><u>[New] Skyrocket Traffic Secrets to Attract More Viewers Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionize-your-content-delivery-with-live-streaming-expertise/"><u>[Updated] Revolutionize Your Content Delivery with Live Streaming Expertise</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-3-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-note-30-vip-racing-edition-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Note 30 VIP Racing Edition Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/leveraging-facebooks-autoplay-technology-for-smooth-video-playback-for-2024/"><u>Leveraging Facebook's Autoplay Technology for Smooth Video Playback for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/losung-fur-den-windows-fehler-0xc00000e9-schritt-fur-schritt-reparaturanleitung/"><u>Lösung Für Den Windows-Fehler 0xC00000E9: Schritt-Für-Schritt-Reparaturanleitung</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/soluciones-efectivas-para-encontrar-y-restaurar-archivos-descartados-accidentalmente-en-windows-11/"><u>Soluciones Efectivas Para Encontrar Y Restaurar Archivos Descartados Accidentalmente en Windows 11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728507514270-ssd/"><u>SSDアップグレードの選択 - クローニング対クリーンインストール：それぞれを上回る方法</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/streamline-your-backups-discover-the-power-of-centralizing-with-aomei-and-our-comprehensive-faq/"><u>Streamline Your Backups: Discover the Power of Centralizing with AOMEI and Our Comprehensive FAQ</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-delayed-texts-on-iphone-here-are-9-proven-ways-to-get-them-on-time/"><u>Struggling with Delayed Texts on iPhone? Here Are 9 Proven Ways to Get Them On Time</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshoot-windows-ng-not-starting-top-5-strategies-to-resolve-launch-problems/"><u>Troubleshoot Windows nG Not Starting: Top 5 Strategies to Resolve Launch Problems</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-guide-to-moving-data-with-sandisk-ssd-software-reliable-and-safe-solutions/"><u>Ultimate Guide to Moving Data with Sandisk SSD Software: Reliable and Safe Solutions</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/vhdwindows-server-2008r2/"><u>VHDデータをWindows Server 2008（R2）上で効果的に修復する方法</u></a></li>
 </ul></div>
 

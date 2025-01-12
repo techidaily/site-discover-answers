@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest PCDJ New Deck: Beta v3.6 Release Now!"
-date: 2024-12-29T09:46:53.404Z
-updated: 2025-01-05T07:55:48.595Z
+date: 2025-01-08T16:22:37.800Z
+updated: 2025-01-11T19:37:50.634Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-crafting-excellent-micro-photography-videos-step-by-step/"><u>[New] Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-gb-games-selecting-pc-emulators-to-simulate-gba-perfectly-for-2024/"><u>[New] Essential GB Games Selecting PC Emulators to Simulate GBA Perfectly for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-edge-advanced-photo-editing-strategies/"><u>[New] In 2024, Instagram Edge Advanced Photo Editing Strategies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-11-best-free-youtube-name-generators-you-should-try/"><u>[Updated] In 2024, 11 Best Free YouTube Name Generators You Should Try</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-master-your-minds-library-utilize-mematic-for-2024/"><u>[Updated] Master Your Mind's Library - Utilize Mematic for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/44cq5lplusu5b6p5a6m5oiq44cr5ywx5lqr6loh5paz5asplus5ywn77ym5oko55qe6lplus05zyi5bey5zcm5q2l5yiw5oir5ycr55qe56il5byp57we/"><u>【修復完成】共享資料夾內，您的迴圈已同步到我們的程式組</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/7-solutions-to-recover-from-failed-backup-image-creation/"><u>7 Solutions to Recover From Failed Backup Image Creation</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/fix-fur-iphone-video-ladeprobleme-losungen-finden/"><u>Fix Für iPhone-Video Ladeprobleme - Lösungen Finden</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-f5-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco F5 Pro 5G Phone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unravel-the-mystery-of-reversed-videos-on-snapchat/"><u>In 2024, Unravel the Mystery of Reversed Videos on Snapchat</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installing-drivers-for-print-sysware/"><u>Installing Drivers for Print SysWare</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/schnell-lernende-tools-zum-schutz-ihrer-outlook-2016-pst-dateien/"><u>Schnell Lernende Tools Zum Schutz Ihrer Outlook 2016 PST-Dateien</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/speichern-und-kopieren-von-daten-ohne-volumenbeschrankungen-benutzeroptimierte-losung/"><u>Speichern Und Kopieren Von Daten Ohne Volumenbeschränkungen - Benutzeroptimierte Lösung</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/start-your-edit-journey-top-tips-for-photo-gurus-in-training/"><u>Start Your Edit Journey Top Tips for Photo Gurus in Training</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-setting-up-windows-server-in-virtualbox-environment/"><u>Step-by-Step Guide: Setting Up Windows Server in VirtualBox Environment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-settings-for-recording-movs-on-windows-11-systems-for-2024/"><u>[Updated] Optimal Settings for Recording MOVs on Windows 11 Systems for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-steps-to-record-iphone-display/"><u>[Updated] Quick Steps to Record IPhone Display</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>2024 Approved Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/accelerate-your-pc-a-list-of-key-add-ons-suggested-for-faster-speed-from-yl-software-experts/"><u>Accelerate Your PC: A List of Key Add-Ons Suggested for Faster Speed From YL Software Experts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/enhancing-audio-clarity-essential-adjustments-for-top-notch-sound-using-yl-computings-expertise/"><u>Enhancing Audio Clarity: Essential Adjustments for Top-Notch Sound Using YL Computing's Expertise</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-smart-8-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Smart 8 Pro? Try These Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-the-mystery-effective-strategies-to-resolve-blue-screen-issues-insights-from-yl-computing/"><u>Solving the Mystery: Effective Strategies to Resolve Blue Screen Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unlock-the-secrets-of-blockchain-mining-essential-insights-and-steps-for-newcomers-by-yl-software/"><u>Unlock the Secrets of Blockchain Mining: Essential Insights and Steps for Newcomers by YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Inner Workings of Antivirus Programs: The Science Behind Virus Detection and Defense Tactics"
-date: 2024-12-28T21:43:53.884Z
-updated: 2025-01-05T02:51:21.286Z
+date: 2025-01-08T05:08:26.268Z
+updated: 2025-01-11T20:57:50.702Z
 tags:
   - product
   - antivirus
@@ -44,6 +44,10 @@ Find and Remove Hidden Malware Viruses on your PC
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The makings of a guardian
 
 Think of antivirus software as the penicillin of the PC world. These applications may look lightweight, and function in the background, but are built on some of the most advanced computing and security technologies available. They have to be, considering the continually evolving threats of advanced malware these days.
@@ -62,6 +66,10 @@ This approach is what helps protect against encrypted viruses, or viruses that a
 
 That’s the long and short of it, a basic overview of how this type of software works. But as noted above, these security solutions also come with a bunch more advanced detection capabilities and clean up techniques that help them protect against more advanced and stealthier threats.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How an antivirus detects infection?
 
 In an attempt to protect itself, modern malware threats employ several techniques to avoid detection and elimination. It is these self-preservation methods that antivirus programs need to guard against, in order to protect a system or a network. Malicious software can also mutate, making it difficult to create a signature. And worse yet, there is malware that also actively attacks antivirus software and personal firewalls to terminate their processes, and prevent their launch.
@@ -74,6 +82,10 @@ These are some really next generation technologies that are very well equipped a
 
 Though the approaches below are listed under individual headings, the distinctions between many of these are often blurred, as antivirus programs combine different techniques to actively protect against the different types of threats.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Virus definitions
 
 Or in other words, signature-based detection. As noted above, this is practically the first method traditional antivirus software employ to identify malware. The programs rely upon signatures to detect new malware. Provided the company has already analyzed and extracted a proper signature of the file that is then kept in a database. Threats are compared to this database, and devices are then protected in case the signatures match.
@@ -81,10 +93,6 @@ Or in other words, signature-based detection. As noted above, this is practicall
 [How to Choose Best Antivirus for Windows 10](https://tools.techidaily.com/malwarefox/products/)
 
 But while this approach does prevent malware outbreaks, cybercriminals try to stay one step ahead by writing viruses that either encrypt themselves or modify their code in order to disguise and not match virus definitions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Heuristics
 
@@ -96,10 +104,6 @@ A heuristic detection allows a scanner to detect viruses even when they are padd
 
 Behavior detection is a signatureless approach to detection that helps the program build a full context around every process execution path in real time, and identify the stealthier, more advanced malware threats. Suspicious behavior includes unpacking of malicious code, modifying the host files, or observing key strokes. Noticing actions like these allows an antivirus program to detect previously unseen malware on a system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Sandbox detection
 
 This is a behavioral based detection technique that executes the programs in a virtual environment, as opposed to detecting its fingerprint at run time. Antivirus software that come with this type of detection capabilities execute programs in a separate, virtual environment, and log the actions it performs to determine whether the programs are malicious or not. If found safe, a given program is then executed in the real environment.
@@ -109,10 +113,6 @@ As you can imagine, this technique is both heavy and slow, and its resource inte
 ### Data mining
 
 This is one of the latest approaches in malware detection that security vendors now provide with their antivirus and antimalware products. A series of features of files are extracted from files, and then data mining and machine learning algorithms are used to classify the behavior of a file and detect whether it has malicious intent or not. This is particularly helpful in detecting and defeating the newest forms of malware in the wild.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Types of scans
 
@@ -126,10 +126,6 @@ Originally, antivirus programs just offered a regular scanner that searched thro
 
 The standard way to check for a virus. A conventional scan is either run when the user requests it, or at a scheduled instance that the antivirus sets up. This type of scan searches the contents of the disks, directories and files, as well as boot sectors and system components. Conventional disk scans are used either as a preventive maintenance activity, or when a virus is suspected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Real time protection
 
 Also known as memory-resident scanning or background guard, this type of scanning refers to the automatic protection that almost all modern antivirus programs offer. It basically monitors the system for any suspicious activity in real time, while data is loaded into the active memory. For example, when a USB drive is inserted, a browser is opened, or a downloaded file is executed.
@@ -141,7 +137,7 @@ The price of this type of scanning is performance, but it offers increased prote
 These refer to an approach where an antivirus only scans selected files, that are more suspicious to be altered or infected. Smart scanning lowers the need of system resources, while protecting against the more common types of viruses, threats and risks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Startup scanning
@@ -157,6 +153,10 @@ And while this decline is a bit scary, detection rate is still a very important 
 Typically, more than 100,000 samples are used for testing, and a detection rate is then determined, which is obviously different for different antivirus programs. In particular, antivirus companies that have more efficient heuristics and release more virus definitions than their competitors, usually see higher detection rates.
 
 The detection rates fluctuate over time, with no best product constantly on top. Then again, this goes to show just how dynamic and constantly changing the computing security landscape is these days.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -183,18 +183,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-immediate-mp3-download-from-facebook-media-posts/"><u>[New] 2024 Approved Immediate MP3 Download From Facebook Media Posts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-smile-generator-for-memes/"><u>[New] Best Smile Generator for Memes</u></a></li>
-<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discovering-the-origin-identifying-the-initial-ruler-of-the-han-empire-insights-from-yl-computing-and-yl-software/"><u>Discovering the Origin: Identifying the Initial Ruler of the Han Empire - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/enhance-protection-key-control-panel-security-features-from-yl-software/"><u>Enhance Protection: Key Control Panel Security Features From YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-origin-application-failure-to-start-up/"><u>Fixing Origin Application Failure to Start Up</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generate-impressive-corporate-emails-instantly-for-free-discover-how-chatgpt-and-ai-innovation-can-streamline-your-inbox/"><u>Generate Impressive Corporate Emails Instantly for Free - Discover How ChatGPT & AI Innovation Can Streamline Your Inbox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/high-definition-portraiture-priyanka-chopras-stunning-visual-gallery-by-yl-computing-and-software-solutions/"><u>High-Definition Portraiture: Priyanka Chopra's Stunning Visual Gallery by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-tecno-pova-5-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Tecno Pova 5 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-mac-screen-recording-via-keyboard-tricks-for-2024/"><u>Mastering Mac Screen Recording via Keyboard Tricks for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/resolving-freezing-issues-with-your-graphics-card-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Freezing Issues with Your Graphics Card: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unraveling-the-mystery-behind-your-gpu-issues-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your GPU Issues - A Guide by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/xbox-onexbox-360dvd/"><u>Xbox One・Xbox 360でDVD再生手順とトラブルシューティングガイド</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-social-stream-top-8-viral-videos-for-2024/"><u>[New] Social Stream Top 8 Viral Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-audacity-crossfading-process/"><u>[New] Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-mini-drones-for-the-savvy-buyer-for-2024/"><u>[Updated] Cutting-Edge Mini Drones for the Savvy Buyer for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-easy-to-follow-steps-for-adding-vimeo-clips-to-ppts/"><u>[Updated] In 2024, Easy-to-Follow Steps for Adding Vimeo Clips to PPTs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>[Updated] In 2024, What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-free-pics-with-exceptional-resolution-your-ultimate-guide/"><u>2024 Approved Free Pics with Exceptional Resolution Your Ultimate Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/can-you-trust-running-a-registry-cleaner-expert-advice-by-yl-software/"><u>Can You Trust Running a Registry Cleaner?: Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/expert-guide-to-troubleshooting-endless-printer-out-of-ink-error-messages-strategies-from-yl-software/"><u>Expert Guide to Troubleshooting Endless Printer 'Out of Ink' Error Messages – Strategies From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/expert-guide-troubleshooting-and-fixing-pc-hardware-issues-on-windows-tips-from-yl-computing/"><u>Expert Guide: Troubleshooting & Fixing PC Hardware Issues on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-and-troubleshooting-graphic-card-problems-a-step-by-step-guide-from-yl-computing/"><u>Identifying and Troubleshooting Graphic Card Problems: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text/"><u>Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/lose-the-limits-learn-how-to-change-bios-password-with-yls-easy-steps/"><u>Lose the Limits: Learn How to Change BIOS Password with YL's Easy Steps</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-your-digital-fortune-a-step-by-step-guide-to-using-cryptocurrency-wallets-tech-insights-from-yl/"><u>Mastering Your Digital Fortune: A Step-by-Step Guide to Using Cryptocurrency Wallets - Tech Insights From YL</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-solutions-for-when-winhttpdll-is-unavailable-or-lost/"><u>Quick Solutions for When Winhttp.dll Is Unavailable or Lost</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshoot-eerie-noises-in-your-computer-using-tips-from-yl-software-experts/"><u>Troubleshoot Eerie Noises in Your Computer Using Tips From YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2025-01-04T12:40:45.139Z
-updated: 2025-01-04T17:23:46.552Z
+date: 2025-01-04T19:35:37.782Z
+updated: 2025-01-11T20:36:34.672Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,24 +46,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-commanding-attention-on-digital-platforms-via-custom-designs/"><u>[New] 2024 Approved Commanding Attention on Digital Platforms via Custom Designs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-facebook-to-play-youtube-videos-without-interruption-for-2024/"><u>[New] Navigating Facebook to Play YouTube Videos Without Interruption for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>[Updated] 2024 Approved Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-skis-and-boards-best-from-x-games/"><u>[Updated] 2024 Approved Elite Skis & Boards Best From X Games</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-user-terms-and-conditions-crypto-balance-verification-app-by-yl-computing/"><u>1. User Terms and Conditions: Crypto Balance Verification App by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1732514612631-u-yl/"><u>在市场下跌中保持平静：投资者安全睡眠指南 - U兄解析万亿孤独之路-YL计算机与软件专利</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/diagnosing-and-repairing-bsod-issues-in-windows-os-with-expert-advice-by-yl-software/"><u>Diagnosing and Repairing BSOD Issues in Windows OS with Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ensuring-perfect-harmony-a-guide-to-match-your-speakers-with-any-sound-card-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: A Guide to Match Your Speakers with Any Sound Card - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/exploring-future-possibilities-how-can-blockchain-reshape-industries-with-yl-computings-insights/"><u>Exploring Future Possibilities: How Can Blockchain Reshape Industries with YL Computing's Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/headphones-battle-apple-airpods-pro-versus-samsung-buds-pro/"><u>Headphones Battle: Apple AirPods Pro Versus Samsung Buds Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom-for-2024/"><u>Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 15 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-xr21-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia XR21 Device</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-video-file-reduction-with-easy-steps-from-yl-software-experts/"><u>Mastering Video File Reduction with Easy Steps From YL Software Experts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rev-up-your-social-media-impact-essential-hashtags-for-high-likes-and-follows/"><u>Rev Up Your Social Media Impact Essential Hashtags for High Likes and Follows</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/stay-ahead-of-the-curve-tracking-new-advances-in-digital-currency-insights-from-yl-computing/"><u>Stay Ahead of the Curve: Tracking New Advances in Digital Currency - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/video-guide-aligning-your-mobile-dj-skills-with-the-perfect-event-pcdj-techniques-revealed/"><u>Video Guide: Aligning Your Mobile DJ Skills with the Perfect Event - PCDJ Techniques Revealed</u></a></li>
-<li><a href="https://win-guides.techidaily.com/vue-argon-pro-admin-suite-with-bootstrap-integration-premium-template-package-from-creative-tim/"><u>Vue Argon Pro Admin Suite with Bootstrap Integration | Premium Template Package From Creative Tim</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/which-platforms-support-the-use-of-windows-defender-by-microsoft-insights-from-yl-computing/"><u>Which Platforms Support the Use of Windows Defender by Microsoft - Insights From YL Computing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-3-strategies-for-capturing-real-time-sports-events-online-for-2024/"><u>[New] Top 3 Strategies for Capturing Real-Time Sports Events Online for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/como-hacer-que-su-almacenamiento-de-windows-server-2008-se-vincule-con-google-drive-un-tutorial-completo/"><u>Cómo Hacer Que Su Almacenamiento De Windows Server 2008 Se Vincule Con Google Drive: Un Tutorial Completo</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/free-software-conversion-transforming-pdf-files-into-optimal-epub-format-for-enhanced-reading/"><u>Free Software Conversion: Transforming PDF Files Into Optimal ePUB Format for Enhanced Reading</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-convert-documents-from-docx-to-epub-format-using-calibre/"><u>How to Convert Documents From DOCX to EPUB Format Using Calibre</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-send-calibre-formatted-books-to-your-kindle-via-wifi/"><u>How to Send Calibre-Formatted Books to Your Kindle via WiFi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-internet-hubs-alarm-tunes-acquisition-spots/"><u>In 2024, Ideal Internet Hubs Alarm Tunes Acquisition Spots</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/is-it-possible-to-transfer-epub-books-to-your-kindle-using-the-send-to-kindle-feature/"><u>Is It Possible to Transfer EPUB Books to Your Kindle Using the Send to Kindle Feature?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/limited-time-test-edition-try-first-purchase-later/"><u>Limited-Time Test Edition: Try First, Purchase Later</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-the-kindle-expert-strategies-to-enhance-your-reading-experience/"><u>Mastering the Kindle: Expert Strategies to Enhance Your Reading Experience</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/must-know-top-12-tips-and-shortcuts-for-maximizing-your-kindle-fire-experience/"><u>Must-Know Top 12 Tips and Shortcuts for Maximizing Your Kindle Fire Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-pdf-enhancements/"><u>Premier PDF Enhancements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-11r-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus 11R and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-next-level-of-fcp-efficiency-top-10-plugins/"><u>Your Next Level of FCP Efficiency Top 10 Plugins</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2024-12-28T21:17:30.981Z
-updated: 2025-01-05T07:42:14.622Z
+date: 2025-01-09T20:30:26.245Z
+updated: 2025-01-11T23:09:08.643Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,20 +65,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-beginners-guide-to-video-capture-with-logitech-cam-for-2024/"><u>[New] Beginner's Guide to Video Capture with Logitech Cam for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-10-tips-to-make-your-youtube-shorts-channels-stand-out/"><u>[New] In 2024, 10 Tips to Make Your YouTube Shorts Channels Stand Out</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-youtube-income-insights-and-techniques/"><u>[Updated] 2024 Approved Maximize Youtube Income Insights and Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-strategies-optimizing-for-business-growth/"><u>[Updated] In 2024, Snapchat Strategies Optimizing for Business Growth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-sony-bdp-s3700-review/"><u>2024 Approved Sony BDP- S3700 Review</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/beats-and-bars-top-20-rap-tracks-soaring-on-tiktok/"><u>Beats & Bars Top 20 Rap Tracks Soaring on TikTok</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/fix-fur-iphone-video-ladeprobleme-losungen-finden/"><u>Fix Für iPhone-Video Ladeprobleme - Lösungen Finden</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-flat-to-fierce-transformative-color-workflows-for-2024/"><u>From Flat to Fierce Transformative Color Workflows for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-note-50-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme Note 50 Phone that is Locked?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/speichern-und-kopieren-von-daten-ohne-volumenbeschrankungen-benutzeroptimierte-losung/"><u>Speichern Und Kopieren Von Daten Ohne Volumenbeschränkungen - Benutzeroptimierte Lösung</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-setting-up-windows-server-in-virtualbox-environment/"><u>Step-by-Step Guide: Setting Up Windows Server in VirtualBox Environment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-approaches-to-ai-assistance-in-professional-writing-services/"><u>Strategic Approaches to AI Assistance in Professional Writing Services</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigate-to-recent-fb-views-with-ease-2023-guide/"><u>[Updated] In 2024, Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/backyard-broadband-solutions-unleashed-a-detailed-look-at-netgears-orbi-rbs50y/"><u>Backyard Broadband Solutions Unleashed - A Detailed Look at Netgear's Orbi RBS50Y</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-resetting-your-stubborn-airpods-easily/"><u>Effective Solutions for Resetting Your Stubborn AirPods Easily</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/immediate-access-obtain-the-latest-update-of-requiem-trojan-horse-for-your-security-research/"><u>Immediate Access: Obtain the Latest Update of Requiem Trojan Horse for Your Security Research</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-are-there-legal-restrictions-to-recording-youtube-videos/"><u>In 2024, Are There Legal Restrictions to Recording YouTube Videos?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6s-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6s Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-the-art-of-reading-ebooks-a-guide-to-accessing-and-displaying-web-pages-on-your-kindle/"><u>Mastering the Art of Reading eBooks: A Guide to Accessing and Displaying Web Pages on Your Kindle</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/provide-feedback-troubleshooting-issues-with-ebook-decryption/"><u>Provide Feedback: Troubleshooting Issues with Ebook Decryption</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-steps-to-convert-and-load-ebooks-onto-your-kindle-device/"><u>Simple Steps to Convert and Load eBooks Onto Your Kindle Device</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-rated-epub-reader-apps-the-ultimate-guide/"><u>Top Rated EPUB Reader Apps: The Ultimate Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-ai-text-to-video/"><u>Updated 2024 Approved What Is AI Text to Video?</u></a></li>
 </ul></div>
 
