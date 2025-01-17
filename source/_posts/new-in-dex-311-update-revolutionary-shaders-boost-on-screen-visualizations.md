@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2025-01-09T20:30:26.245Z
-updated: 2025-01-11T23:09:08.643Z
+date: 2025-01-11T16:19:07.251Z
+updated: 2025-01-17T20:13:50.666Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,16 +65,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigate-to-recent-fb-views-with-ease-2023-guide/"><u>[Updated] In 2024, Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/backyard-broadband-solutions-unleashed-a-detailed-look-at-netgears-orbi-rbs50y/"><u>Backyard Broadband Solutions Unleashed - A Detailed Look at Netgear's Orbi RBS50Y</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-resetting-your-stubborn-airpods-easily/"><u>Effective Solutions for Resetting Your Stubborn AirPods Easily</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/immediate-access-obtain-the-latest-update-of-requiem-trojan-horse-for-your-security-research/"><u>Immediate Access: Obtain the Latest Update of Requiem Trojan Horse for Your Security Research</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-are-there-legal-restrictions-to-recording-youtube-videos/"><u>In 2024, Are There Legal Restrictions to Recording YouTube Videos?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6s-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6s Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-art-of-reading-ebooks-a-guide-to-accessing-and-displaying-web-pages-on-your-kindle/"><u>Mastering the Art of Reading eBooks: A Guide to Accessing and Displaying Web Pages on Your Kindle</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/provide-feedback-troubleshooting-issues-with-ebook-decryption/"><u>Provide Feedback: Troubleshooting Issues with Ebook Decryption</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/simple-steps-to-convert-and-load-ebooks-onto-your-kindle-device/"><u>Simple Steps to Convert and Load eBooks Onto Your Kindle Device</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-rated-epub-reader-apps-the-ultimate-guide/"><u>Top Rated EPUB Reader Apps: The Ultimate Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-ai-text-to-video/"><u>Updated 2024 Approved What Is AI Text to Video?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8-exemplary-templates-dominate-social-media-creatives/"><u>[Updated] 8 Exemplary Templates Dominate Social Media Creatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-key-techniques-for-storing-lol-matches-for-2024/"><u>[Updated] Key Techniques for Storing LOL Matches for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-innovative-skin-modification-apps-for-smartphones/"><u>10 Innovative Skin Modification Apps for Smartphones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-essential-toolkit-3d-video-entrances-ranked/"><u>2024 Approved The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/all-inclusive-instructions-how-to-do-a-pure-windows-11-setup-directly-from-dvd-no-flash-drive-needed/"><u>All-Inclusive Instructions: How to Do a Pure Windows 11 Setup Directly From DVD, No Flash Drive Needed</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-resoudre-le-message-derreur-nettoyage-en-cours-ne-redemarrez-pas-votre-ordinateur/"><u>Comment Résoudre Le Message D'erreur 'Nettoyage en Cours, Ne Redémarrez Pas Votre Ordinateur' ?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/complete-guide-steps-for-successful-system-imaging-on-windows-7-8-and-10/"><u>Complete Guide: Steps for Successful System Imaging on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/complete-manual-for-securely-storing-outlook-emails-locally-without-using-a-pst-file-innovative-techniques-and-methods/"><u>Complete Manual for Securely Storing Outlook Emails Locally Without Using a PST File: Innovative Techniques and Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-ideal-screen-for-less-than-a-thousand-dollars-in-depth-review-and-ratings-by-professionals-zdnet/"><u>Find Your Ideal Screen for Less Than A Thousand Dollars: In-Depth Review and Ratings by Professionals | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999673539-fireteam-elite-pc-game-continually-fails-to-launch-solved/"><u>Fireteam Elite PC Game Continually Fails to Launch – Solved</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-pratique-pour-reparer-le-materiel-dysfonctionnel-et-eliminer-les-fichiers-corrompus-sur-windows-10/"><u>Guide Pratique Pour Réparer Le Matériel Dysfonctionnel Et Éliminer Les Fichiers Corrompus Sur Windows 10</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/high-resolution-bmw-e60-m5-desktop-wallpaper-collection-premium-quality-graphics-by-yl-computing/"><u>High-Resolution BMW E60 M5 Desktop Wallpaper Collection - Premium Quality Graphics by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-windows-10-must-have-techniques/"><u>In 2024, Navigating Windows 10 Must-Have Techniques</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-data-protection-in-depth-windows-similar-search-engine-titles-with-same-meaning-as-seagate-backup-manager-on-windows-10-a-comprehensive-guide/"><u>Mastering Data Protection: In-Depth Windows # Similar Search Engine Titles with Same Meaning as Seagate Backup Manager on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/recovering-deleted-files-in-kodi-a-step-by-step-guide/"><u>Recovering Deleted Files in Kodi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-oppo-find-x7-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-rebuilding-your-dell-laptop-with-windows-section-1-theme-question/"><u>Step-by-Step Guide: Rebuilding Your Dell Laptop with Windows # Section 1: Theme Question</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-covert-query-beam-of-windows-11/"><u>Unveiling the Covert Query Beam of Windows 11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728498083850-windowsssd/"><u>WindowsパーティションをSSDにコピーする詳細ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2025-01-09T17:54:07.398Z
-updated: 2025-01-12T04:33:16.835Z
+date: 2025-01-10T17:25:16.320Z
+updated: 2025-01-17T16:08:44.388Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,24 +90,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-the-art-of-zoom-filters-for-premium-sessions/"><u>[New] 2024 Approved Mastering the Art of Zoom Filters for Premium Sessions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-phantom-camera-pause-tips/"><u>[New] 2024 Approved Phantom Camera Pause Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-decoding-the-best-timing-strategies-for-instagram-posts/"><u>[New] In 2024, Decoding the Best Timing Strategies for Instagram Posts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-online-gaming-earnings-in-the-future-for-2024/"><u>[Updated] Online Gaming Earnings in the Future for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asetek-unveils-groundbreaking-ai-enhanced-ecam-cooling-system-pioneering-production-via-advanced-3d-metal-additive-manufacturing-and-partnership-with-fabric1/"><u>Asetek Unveils Groundbreaking AI-Enhanced ECAM Cooling System - Pioneering Production via Advanced 3D Metal Additive Manufacturing and Partnership with Fabric8 Labs</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/assessing-various-cryptocurrency-tokens-a-guide-by-yl-computing/"><u>Assessing Various Cryptocurrency Tokens: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/backup-ed-archiviazione-dei-dati-con-windows-11-8-o-7-programmi-software-liberi-gratis/"><u>Backup Ed Archiviazione Dei Dati Con Windows 11, 8 O 7: Programmi Software Liberi Gratis</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/chkdsk-file-risks-what-happens-to-your-data-and-how-to-recover-information-accidentally-deleted-by-scandisk/"><u>CHKDSK File Risks: What Happens to Your Data and How To Recover Information Accidentally Deleted By ScanDisk</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-your-digital-identity-with-aomei-unveiling-who-we-are/"><u>Discover Your Digital Identity with AOMEI: Unveiling 'Who We Are'</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-x90s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo X90S</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y28-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y28 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/loschen-sie-iphone-bilder-nicht-los-wege-um-geloschte-aufnahmen-zuruckzuholen/"><u>Löschen Sie iPhone-Bilder Nicht Los – Wege, Um Gelöschte Aufnahmen Zurückzuholen</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/recuperation-assuree-recuperer-automatiquement-les-cles-usb-supprimees-pour-appareil-photo-pentax/"><u>Recuperation Assurée : Récupérer Automatiquement Les Clés USB Supprimées Pour Appareil Photo Pentax</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210685508-9781646045211-spell-jars-for-the-modern-witch/"><u>Spell Jars for the Modern Witch | Free Book</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/steps-to-restore-accidentally-deleted-images-in-windows-1011-a-comprehensive-guide/"><u>Steps to Restore Accidentally Deleted Images in Windows 10/11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-continuous-crashes-in-lost-ark-on-windows-and-mac/"><u>Troubleshooting Steps for Continuous Crashes in Lost Ark on Windows and Mac</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728477911411-windows-11/"><u>Windows 11 快速關機的全面指南：每一步都解開</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728477688475-windows-11/"><u>Windows 11移行ツールを見極める：最適なソフトウェアとその使い方</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/shag-za-shagom-bystro-ispravit-sboj-rezervnogo-kopirovaniya-v-windows-10/"><u>Шаг За Шагом: Быстро Исправить Сбой Резервного Копирования В Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-director-sound-and-picture-synthesis/"><u>[New] Expert Director Sound & Picture Synthesis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screen-scanning-with-fraps-a-critical-review/"><u>[Updated] 2024 Approved Screen Scanning with Fraps A Critical Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-edit-drone-videos/"><u>[Updated] How to Edit Drone Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[Updated] In 2024, Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/accelerate-your-internet-updating-network-drivers-made-easy-tips-from-yl-computing/"><u>Accelerate Your Internet: Updating Network Drivers Made Easy - Tips From YL Computing</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/discover-the-freshest-hits-on-karaoke-cloud-pro-and-party-tyme-as-of-june-6th-2017/"><u>Discover the Freshest Hits on Karaoke Cloud Pro & Party Tyme as of June 6Th, 2017</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/elevate-your-space-with-oliver-and-company-visuals-from-yl-software-premium-background-designs-and-more/"><u>Elevate Your Space with Oliver & Company Visuals From YL Software: Premium Background Designs and More!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/enhance-your-desktop-with-bonnie-from-the-vampire-diaries-high-res-graphics-by-yl-software/"><u>Enhance Your Desktop with Bonnie From The Vampire Diaries - High-Res Graphics by YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-audio-issue-in-windows-7/"><u>Fixing the Non-Responsive Audio Issue in Windows 7</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/master-the-art-of-image-cloning-on-windows-with-expert-advice-from-yl-software/"><u>Master the Art of Image Cloning on Windows with Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/modifying-display-properties-via-control-panel-essential-tips-from-yl-systems-engineering-expertise/"><u>Modifying Display Properties via Control Panel: Essential Tips From YL Systems Engineering Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-tutorial-essential-logitech-drivers-for-windows-computers/"><u>Quick Download Tutorial: Essential Logitech Drivers for Windows Computers</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reverting-your-printer-to-original-factory-conditions-a-comprehensive-guide/"><u>Reverting Your Printer to Original Factory Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-audio-problems-on-your-pc-a-comprehensive-guide-by-yl-computing/"><u>Solving Audio Problems on Your PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/tips-to-gracefully-disconnect-from-group-interactions/"><u>Tips to Gracefully Disconnect From Group Interactions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476912000-why-doesnt-my-iphone-alarm-go-off-a-step-by-step-guide-to-fix-it/"><u>Why Doesn't My iPhone Alarm Go Off? A Step-by-Step Guide to Fix It</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-software-advice-efficiently-removing-unwanted-device-drivers-in-windows-environments/"><u>YL Software Advice: Efficiently Removing Unwanted Device Drivers in Windows Environments</u></a></li>
 </ul></div>
 
