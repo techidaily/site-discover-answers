@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2025-01-14T17:55:02.345Z
-updated: 2025-01-17T18:41:29.095Z
+date: 2025-01-21T22:18:47.237Z
+updated: 2025-01-23T18:56:30.461Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,20 +46,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhance-click-through-rates-with-good-thumbnails/"><u>[New] In 2024, Enhance Click-Through Rates with Good Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-holistic-motion-comprehensiveness-review/"><u>[New] In 2024, Holistic Motion Comprehensiveness Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-uncover-vanished-watch-video-preview-for-2024/"><u>[New] Uncover Vanished Watch Video Preview for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-tone-transmitter-for-voice-artists/"><u>[Updated] Top-Tier Tone Transmitter for Voice Artists</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-invisible-glance-at-fb-episodes/"><u>2024 Approved Invisible Glance at FB Episodes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ve-unprecedented-image-quality-via-av1-on-youtube-for-2024/"><u>Achieve Unprecedented Image Quality via AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/avi-jpg-mp4-avi/"><u>AVI 파일을 JPG 및 MP4로 자유롭게 변환하는 가상화: 제한 없이 AVI 파일 변환기 다운로드</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-retrouver-des-fichiers-jadis-effaces-sur-une-cle-usb-sans-utilitaires-speciaux/"><u>Comment Retrouver Des Fichiers Jadis Effacés Sur Une Clé USB Sans Utilitaires Spéciaux</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guerir-la-sauvegarde-de-votre-systeme-windows-11-sur-un-nas-qnap-deux-methodes-efficaces/"><u>Guérir La Sauvegarde De Votre Système Windows 11 Sur Un NAS QNAP: Deux Méthodes Efficaces</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-permanently-remove-a-desktop-icon-a-six-step-guide/"><u>How to Permanently Remove a Desktop Icon: A Six-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-convertir-gifs-gratuitos-a-imagenes-jpeg-en-linea/"><u>Movavi - Convertir GIFs Gratuitos a Imágenes JPEG en Línea</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pemulihangatkan-tempel-bocoria-windows-10-langkah-langkah-utama-dan-efektifnya/"><u>Pemulihangatkan Tempel Bocoria Windows 10: Langkah-Langkah Utama Dan Efektifnya</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/type-diskpart-to-start-the-disk-partition-tool/"><u>Type `Diskpart` to Start the Disk Partition Tool.</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728475914041-windows-11/"><u>Windows 11 操作：成功将现有系统转移到新硬件</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/upacara-aathharata-malyavana-savae-jatal-thavao-ka-bhal-kara/"><u>उपचार-आधारित मूल्यवान सेवाएं - जटिल दवाओं को बहाल करें</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-snippet-grabber-fb-to-mp3/"><u>[New] Snippet Grabber FB to Mp3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-multiverse-dichotomy-explained/"><u>[Updated] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-efficiently-producing-high-quality-small-images-for-2024/"><u>[Updated] The Ultimate Guide to Efficiently Producing High-Quality Small Images for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diverse-selection-of-the-simpsons-themed-digital-artwork-photos-pictures-and-wallpaper-by-yl-software/"><u>Diverse Selection of The Simpsons Themed Digital Artwork: Photos, Pictures, and Wallpaper by YL Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-edits-and-tips-to-master-filmoras-interface/"><u>Essential Edits and Tips to Master Filmora's Interface</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-fix-unrecognized-usb-devices-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix Unrecognized USB Devices on Your PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-failure-indicators-a-guide-to-knowing-whether-you-need-a-new-computer-power-unit-by-yl-software-experts/"><u>Identifying Failure Indicators: A Guide to Knowing Whether You Need a New Computer Power Unit by YL Software Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c65-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C65</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ram-troubleshooting-made-easy-learn-how-to-identify-faulty-memory-with-yl-computings-expert-advice/"><u>RAM Troubleshooting Made Easy: Learn How to Identify Faulty Memory with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-your-laptops-sound-quality-problems-with-yl-software-techniques/"><u>Resolving Your Laptop's Sound Quality Problems with YL Software Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-ts-files-into-mp4-and-mov-with-mac-ts-converter-for-macos/"><u>Step-by-Step Guide: Converting TS Files Into MP4 and MOV with Mac TS Converter for macOS</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-mouse-issues-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Unresponsive Mouse Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-sudden-shutdown-of-windows-processes-understanding-error-1067/"><u>Troubleshooting the Sudden Shutdown of Windows Processes - Understanding Error 10^67</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unlocking-secure-data-how-to-use-administrator-permissions-for-file-access-in-windows-yl-software-solutions/"><u>Unlocking Secure Data: How to Use Administrator Permissions for File Access in Windows - YL Software Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-full-potential-of-your-seagate-backup-plus-comprehensive-guide/"><u>Unlocking the Full Potential of Your Seagate Backup Plus - Comprehensive Guide</u></a></li>
 </ul></div>
 

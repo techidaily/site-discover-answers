@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2025-01-11T16:19:07.251Z
-updated: 2025-01-17T20:13:50.666Z
+date: 2025-01-18T22:24:31.725Z
+updated: 2025-01-24T02:33:13.696Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,24 +65,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-8-exemplary-templates-dominate-social-media-creatives/"><u>[Updated] 8 Exemplary Templates Dominate Social Media Creatives</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-key-techniques-for-storing-lol-matches-for-2024/"><u>[Updated] Key Techniques for Storing LOL Matches for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-innovative-skin-modification-apps-for-smartphones/"><u>10 Innovative Skin Modification Apps for Smartphones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-essential-toolkit-3d-video-entrances-ranked/"><u>2024 Approved The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/all-inclusive-instructions-how-to-do-a-pure-windows-11-setup-directly-from-dvd-no-flash-drive-needed/"><u>All-Inclusive Instructions: How to Do a Pure Windows 11 Setup Directly From DVD, No Flash Drive Needed</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-resoudre-le-message-derreur-nettoyage-en-cours-ne-redemarrez-pas-votre-ordinateur/"><u>Comment Résoudre Le Message D'erreur 'Nettoyage en Cours, Ne Redémarrez Pas Votre Ordinateur' ?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/complete-guide-steps-for-successful-system-imaging-on-windows-7-8-and-10/"><u>Complete Guide: Steps for Successful System Imaging on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/complete-manual-for-securely-storing-outlook-emails-locally-without-using-a-pst-file-innovative-techniques-and-methods/"><u>Complete Manual for Securely Storing Outlook Emails Locally Without Using a PST File: Innovative Techniques and Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-your-ideal-screen-for-less-than-a-thousand-dollars-in-depth-review-and-ratings-by-professionals-zdnet/"><u>Find Your Ideal Screen for Less Than A Thousand Dollars: In-Depth Review and Ratings by Professionals | ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722999673539-fireteam-elite-pc-game-continually-fails-to-launch-solved/"><u>Fireteam Elite PC Game Continually Fails to Launch – Solved</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-pratique-pour-reparer-le-materiel-dysfonctionnel-et-eliminer-les-fichiers-corrompus-sur-windows-10/"><u>Guide Pratique Pour Réparer Le Matériel Dysfonctionnel Et Éliminer Les Fichiers Corrompus Sur Windows 10</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/high-resolution-bmw-e60-m5-desktop-wallpaper-collection-premium-quality-graphics-by-yl-computing/"><u>High-Resolution BMW E60 M5 Desktop Wallpaper Collection - Premium Quality Graphics by YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-windows-10-must-have-techniques/"><u>In 2024, Navigating Windows 10 Must-Have Techniques</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-data-protection-in-depth-windows-similar-search-engine-titles-with-same-meaning-as-seagate-backup-manager-on-windows-10-a-comprehensive-guide/"><u>Mastering Data Protection: In-Depth Windows # Similar Search Engine Titles with Same Meaning as Seagate Backup Manager on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/recovering-deleted-files-in-kodi-a-step-by-step-guide/"><u>Recovering Deleted Files in Kodi: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-oppo-find-x7-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-rebuilding-your-dell-laptop-with-windows-section-1-theme-question/"><u>Step-by-Step Guide: Rebuilding Your Dell Laptop with Windows # Section 1: Theme Question</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-covert-query-beam-of-windows-11/"><u>Unveiling the Covert Query Beam of Windows 11</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728498083850-windowsssd/"><u>WindowsパーティションをSSDにコピーする詳細ガイド</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-user-friendly-mac-gadget-visuals-and-voices-recorded/"><u>[New] In 2024, User-Friendly Mac Gadget Visuals & Voices Recorded</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-12-real-time-youtube-subscriber-trackers-for-2024/"><u>[New] Top 12 Real-Time YouTube Subscriber Trackers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail-for-2024/"><u>[Updated] Elevate Collaborative Workflow Enhancing Zoom Use in Gmail Mail for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-fixes-for-printer-compatibility-and-connectivity-in-windows-expert-tips-from-yl-computing/"><u>Easy Fixes for Printer Compatibility and Connectivity in Windows - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-windows-network-card-drivers-condition-using-yl-computing-resources/"><u>Ensuring Optimal Performance: A Guide to Verifying Your Windows Network Card Driver's Condition Using YL Computing Resources</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/genghis-khans-rise-the-foundations-of-the-mongolian-dominion-insights-by-yl-computing/"><u>Genghis Khan's Rise: The Foundations of the Mongolian Dominion - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/hd-desktop-wallpaper-pack-bentley-continental-gt-speed-high-resolution-images-and-download-btechgraphics/"><u>HD Desktop Wallpaper Pack: Bentley Continental GT Speed - High-Resolution Images & Download | BTechGraphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-for-advanced-sonic-creations-in-your-recording-studio-environment/"><u>How To Leverage ChatGPT for Advanced Sonic Creations in Your Recording Studio Environment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-gallery-archive-networks/"><u>In 2024, Foremost Gallery Archive Networks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/is-it-possible-to-quick-review-on-windows-heres-how/"><u>Is It Possible to Quick Review on Windows? Here’s How</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/pcdj-guide-understanding-the-risks-of-offering-contrasting-product-bundles-video-insight/"><u>PCDJ Guide: Understanding the Risks of Offering Contrasting Product Bundles - Video Insight</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-major-windows-issues-without-formatting-a-guide-by-yl-software-experts/"><u>Resolving Major Windows Issues Without Formatting: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-free-educational-apps-perfect-for-school-beginnings/"><u>Top 7 Free Educational Apps Perfect for School Beginnings</u></a></li>
 </ul></div>
 
