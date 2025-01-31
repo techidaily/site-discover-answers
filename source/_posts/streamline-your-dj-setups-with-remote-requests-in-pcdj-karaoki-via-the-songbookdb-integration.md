@@ -1,7 +1,7 @@
 ---
 title: Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration
-date: 2025-01-22T03:01:34.459Z
-updated: 2025-01-23T20:07:21.570Z
+date: 2025-01-25T16:02:00.654Z
+updated: 2025-01-31T16:05:15.858Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,18 +85,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>[Updated] 2024 Approved Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>[Updated] In 2024, The Comedy Codex A Practical Tutorial for GIF Creation</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1-come-superare-lissue-del-blocchaggio-di-itunes-durante-la-sincronizzazione-dei-backup/"><u>1. Come Superare L'Issue Del Blocchaggio Di iTunes Durante La Sincronizzazione Dei Backup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-creators-guide-15-unrestricted-music-archives/"><u>2024 Approved YouTube Creators' Guide 15 Unrestricted Music Archives</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-11-pro-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 11 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/die-effektivsten-methoden-zur-wiederherstellung-von-gmail-e-mails-aus-sicherungskopien-erklart/"><u>Die Effektivsten Methoden Zur Wiederherstellung Von Gmail-E-Mails Aus Sicherungskopien Erklärt</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/die-einfachsten-methoden-zum-einschalten-von-hyper-v-in-windows-1110-professionelle-anleitung/"><u>Die Einfachsten Methoden Zum Einschalten Von Hyper-V in Windows 11/10 - Professionelle Anleitung!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/i-migliori-programmi-di-backup-e-sincronizzazione-per-windows-11-confronto-ed-esperienze-usuale/"><u>I Migliori Programmi Di Backup E Sincronizzazione per Windows 11: Confronto Ed Esperienze Usuale</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>In 2024, Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/securing-your-digital-wallet-expert-tips-from-yl-computings-guide/"><u>Securing Your Digital Wallet: Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-rated-dell-data-protection-choosing-the-ideal-backup-and-recovery-solution/"><u>Top-Rated Dell Data Protection: Choosing the Ideal Backup & Recovery Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-breakdown-gaming-giant-hacked/"><u>Virtual Breakdown: Gaming Giant Hacked</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-streamselect-an-alternative-to-dacast-for-2024/"><u>[New] StreamSelect An Alternative to DaCast for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-turning-social-media-sounds-into-functional-phone-alarms/"><u>[Updated] 2024 Approved Turning Social Media Sounds Into Functional Phone Alarms</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-retrieve-lost-iphone-voicemails-with-simple-steps/"><u>1. Retrieve Lost iPhone Voicemails with Simple Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-charting-your-course-through-youtube-compliance/"><u>2024 Approved Charting Your Course Through YouTube Compliance</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-methods-to-upload-videos-from-iphone-onto-windows-1n-operating-system/"><u>Easy Methods to Upload Videos From iPhone Onto Windows 1N Operating System</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/effortless-methods-for-broadcasting-live-videos-with-excellent-results/"><u>Effortless Methods for Broadcasting Live Videos with Excellent Results</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-the-value-of-a-wi-fi-mesh-network-is-it-right-for-you/"><u>Evaluating the Value of a Wi-Fi Mesh Network: Is It Right for You?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-unregistered-class-mistakes-seamlessly-on-your-pc/"><u>Fixing 'Unregistered Class' Mistakes Seamlessly on Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mirroring-your-android-device-on-an-apple-tv-a-step-by-step-guide/"><u>Mirroring Your Android Device on an Apple TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-tips-for-creating-personalized-iphone-ringtones-at-home/"><u>Simple Tips for Creating Personalized iPhone Ringtones at Home</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-ransomware-a-comprehensive-overview-by-malwarefox/"><u>Understanding Ransomware: A Comprehensive Overview by MalwareFox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-ai-how-three-different-chatbots-rose-to-the-challenge/"><u>Unleashing Creativity in AI: How Three Different Chatbots Rose to the Challenge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g23-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Moto G23 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2025-01-18T22:24:31.725Z
-updated: 2025-01-24T02:33:13.696Z
+date: 2025-01-27T16:01:35.719Z
+updated: 2025-01-31T16:03:30.078Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Try The DEX 3.11.0.0 Public Beta
@@ -43,7 +43,7 @@ If you haven’t already, please[join the Official PCDJ User Group on Facebook](
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,19 +65,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-user-friendly-mac-gadget-visuals-and-voices-recorded/"><u>[New] In 2024, User-Friendly Mac Gadget Visuals & Voices Recorded</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/op-12-real-time-youtube-subscriber-trackers-for-2024/"><u>[New] Top 12 Real-Time YouTube Subscriber Trackers for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail-for-2024/"><u>[Updated] Elevate Collaborative Workflow Enhancing Zoom Use in Gmail Mail for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-fixes-for-printer-compatibility-and-connectivity-in-windows-expert-tips-from-yl-computing/"><u>Easy Fixes for Printer Compatibility and Connectivity in Windows - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-windows-network-card-drivers-condition-using-yl-computing-resources/"><u>Ensuring Optimal Performance: A Guide to Verifying Your Windows Network Card Driver's Condition Using YL Computing Resources</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/genghis-khans-rise-the-foundations-of-the-mongolian-dominion-insights-by-yl-computing/"><u>Genghis Khan's Rise: The Foundations of the Mongolian Dominion - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/hd-desktop-wallpaper-pack-bentley-continental-gt-speed-high-resolution-images-and-download-btechgraphics/"><u>HD Desktop Wallpaper Pack: Bentley Continental GT Speed - High-Resolution Images & Download | BTechGraphics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-for-advanced-sonic-creations-in-your-recording-studio-environment/"><u>How To Leverage ChatGPT for Advanced Sonic Creations in Your Recording Studio Environment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-gallery-archive-networks/"><u>In 2024, Foremost Gallery Archive Networks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/is-it-possible-to-quick-review-on-windows-heres-how/"><u>Is It Possible to Quick Review on Windows? Here’s How</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pcdj-guide-understanding-the-risks-of-offering-contrasting-product-bundles-video-insight/"><u>PCDJ Guide: Understanding the Risks of Offering Contrasting Product Bundles - Video Insight</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/resolving-major-windows-issues-without-formatting-a-guide-by-yl-software-experts/"><u>Resolving Major Windows Issues Without Formatting: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-free-educational-apps-perfect-for-school-beginnings/"><u>Top 7 Free Educational Apps Perfect for School Beginnings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-story-genius-over-a-hundred-story-ideas-to-elevate-your-social-narrative/"><u>[New] 2024 Approved Snapchat Story Genius Over a Hundred Story Ideas to Elevate Your Social Narrative</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-advanced-techniques-for-audacity-audio-mastery-for-2024/"><u>[New] Advanced Techniques for Audacity Audio Mastery for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[New] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-the-world-of-green-screens-a-beginners-visual-effect-guide/"><u>[Updated] 2024 Approved Exploring the World of Green Screens A Beginner’s Visual Effect Guide</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/automatische-datensegnerung-in-chrome-beendet-heruntergeladene-inhalte-werden-automatisch-geloscht/"><u>Automatische Datensegnerung in Chrome Beendet - Heruntergeladene Inhalte Werden Automatisch Gelöscht</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/fixing-intcoedsys-errors-on-windows-11-effective-solutions-for-smooth-operation/"><u>Fixing IntcOED.sys Errors on Windows 11: Effective Solutions for Smooth Operation</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/free-aomei-dataknife-robust-windows-backup-and-recovery-solution/"><u>Free AOMEI DataKnife - Robust Windows Backup & Recovery Solution</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-rapide-comment-deverrouiller-et-reinitialiser-votre-ordinateur-avec-windows/"><u>Guide Rapide : Comment Déverrouiller Et Réinitialiser Votre Ordinateur Avec Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-csgo-not-starting-in-windows-11/"><u>Overcoming CS:GO Not Starting in Windows 11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/restoring-deleted-saves-in-snowrunner-across-pc-ps-and-xbox-platforms/"><u>Restoring Deleted Saves in SnowRunner Across PC, PS & Xbox Platforms</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-steps-for-transferring-windows-server-data-to-amazon-s3-storage/"><u>Simple Steps for Transferring Windows Server Data to Amazon S3 Storage</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-to-free-disk-cloning-tools-on-windows-11-comparisons-and-reviews/"><u>The Ultimate Guide to Free Disk Cloning Tools on Windows 11: Comparisons and Reviews</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-11-proplus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-c300-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia C300 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-oppo-find-n3-flip-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Find N3 Flip Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unraveling-the-enigma-understanding-issues-with-your-computer-on-windows-11/"><u>Unraveling the Enigma: Understanding Issues with Your Computer on Windows 11</u></a></li>
 </ul></div>
 

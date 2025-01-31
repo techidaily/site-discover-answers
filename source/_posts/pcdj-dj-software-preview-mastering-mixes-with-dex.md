@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2025-01-21T22:18:47.237Z
-updated: 2025-01-23T18:56:30.461Z
+date: 2025-01-26T16:07:04.534Z
+updated: 2025-01-31T16:04:10.841Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,21 +46,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-snippet-grabber-fb-to-mp3/"><u>[New] Snippet Grabber FB to Mp3</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-multiverse-dichotomy-explained/"><u>[Updated] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-efficiently-producing-high-quality-small-images-for-2024/"><u>[Updated] The Ultimate Guide to Efficiently Producing High-Quality Small Images for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/diverse-selection-of-the-simpsons-themed-digital-artwork-photos-pictures-and-wallpaper-by-yl-software/"><u>Diverse Selection of The Simpsons Themed Digital Artwork: Photos, Pictures, and Wallpaper by YL Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-edits-and-tips-to-master-filmoras-interface/"><u>Essential Edits and Tips to Master Filmora's Interface</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-fix-unrecognized-usb-devices-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix Unrecognized USB Devices on Your PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-failure-indicators-a-guide-to-knowing-whether-you-need-a-new-computer-power-unit-by-yl-software-experts/"><u>Identifying Failure Indicators: A Guide to Knowing Whether You Need a New Computer Power Unit by YL Software Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c65-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C65</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ram-troubleshooting-made-easy-learn-how-to-identify-faulty-memory-with-yl-computings-expert-advice/"><u>RAM Troubleshooting Made Easy: Learn How to Identify Faulty Memory with YL Computing's Expert Advice</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/resolving-your-laptops-sound-quality-problems-with-yl-software-techniques/"><u>Resolving Your Laptop's Sound Quality Problems with YL Software Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-ts-files-into-mp4-and-mov-with-mac-ts-converter-for-macos/"><u>Step-by-Step Guide: Converting TS Files Into MP4 and MOV with Mac TS Converter for macOS</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-mouse-issues-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Unresponsive Mouse Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-sudden-shutdown-of-windows-processes-understanding-error-1067/"><u>Troubleshooting the Sudden Shutdown of Windows Processes - Understanding Error 10^67</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlocking-secure-data-how-to-use-administrator-permissions-for-file-access-in-windows-yl-software-solutions/"><u>Unlocking Secure Data: How to Use Administrator Permissions for File Access in Windows - YL Software Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-full-potential-of-your-seagate-backup-plus-comprehensive-guide/"><u>Unlocking the Full Potential of Your Seagate Backup Plus - Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-soundscape-of-influence-altering-voice-on-stories-and-reels/"><u>[New] 2024 Approved The Soundscape of Influence Altering Voice on Stories & Reels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-green-screen-landscape-for-webcam-enthusiasts/"><u>[Updated] Navigating the Green Screen Landscape for Webcam Enthusiasts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/2-can-switching-out-ssds-save-or-erase-your-files/"><u>2. Can Switching Out SSDs Save or Erase Your Files?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-modern-warfare-2-gameplay-quality-remedies-for-reducing-frame-rate-fluctuations-and-eliminating-lag-on-windows-pcs/"><u>Boost 'Modern Warfare 2' Gameplay Quality: Remedies for Reducing Frame Rate Fluctuations & Eliminating Lag on Windows PCs</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/chrome-alert-protect-your-smartphone-from-the-may-be-in-danger-security-warning-by-malwarefox/"><u>Chrome Alert: Protect Your Smartphone From the 'May Be in Danger' Security Warning by MalwareFox</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comment-sauver-vos-donnees-face-a-une-perturbation-delectricite/"><u>Comment Sauver Vos Données Face À Une Perturbation D'Electricité</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-android-information-to-iphone-at-no-cost-three-effective-strategies/"><u>How to Migrate Your Android Information to iPhone at No Cost – Three Effective Strategies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-a60s-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel A60s FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-auto-restarts-windows-11-edition/"><u>Stopping Auto Restarts: Windows 11 Edition</u></a></li>
 </ul></div>
 

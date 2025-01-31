@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest PCDJ New Deck: Beta v3.6 Release Now!"
-date: 2025-01-19T18:21:16.376Z
-updated: 2025-01-23T17:13:36.282Z
+date: 2025-01-26T16:06:17.782Z
+updated: 2025-01-31T16:02:11.511Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,18 +73,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>[New] 2024 Approved Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition/"><u>[New] 2024 Approved Universal Guide to Capturing Cinema PC, Mac & Mobile Edition</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728482668953-ssd/"><u>外部SSDへのドロップボックス同期:初心者向けガイド</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-minecraft-update-your-graphics-drivers-for-optimal-performance/"><u>Fixing Minecraft: Update Your Graphics Drivers for Optimal Performance</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-signs-of-a-malfunctioning-scanner-driver-expert-insights-from-yl-computing/"><u>Identifying Signs of a Malfunctioning Scanner Driver: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-5-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 5 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Hot 40</u></a></li>
-<li><a href="https://fox-access.techidaily.com/moto-z2s-brainpower-examined-in-detail-for-2024/"><u>Moto Z2's Brainpower Examined in Detail for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/share-your-experience-provide-feedback-on-pcdj-reviews-welcome/"><u>Share Your Experience: Provide Feedback on PCDJ - Reviews Welcome!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/shield-yourself-from-crypto-frauds-expert-advice-by-yl-computing/"><u>Shield Yourself From Crypto Frauds - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/step-by-step-process-to-refresh-your-pcs-driver-software-by-yl-software-experts/"><u>Step-by-Step Process to Refresh Your PC's Driver Software by YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultra-clear-hd-wallpaper-designs-and-background-pixels-creative-visuals-by-yl-computing/"><u>Ultra-Clear HD Wallpaper Designs & Background Pixels: Creative Visuals by YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-blurry-video-woes-solved-fix-on-mobile-devices/"><u>[New] 2024 Approved Blurry Video Woes Solved Fix on Mobile Devices</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-guia-completa-crear-backups-de-tu-tarjeta-sd-movil-sin-coste-alguno/"><u>1. 'Guía Completa: Crear Backups De Tu Tarjeta SD Móvil Sin Coste Alguno'</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/automating-file-backups-on-your-windows-10-desktop-a-step-by-step-guide/"><u>Automating File Backups on Your Windows 10 Desktop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diypc/"><u>DIY方法：新PCへ完全データ転送テクニック</u></a></li>
+<li><a href="https://win-superb.techidaily.com/eliminating-redundant-images-on-your-iphone-with-ios-versions-16-17-and-18/"><u>Eliminating Redundant Images on Your iPhone with iOS Versions 16, 17 & 18</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone SE Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-resonance-issues-with-pc-audio/"><u>Resolving Resonance Issues with PC Audio</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/restore-damaged-rows-partitions-within-windows-11-a-guide-to-the-five-best-repair-methods/"><u>Restore Damaged ROWS Partitions Within Windows 11: A Guide to the Five Best Repair Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reviving-your-msi-mystic-light-on-windows-systems-expert-fixes-for-non-responsive-indicator-leds/"><u>Reviving Your MSI Mystic Light on Windows Systems - Expert Fixes for Non-Responsive Indicator LEDs</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/risoluzione-definitiva-per-lerrore-di-windows-11-che-si-blocca-sporadicamente/"><u>Risoluzione Definitiva per L'Errore Di Windows 11 Che Si Blocca Sporadicamente</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/scarica-gratuitamente-il-centro-ufficiale-winx-ottimo-software-per-ripulire-i-dvd-ed-eseguire-trasformazioni-video-ad-alta-definizione/"><u>Scarica Gratuitamente Il Centro Ufficiale WinX: Ottimo Software per Ripulire I DVD Ed Eseguire Trasformazioni Video Ad Alta Definizione</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716464698258-top-recruiter-shorts-find-your-motivation/"><u>Top Recruiter Shorts Find Your Motivation!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-11-synctoy/"><u>Windows 11 SyncToyによる自動ファイルバックアップ手順ガイド</u></a></li>
 </ul></div>
 
