@@ -1,7 +1,7 @@
 ---
 title: "Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!"
-date: 2025-01-27T16:01:10.836Z
-updated: 2025-01-31T16:02:55.621Z
+date: 2025-02-11T21:43:07.134Z
+updated: 2025-02-12T17:46:59.171Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Also included are various new ease-of-use items and support for all various zip 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in LYRX Version 1.2
@@ -68,7 +68,7 @@ _**UPDATE INSTRUCTIONS:** Download and install version 1.2 with your existing ve
 _Have questions about the new version of LYRX **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,19 +90,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/LYRXV12UPDATE-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-how-to-turn-on-av1-settings-on-youtube-and-why-you-should-do-it/"><u>2024 Approved How to Turn on AV1 Settings on YouTube and Why You Should Do It</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/best-no-cost-webinar-recorder-apps-easily-archive-and-replay-your-presentations/"><u>Best No-Cost Webinar Recorder Apps: Easily Archive and Replay Your Presentations</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-creating-pdfs-using-apowerpdf/"><u>Comprehensive Guide: Creating PDFs Using ApowerPDF</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprelevant-listings-best-free-tools-to-watch-webm-videos-for-2024/"><u>Comprelevant Listings Best Free Tools to Watch WebM Videos for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-most-effective-iphone/"><u>Discover the Most Effective iPhone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/free-solutions-converting-mkv-files-for-iphone-viewing/"><u>Free Solutions: Converting MKV Files for iPhone Viewing</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-pinnacle-studio-top-video-editing-software-for-mac/"><u>In 2024, Beyond Pinnacle Studio Top Video Editing Software for Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-quicker-scaling-ensure-perfect-youtubemac-ratios/"><u>In 2024, Quicker Scaling Ensure Perfect Youtube/Mac Ratios</u></a></li>
-<li><a href="https://facebook.techidaily.com/metaversity-vs-virtual-reality-delineating-six-significant-variations/"><u>Metaversity Vs. Virtual Reality: Delineating Six Significant Variations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-new-frontiers-for-enterprise-success-with-chatgpt-and-whisper-api-integration/"><u>Navigating New Frontiers for Enterprise Success with ChatGPT and Whisper API Integration</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-ultimate-compendium-for-professionals-in-vivacut-video-editing/"><u>The Ultimate Compendium for Professionals in VivaCut Video Editing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-picks-the-ideal-hypercam-solutions-for-macos-users/"><u>Top Picks: The Ideal HyperCam Solutions for macOS Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-success-with-effective-youtube-adsense-tactics-for-2024/"><u>[Updated] Pioneering Success with Effective YouTube AdSense Tactics for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-spinning-photos-iphone-videography-tips/"><u>[Updated] The Art of Spinning Photos IPhone Videography Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>[Updated] The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unearthing-inshots-video-magic-for-editors/"><u>2024 Approved Unearthing InShot’s Video Magic for Editors</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-4-online-tools-to-remove-ai-generated-logos-and-watermarks-from-your-video-content/"><u>Best Top 4 Online Tools to Remove AI-Generated Logos & Watermarks From Your Video Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-for-persistent-gameplay-interruptions-in-the-king-of-fighters-xv-on-your-gaming-rig/"><u>Comprehensive Fixes for Persistent Gameplay Interruptions in The King of Fighters XV on Your Gaming Rig</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/download-the-latest-pcdj-new-deck-beta-v36-release-now/"><u>Download the Latest PCDJ New Deck: Beta v3.6 Release Now!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-fix-unrecognized-usb-devices-on-your-pc-expert-advice-from-yl-computing/"><u>How to Fix Unrecognized USB Devices on Your PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-a2-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi A2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ram-troubleshooting-made-easy-learn-how-to-identify-faulty-memory-with-yl-computings-expert-advice/"><u>RAM Troubleshooting Made Easy: Learn How to Identify Faulty Memory with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-your-laptops-sound-quality-problems-with-yl-software-techniques/"><u>Resolving Your Laptop's Sound Quality Problems with YL Software Techniques</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-mouse-issues-tips-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Unresponsive Mouse Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unique-automotive-scenes-with-lush-greenery-premium-image-collections-from-yl-software/"><u>Unique Automotive Scenes with Lush Greenery - Premium Image Collections From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unlocking-secure-data-how-to-use-administrator-permissions-for-file-access-in-windows-yl-software-solutions/"><u>Unlocking Secure Data: How to Use Administrator Permissions for File Access in Windows - YL Software Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated In 2024, Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-software-insights-easily-update-your-desktop-image-on-windows-systems/"><u>YL Software Insights: Easily Update Your Desktop Image on Windows Systems</u></a></li>
 </ul></div>
 

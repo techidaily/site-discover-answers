@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2025-01-26T16:07:04.534Z
-updated: 2025-01-31T16:04:10.841Z
+date: 2025-02-09T21:12:44.914Z
+updated: 2025-02-12T21:07:22.062Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,14 +46,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-soundscape-of-influence-altering-voice-on-stories-and-reels/"><u>[New] 2024 Approved The Soundscape of Influence Altering Voice on Stories & Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-green-screen-landscape-for-webcam-enthusiasts/"><u>[Updated] Navigating the Green Screen Landscape for Webcam Enthusiasts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/2-can-switching-out-ssds-save-or-erase-your-files/"><u>2. Can Switching Out SSDs Save or Erase Your Files?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-modern-warfare-2-gameplay-quality-remedies-for-reducing-frame-rate-fluctuations-and-eliminating-lag-on-windows-pcs/"><u>Boost 'Modern Warfare 2' Gameplay Quality: Remedies for Reducing Frame Rate Fluctuations & Eliminating Lag on Windows PCs</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/chrome-alert-protect-your-smartphone-from-the-may-be-in-danger-security-warning-by-malwarefox/"><u>Chrome Alert: Protect Your Smartphone From the 'May Be in Danger' Security Warning by MalwareFox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-sauver-vos-donnees-face-a-une-perturbation-delectricite/"><u>Comment Sauver Vos Données Face À Une Perturbation D'Electricité</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-android-information-to-iphone-at-no-cost-three-effective-strategies/"><u>How to Migrate Your Android Information to iPhone at No Cost – Three Effective Strategies</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-a60s-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel A60s FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-auto-restarts-windows-11-edition/"><u>Stopping Auto Restarts: Windows 11 Edition</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-risoluzione-dei-problemi-come-trovare-e-affrontare-le-soluzioni-corrette/"><u>1. Risoluzione Dei Problemi: Come Trovare E Affrontare Le Soluzioni Corrette</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-budget-friendly-video-editing-masterclass-on-vimeo/"><u>2024 Approved Budget-Friendly Video Editing Masterclass on Vimeo</u></a></li>
+<li><a href="https://facebook.techidaily.com/capture-your-life-stories-mastering-facebook-on-this-day/"><u>Capture Your Life Stories: Mastering Facebook On This Day</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-steps-setting-up-vmware-on-hardware-a-beginners-tutorial/"><u>Easy Steps: Setting Up VMware on Hardware - A Beginners Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/google-enhances-chromebook-with-cutting-edge-ai-tools-potentially-outshining-microsofts-copilot-exclusive-report-from-zdnet/"><u>Google Enhances Chromebook with Cutting-Edge AI Tools, Potentially Outshining Microsoft's Copilot - Exclusive Report From ZDNET</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-complet-a-la-protection-et-au-depannage-des-laptops-alienware/"><u>Guide Complet À La Protection Et Au Dépannage Des Laptops Alienware</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-oceanic-adventures-top-camera-pickups-of-2023/"><u>In 2024, Oceanic Adventures - Top Camera Pickups of 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-unauthorized-data-access-by-adaptive-ai/"><u>Preventing Unauthorized Data Access by Adaptive AI</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/revive-your-pc-with-these-tips-for-restoring-windows-11-from-an-image-backup/"><u>Revive Your PC with These Tips for Restoring Windows 11 From an Image Backup!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/techniques-pour-recouvrer-des-donnees-de-disque-dur-endommage-et-lecture-impossible-guide-complet/"><u>Techniques Pour Recouvrer Des Données De Disque Dur Endommagé Et Lecture Impossible : Guide Complet</u></a></li>
+<li><a href="https://article-files.techidaily.com/toms-tech-hub-ultimate-hardware-insights/"><u>Tom's Tech Hub: Ultimate Hardware Insights</u></a></li>
 </ul></div>
 
