@@ -1,7 +1,7 @@
 ---
 title: "New In DEX 3.11 Update: Revolutionary 'Shaders' Boost On-Screen Visualizations"
-date: 2025-02-11T21:13:55.783Z
-updated: 2025-02-13T02:40:14.708Z
+date: 2025-02-25T16:47:02.676Z
+updated: 2025-03-03T21:29:55.284Z
 tags:
   - product
 categories:
@@ -32,19 +32,11 @@ DEX 3 is the total multimedia mixing software solution for the modern and versat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Try The DEX 3.11.0.0 Public Beta
 
 If you haven’t already, please[join the Official PCDJ User Group on Facebook](https://www.facebook.com/groups/208451843303338/) to get an early look at DEX 3.11 with Shader support!
 
 _Have questions about using **Shaders** in DEX 3 **DJ Software** for on-screen **Visualizations**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -65,20 +57,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/shadersupport.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crafting-visual-magic-advanced-tips-for-stunning-edits/"><u>[New] 2024 Approved Crafting Visual Magic Advanced Tips for Stunning Edits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-critical-steps-to-record-and-relive-athletic-sports-competitions/"><u>2024 Approved Critical Steps to Record & Relive Athletic Sports Competitions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a34-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A34 5G Fingerprint Lock</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comment-restaurer-les-anciennes-versions-disparues-une-solution-facile/"><u>Comment Restaurer Les Anciennes Versions Disparues ? Une Solution Facile</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/driver-unavailable-bcm20702a0-system-alert/"><u>Driver Unavailable: BCM20702A0 System Alert</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/effortless-server-backup-solutions-mastering-the-art-of-using-dropbox/"><u>Effortless Server Backup Solutions: Mastering the Art of Using Dropbox</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-detaille-comment-organiser-une-copie-de-secours-avec-aomei-backupper-sur-windows/"><u>Guide Détaillé : Comment Organiser Une Copie De Secours Avec AOMEI Backupper Sur Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/overclocking-and-modding-guide-enhancing-intel-core-i7-7700k-with-a-de-lidded-design/"><u>Overclocking & Modding Guide: Enhancing Intel Core I7-7700K with a De-Lidded Design</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-issues-with-non-updating-iphone-mail-a-step-by-step-guide/"><u>Resolving Issues with Non-Updating iPhone Mail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/secure-steps-comprehensive-guide-to-safely-transferring-operating-system-to-compact-ssd/"><u>Secure Steps: Comprehensive Guide to Safely Transferring Operating System to Compact SSD</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solutions-pour-les-problemes-rencontres-en-tentant-de-restaurerextraire-des-fichiers-lors-de-la-configuration-ou-de-la-restauration-sur-windows-amo/"><u>Solutions Pour Les Problèmes Rencontrés en Tentant De Restaurer/Extraire Des Fichiers Lors De La Configuration Ou De La Restauration Sur Windows Amo.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/spy-shots-the-next-gen-google-pixel-9-anticipated-specifications-price-points-release-window-revealed/"><u>Spy Shots! The Next-Gen Google Pixel 9: Anticipated Specifications, Price Points, Release Window Revealed</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/tests-complets-sur-la-recuperation-de-fichiers-avec-windows-performe-t-il-reellement/"><u>Tests Complets Sur La Récupération De Fichiers Avec Windows - Performe-T-Il Réellement?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-7-boot-repair-via-command-prompt-using-chkdsk-and-bootrec-methods/"><u>Windows 7 Boot Repair via Command Prompt: Using Chkdsk and BootRec Methods</u></a></li>
+<li><a href="https://win-guides.techidaily.com/efficient-ways-to-categorize-and-store-your-images-into-folders-using-an-ipad/"><u>Efficient Ways to Categorize and Store Your Images Into Folders Using an iPad</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-graphics-card-failure-step-by-step-guide-by-yl-software-specialists/"><u>Identifying Graphics Card Failure - Step-by-Step Guide by YL Software Specialists</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://games-able.techidaily.com/intelligent-ai-crime-scene-enigmas-online/"><u>Intelligent AI: Crime Scene Enigmas Online</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/key-specifications-needed-for-efficient-management-via-control-panels-a-guide-from-yl-software-experts/"><u>Key Specifications Needed for Efficient Management via Control Panels: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-your-videos-the-best-free-green-screen-apps-for-android-and-ios-devices/"><u>New 2024 Approved Transform Your Videos The Best Free Green Screen Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210539866-9781447499275-recovering-the-ancient-magic/"><u>Recovering the Ancient Magic | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-cross-functional-cooperation-with-artificial-intelligence-in-development-and-commerce/"><u>Revolutionizing Cross-Functional Cooperation with Artificial Intelligence in Development and Commerce</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-cd-drive-issues-in-windowsmac-os-tips-and-guides-from-yl-computing-solutions/"><u>Solving CD Drive Issues in Windows/Mac OS: Tips & Guides From YL Computing Solutions</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-to-adjusting-mouse-settings-with-yl-software-yl-computing-solutions/"><u>The Ultimate Guide to Adjusting Mouse Settings with YL Software - YL Computing Solutions</u></a></li>
 </ul></div>
 

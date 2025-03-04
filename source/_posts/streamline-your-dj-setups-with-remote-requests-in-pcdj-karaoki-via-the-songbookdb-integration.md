@@ -1,7 +1,7 @@
 ---
 title: Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration
-date: 2025-02-06T03:33:27.331Z
-updated: 2025-02-12T19:28:27.431Z
+date: 2025-02-27T16:36:51.107Z
+updated: 2025-03-03T17:28:44.535Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How will SongBookDB interface with PCDJ Karaoki?
 
 _**Phase 1.)**_  
@@ -35,10 +31,6 @@ _**Phase 2.)**_
 The next Karaoki public beta will have a new option “_Remote Users_” on the config button menu for external terminals and remote control plugins; this will replace the existing ‘_Remote Terminal_‘ interface on the config screen.
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
 
@@ -52,19 +44,11 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
 
 **Please Also Note:** _the above screen grabs are ‘In-House’ test builds and WILL change when the public betas released._
 
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -85,14 +69,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-easy-photo-progression-on-instagram-for-2024/"><u>[New] Easy Photo Progression on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-updated-monetization-playbook/"><u>[New] YouTube's Updated Monetization Playbook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-drone-buys-the-top-5-pro-picks/"><u>Best Drone Buys - The Top 5 Pro Picks</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discovering-the-origin-identifying-the-initial-ruler-of-the-han-empire-insights-from-yl-computing-and-yl-software/"><u>Discovering the Origin: Identifying the Initial Ruler of the Han Empire - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/high-definition-portraiture-priyanka-chopras-stunning-visual-gallery-by-yl-computing-and-software-solutions/"><u>High-Definition Portraiture: Priyanka Chopra's Stunning Visual Gallery by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/iphone-tricks-turn-your-images-upside-down-sideways-for-2024/"><u>IPhone Tricks Turn Your Images Upside-Down, Sideways for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/master-your-monitor-fine-tuning-screen-settings-in-windows-11-by-yl-software-experts/"><u>Master Your Monitor: Fine-Tuning Screen Settings in Windows 11 by YL Software Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unraveling-the-mystery-behind-your-gpu-issues-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your GPU Issues - A Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigate-away-from-bot-influenced-metrics/"><u>[New] Navigate Away From Bot-Influenced Metrics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-iphone-hacks-for-minimalist-video-presentation/"><u>[Updated] 2024 Approved IPhone Hacks for Minimalist Video Presentation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>[Updated] In 2024, Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[Updated] In 2024, Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/bryce-zhao-discover-the-man-behind-aomei-authors-insight/"><u>Bryce Zhao: Discover the Man Behind AOMEI - Author's Insight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/find-the-best-options-to-apply-vhs-photo-effects-on-computeronline/"><u>Find The Best Options to Apply VHS Photo Effects on Computer/Online</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/flash-drive-file-recovery-schnell-und-einfach-mit-windows-kommandozeilenwerkzeug-erledigen/"><u>Flash-Drive File Recovery: Schnell Und Einfach Mit Windows Kommandozeilenwerkzeug Erledigen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-vivo-v29-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Vivo V29 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-a1-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo A1 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-synologys-immutable-backup-feature-how-does-it-work/"><u>Mastering Synology's Immutable Backup Feature - How Does It Work?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reach-peaks-lead-lines-strategies-to-elevate-telegram-marketing/"><u>Reach Peaks, Lead Lines Strategies to Elevate Telegram Marketing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/recovering-accidentally-erased-photos-top-5-techniques-for-hp-users/"><u>Recovering Accidentally Erased Photos: Top 5 Techniques for HP Users</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/schritt-fur-schritt-guide-zum-klonen-von-dateipfaden-auf-einem-mac/"><u>Schritt-Für-Schritt-Guide Zum Klonen Von Dateipfaden Auf Einem Mac</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/strategie-efficaci-per-il-recupero-di-documenti-persi-o-eliminati-su-windows-1111-tutorial-completo/"><u>Strategie Efficaci per Il Recupero Di Documenti Persi O Eliminati Su Windows 11/11 - Tutorial Completo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782576-9781594778629-the-diloggun/"><u>The Diloggún | Free Book</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unlock-your-pcs-primary-partition-freeing-up-the-windows-installation-drive/"><u>Unlock Your PC's Primary Partition: Freeing Up the Windows Installation Drive</u></a></li>
 </ul></div>
 

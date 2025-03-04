@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Remove All My Files From Computer with OneDrive"
-date: 2025-01-23T01:11:33.443Z
-updated: 2025-01-24T00:49:20.075Z
+date: 2025-03-01T23:06:19.276Z
+updated: 2025-03-03T20:27:15.636Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67eb325f40bd9aa4e2098999e.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/a6338fc0e3b288df7ba3b57ed43a2445bbfc6da67
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -41,10 +37,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -74,25 +66,13 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -105,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -134,17 +110,9 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -249,10 +217,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -268,18 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>[New] Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mov-file-saving-techniques-for-windows-11-users/"><u>[Updated] .MOV File Saving Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transforming-video-summaries-via-ideal-templates/"><u>[Updated] 2024 Approved Transforming Video Summaries via Ideal Templates</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlocking-success-the-essentials-of-crafting-great-reddit-threads/"><u>[Updated] Unlocking Success The Essentials of Crafting Great Reddit Threads</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/connect-seamlessly-on-the-road-in-depth-review-of-lihan-lhfm1039-wireless-fm-transmitter-for-cars/"><u>Connect Seamlessly on the Road: In-Depth Review of LIHAN LHFM1039 Wireless FM Transmitter for Cars</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210389811-9781493046317-haunted-connecticut-2nd-ed/"><u>Haunted Connecticut (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-ebooks-from-amazons-kindle-to-kobos-clara-hd/"><u>How to Migrate Your eBooks From Amazon's Kindle to Kobo's Clara HD</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-agni-2-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lava Agni 2 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/insights-into-end-user-reviews-and-thoughts-on-official-guides/"><u>Insights Into End-User Reviews and Thoughts on Official Guides</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/kindle-showdown-fire-edition-versus-paperwhite-choose-the-ultimate-reading-device/"><u>Kindle Showdown: Fire Edition Versus Paperwhite - Choose the Ultimate Reading Device!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/master-the-art-of-ebook-file-conversion-turn-your-drm-locked-amazon-kindle-azw-books-into-universal-epubs/"><u>Master the Art of eBook File Conversion: Turn Your DRM-Locked Amazon Kindle AZW Books Into Universal EPUBs</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
-<li><a href="https://fox-access.techidaily.com/visual-harmony-how-m1-chips-enhance-editing-speed-and-precision-for-2024/"><u>Visual Harmony How M1 Chips Enhance Editing Speed and Precision for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-from-boredom-to-virality-tiktok-videos-shaped-by-mac-edits/"><u>[New] 2024 Approved From Boredom to Virality TikTok Videos Shaped by Mac Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-apples-role-in-simplifying-educational-audio-archives/"><u>[New] Apple's Role in Simplifying Educational Audio Archives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-panorama-pioneers-determining-the-best-360-cams-for-2024/"><u>[New] Panorama Pioneers Determining the Best 360 Cams for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>[Updated] Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-retrieve-lost-iphone-voicemails-with-simple-steps/"><u>1. Retrieve Lost iPhone Voicemails with Simple Steps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-elevating-your-websites-performance-and-personalization/"><u>Cookiebot Integration: Elevating Your Website's Performance and Personalization</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-methods-to-upload-videos-from-iphone-onto-windows-1n-operating-system/"><u>Easy Methods to Upload Videos From iPhone Onto Windows 1N Operating System</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/effortless-methods-for-broadcasting-live-videos-with-excellent-results/"><u>Effortless Methods for Broadcasting Live Videos with Excellent Results</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-overcome-the-windows-update-error-0x80070002-a-step-by-step-guide/"><u>Effortlessly Overcome the Windows Update Error 0X80070002: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-content-reach-keeping-creative-commons-engagement-high-for-2024/"><u>Enhancing Content Reach Keeping Creative Commons Engagement High for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mirroring-your-android-device-on-an-apple-tv-a-step-by-step-guide/"><u>Mirroring Your Android Device on an Apple TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-tips-for-creating-personalized-iphone-ringtones-at-home/"><u>Simple Tips for Creating Personalized iPhone Ringtones at Home</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/the-ultimate-guide-how-to-clear-out-your-iphones-calendar-data/"><u>The Ultimate Guide: How to Clear Out Your iPhone's Calendar Data</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-rated-tools-for-adjusting-picture-backdrop-hue/"><u>Top Rated Tools for Adjusting Picture Backdrop Hue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/transforming-your-android-into-a-broadcast-hub-for-2024/"><u>Transforming Your Android Into a Broadcast Hub for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-ransomware-a-comprehensive-overview-by-malwarefox/"><u>Understanding Ransomware: A Comprehensive Overview by MalwareFox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-connectivity-secrets-to-accessing-the-web-without-traditional-plans/"><u>Wireless Connectivity: Secrets to Accessing the Web without Traditional Plans</u></a></li>
 </ul></div>
 

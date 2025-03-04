@@ -1,7 +1,7 @@
 ---
 title: "Profi-Tipps Zur Neuinstallation Von Lenovo PC: Setze Deinen Computer Zurück Auf Die Fabrik-Einstellungen Für Eine Optimale Leistung"
-date: 2025-01-18T17:56:17.805Z
-updated: 2025-01-23T20:26:49.576Z
+date: 2025-03-01T19:24:55.385Z
+updated: 2025-03-03T21:35:31.331Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb650ef14b9ada7d7d6b9ca442.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -31,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -69,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -92,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -144,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,20 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-embark-on-the-facebook-experience/"><u>[New] In 2024, How to Embark on the Facebook Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-7-best-budget-friendly-dvd-players-for-computers/"><u>[Updated] 7 Best Budget-Friendly DVD Players for Computers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-technological-leap-in-home-camcorders-and-live-feeds/"><u>[Updated] In 2024, The Technological Leap in Home Camcorders and Live Feeds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-spark-20-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-oppo-a18-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A18 Phone When You Forget the Password</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/free-software-conversion-transforming-pdf-files-into-optimal-epub-format-for-enhanced-reading/"><u>Free Software Conversion: Transforming PDF Files Into Optimal ePUB Format for Enhanced Reading</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harnessing-look-up-tables-luts-to-achieve-stunning-visuals/"><u>Harnessing Look-Up Tables (LUTs) to Achieve Stunning Visuals</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-convert-documents-from-docx-to-epub-format-using-calibre/"><u>How to Convert Documents From DOCX to EPUB Format Using Calibre</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-send-calibre-formatted-books-to-your-kindle-via-wifi/"><u>How to Send Calibre-Formatted Books to Your Kindle via WiFi</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/is-it-possible-to-transfer-epub-books-to-your-kindle-using-the-send-to-kindle-feature/"><u>Is It Possible to Transfer EPUB Books to Your Kindle Using the Send to Kindle Feature?</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/limited-time-test-edition-try-first-purchase-later/"><u>Limited-Time Test Edition: Try First, Purchase Later</u></a></li>
-<li><a href="https://extra-information.techidaily.com/masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-muted-microphone-recordings-with-obs-in-windows-11/"><u>Rectifying Muted Microphone Recordings with OBS in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-problems-with-an-unresponsive-msi-dragon-centre/"><u>Resolve Problems with an Unresponsive MSI Dragon Centre</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-real-time-proportion-alteration-tool/"><u>2024 Approved Real-Time Proportion Alteration Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-visionary-studio-guide-detailed-xreviewers-digest/"><u>2024 Approved The Visionary Studio Guide Detailed XReviewer's Digest</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-analytics-through-advanced-cookiebot-driven-solutions/"><u>Enhance Your Analytics Through Advanced Cookiebot-Driven Solutions</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/explore-advanced-capabilities-with-actions-cutting-edge-feature-set/"><u>Explore Advanced Capabilities with Action's Cutting-Edge Feature Set</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-samsung-galaxy-m14-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Samsung Galaxy M14 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-time-to-switch-to-ios-17-a-comprehensive-guide/"><u>Is It Time to Switch to iOS 17: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/maximize-gaming-and-editing-speed-implementing-intels-quick-sync-video-for-pci-express-graphics-cards/"><u>Maximize Gaming and Editing Speed: Implementing Intel's Quick Sync Video for PCI Express Graphics Cards</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mirillis-comprehensive-overview-of-our-innovative-enterprise/"><u>MirilliS - Comprehensive Overview of Our Innovative Enterprise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-anthropic-claude-3-ecosystem/"><u>Navigating the Anthropic Claude 3 Ecosystem</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-removing-drm-protection-from-ebooks-chapter-17/"><u>Step-by-Step Guide: Removing DRM Protection From eBooks Chapter 17</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-youtube-issues-on-your-android-device/"><u>Troubleshooting YouTube Issues on Your Android Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Software Preview: Mastering Mixes with DEX"
-date: 2025-02-09T21:12:44.914Z
-updated: 2025-02-12T21:07:22.062Z
+date: 2025-02-27T16:38:21.128Z
+updated: 2025-03-03T23:48:46.961Z
 tags:
   - product
 categories:
@@ -23,10 +23,6 @@ You still have 8 trigger pads that allow you to load up sample clips so you can 
 
 ##### VIDEO DEMONSTRATION OF HOW TO LOAD SAMPLES INTO SAMPLER AND PLAY THEM IN PCDJ DEX 3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage.jpg?fit=573%2C339&ssl=1 339 573 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2014-09-03 10:57:202014-09-03 10:57:20DJ Software Demo Video – Using the DEX 3 Sample Player}
@@ -46,16 +42,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3sampleplayercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-answers.techidaily.com/1-risoluzione-dei-problemi-come-trovare-e-affrontare-le-soluzioni-corrette/"><u>1. Risoluzione Dei Problemi: Come Trovare E Affrontare Le Soluzioni Corrette</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-budget-friendly-video-editing-masterclass-on-vimeo/"><u>2024 Approved Budget-Friendly Video Editing Masterclass on Vimeo</u></a></li>
-<li><a href="https://facebook.techidaily.com/capture-your-life-stories-mastering-facebook-on-this-day/"><u>Capture Your Life Stories: Mastering Facebook On This Day</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/easy-steps-setting-up-vmware-on-hardware-a-beginners-tutorial/"><u>Easy Steps: Setting Up VMware on Hardware - A Beginners Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/google-enhances-chromebook-with-cutting-edge-ai-tools-potentially-outshining-microsofts-copilot-exclusive-report-from-zdnet/"><u>Google Enhances Chromebook with Cutting-Edge AI Tools, Potentially Outshining Microsoft's Copilot - Exclusive Report From ZDNET</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-complet-a-la-protection-et-au-depannage-des-laptops-alienware/"><u>Guide Complet À La Protection Et Au Dépannage Des Laptops Alienware</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-oceanic-adventures-top-camera-pickups-of-2023/"><u>In 2024, Oceanic Adventures - Top Camera Pickups of 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-unauthorized-data-access-by-adaptive-ai/"><u>Preventing Unauthorized Data Access by Adaptive AI</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/revive-your-pc-with-these-tips-for-restoring-windows-11-from-an-image-backup/"><u>Revive Your PC with These Tips for Restoring Windows 11 From an Image Backup!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/techniques-pour-recouvrer-des-donnees-de-disque-dur-endommage-et-lecture-impossible-guide-complet/"><u>Techniques Pour Recouvrer Des Données De Disque Dur Endommagé Et Lecture Impossible : Guide Complet</u></a></li>
-<li><a href="https://article-files.techidaily.com/toms-tech-hub-ultimate-hardware-insights/"><u>Tom's Tech Hub: Ultimate Hardware Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-5-screen-capture-utilities-for-windows-users/"><u>[New] Top 5 Screen Capture Utilities for Windows Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-add-edit-and-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] In 2024, How to Add, Edit and Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shake-free-video-post-capture-tips-and-tricks/"><u>2024 Approved Shake-Free Video Post-Capture Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/bitshield-busted-but-wait-a-beat-before-switch/"><u>BitShield Busted, But Wait a Beat Before Switch</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/creating-a-reliable-system-repair-disk-expert-advice-by-yl-software-professionals/"><u>Creating a Reliable System Repair Disk: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/diagnosing-physical-device-issues-in-computers-expert-tips-from-yl-software/"><u>Diagnosing Physical Device Issues in Computers: Expert Tips From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-guide-to-updating-your-printer-drivers-on-windows-pcs-tips-from-yl-computing/"><u>Easy Guide to Updating Your Printer Drivers on Windows PCs - Tips From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-guide-solving-high-ping-issues-in-warzone-as-of-2024/"><u>Essential Guide: Solving High-Ping Issues in Warzone as of 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-tell-if-your-graphics-card-is-overheating-tips-from-yl-computing/"><u>How to Tell If Your Graphics Card Is Overheating: Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-6-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 6 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-the-perfect-graphics-card-for-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Identifying the Perfect Graphics Card for Your Windows PC: A Comprehensive Guide - By YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-to-master-edge-control-and-partial-focus-in-photos-for-2024/"><u>Learn to Master Edge Control and Partial Focus in Photos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-blackwidow-controller-update-guide-expert-advice-and-customer-care-services/"><u>Razer BlackWidow Controller Update Guide: Expert Advice & Customer Care Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-erasing-your-yahoo-mail-account-once-and-for-all/"><u>The Ultimate Walkthrough: Erasing Your Yahoo Mail Account Once and For All</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-deficient-computer-equipment-on-windows-with-yl-computings-tips-and-tricks/"><u>Troubleshooting Deficient Computer Equipment on Windows with YL Computing's Tips and Tricks</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-software-essentials-efficiently-managing-and-removing-user-accounts-within-your-system/"><u>YL Software Essentials: Efficiently Managing and Removing User Accounts Within Your System</u></a></li>
 </ul></div>
 

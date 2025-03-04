@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Playlist of PCDJ Hits - Rewind Through 2019!
-date: 2025-02-06T23:31:05.774Z
-updated: 2025-02-13T00:12:46.771Z
+date: 2025-02-26T22:21:39.284Z
+updated: 2025-03-03T23:38:28.161Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2019 PCDJ Milestones
 
 * DEX 3 was [added to the Microsoft store](https://tools.techidaily.com/pcdj/products/).
@@ -48,10 +44,6 @@ At the conclusion of each year we take a look back at he milestones and accompli
 * Began development with new partners of new features and services that will kick off in early 2020.
 
 With 2019 in the books we’re anxiously looking forward to building on our momentum in 2020\. New features, new services, and a whole lotta NEW is on the way for our software lineup and company profile. Stay tuned in, and enjoy the ride!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,19 +64,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/12/dex3-houseparty-1.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-uninstalled-amd-driver-in-win1110/"><u>[FIXED] Uninstalled AMD Driver in Win11/10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-meme-maniacs-your-comprerans-quick-start-guide-for-9gag/"><u>[New] Meme Maniacs Your Compreran's Quick-Start Guide for 9GAG</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-profitability-initial-steps-to-earnings-for-2024/"><u>[New] YouTube Profitability Initial Steps to Earnings for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/comparativa-entre-copias-de-respaldo-incrementales-y-diferenciales-cual-resulta-mas-efectivo-para-su-negocio/"><u>Comparativa Entre Copias De Respaldo Incrementales Y Diferenciales: Cuál Resulta Más Efectivo Para Su Negocio</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevating-your-podcast-remote-recording-done-right/"><u>Elevating Your Podcast Remote Recording Done Right</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/failed-to-retrieve-content-access-denied-error/"><u>Failed to Retrieve Content – Access Denied Error</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-facile-transfert-dimages-de-pc-dell-a-iphone-pas-besoin-ditunes/"><u>Guide Facile : Transfert D'Images De PC Dell À iPhone - Pas Besoin D’iTunes!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-securely-back-up-your-systems-core-applications-from-windows-using-an-external-storage-device/"><u>How to Securely Back Up Your System's Core Applications From Windows Using an External Storage Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/innovative-fixes-for-star-wars-battlefront-2s-unwanted-black-screen-complication/"><u>Innovative Fixes for Star Wars Battlefront 2'S Unwanted Black Screen Complication</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-launch-alert-get-ready-to-play-god-of-war-in-a-thrilling-fps-format/"><u>PC Launch Alert! Get Ready to Play God of War in a Thrilling FPS Format</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-top-performers-best-netgear-routers-available/"><u>The Top Performers: Best Netgear Routers Available</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-ranking-free-tools-and-step-by-step-tutorials-for-repairing-outlook-pst-files/"><u>Top-Ranking Free Tools & Step-by-Step Tutorials for Repairing Outlook PST Files</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/transfer-images-from-android-device-to-ios-a-5-step-guide-no-pc-required/"><u>Transfer Images From Android Device to iOS: A 5-Step Guide, No PC Required</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-what-is-emoji/"><u>Updated What Is Emoji?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317001-9781781803707-aquarius-moon-sign/"><u>Aquarius Moon Sign | Free Book</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/boost-your-computers-launch-speed-with-easy-tricks-by-yl-computing-expertise/"><u>Boost Your Computer's Launch Speed with Easy Tricks by YL Computing Expertise</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/crafting-a-streamlined-media-route-from-twitter-vids-on-snapchat-for-2024/"><u>Crafting a Streamlined Media Route From Twitter Vids on Snapchat for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/download-pcdjs-latest-karaoke-software-lyrx-v12-available-for-mac-users/"><u>Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/expert-guide-to-uninterrupted-scanning-solutions-by-yl-software-professionals/"><u>Expert Guide to Uninterrupted Scanning: Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/video-to-music-selecting-the-cheapest-online-converters-for-2024/"><u>From Video to Music Selecting the Cheapest Online Converters for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-and-solving-random-reboot-issues-on-your-computer-insights-from-yl-software-experts/"><u>Identifying and Solving Random Reboot Issues on Your Computer: Insights From YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/secrecys-bounty-the-elusive-online-auctions-of-2023-artifacts/"><u>Secrecy's Bounty The Elusive Online Auctions of 2023 Artifacts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skyrocket-on-instagram-unveiling-your-path-with-top-9-secrets/"><u>Skyrocket on Instagram Unveiling Your Path with Top 9 Secrets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/versatile-moko-compact-usb-type-c-portable-bluetooth-keyboard/"><u>Versatile MoKo Compact USB Type-C Portable Bluetooth Keyboard</u></a></li>
 </ul></div>
 

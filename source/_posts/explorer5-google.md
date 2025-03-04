@@ -1,7 +1,7 @@
 ---
 title: Explorerデータの回復・復活に最適な手法トップ5 - Google検索
-date: 2025-01-21T19:56:59.260Z
-updated: 2025-01-24T03:13:34.907Z
+date: 2025-03-01T00:00:53.174Z
+updated: 2025-03-03T20:40:34.599Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8ad5bcae0b9a32715b7cc063.jpg
@@ -50,10 +50,6 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
@@ -70,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -82,10 +74,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -93,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -157,23 +141,11 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -211,10 +183,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,22 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/58030512-updated-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] High-Quality YouTube Images Download Without Any Cost!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-instrumental-integration-elevating-your-facebook-video-experience/"><u>2024 Approved Instrumental Integration Elevating Your Facebook Video Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/accelerate-your-pc-a-list-of-key-add-ons-suggested-for-faster-speed-from-yl-software-experts/"><u>Accelerate Your PC: A List of Key Add-Ons Suggested for Faster Speed From YL Software Experts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/detecting-motherboard-issues-in-your-pc-expert-advice-by-yl-software/"><u>Detecting Motherboard Issues in Your PC: Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/enhancing-audio-clarity-essential-adjustments-for-top-notch-sound-using-yl-computings-expertise/"><u>Enhancing Audio Clarity: Essential Adjustments for Top-Notch Sound Using YL Computing's Expertise</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-googles-wireless-nest-doorbell-setup-performance-and-value-assessment/"><u>Expert Review of Google's Wireless Nest Doorbell: Setup, Performance, & Value Assessment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ahead-with-news-on-android-16-price-specifications-and-when-to-anticipate-its-launch/"><u>Get Ahead with News on Android 16 - Price, Specifications, and When to Anticipate Its Launch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/secrets-to-dominating-your-social-networks-featured-pages-for-2024/"><u>Secrets to Dominating Your Social Network's Featured Pages for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solutions-for-unresponsive-scanners-a-guide-by-yl-computing/"><u>Solutions for Unresponsive Scanners: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-the-mystery-effective-strategies-to-resolve-blue-screen-issues-insights-from-yl-computing/"><u>Solving the Mystery: Effective Strategies to Resolve Blue Screen Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ultimate-playlist-of-pcdj-hits-rewind-through-2019/"><u>The Ultimate Playlist of PCDJ Hits - Rewind Through 2019!</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/top-free-dvd-ripper-and-converter-tools-for-effortless-video-backups/"><u>Top Free DVD Ripper & Converter Tools for Effortless Video Backups</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-installation-issues-how-to-fix-windows-program-setup-problems-tips-from-yl-computing/"><u>Understanding Installation Issues: How to Fix Windows Program Setup Problems - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/unlock-the-secrets-of-blockchain-mining-essential-insights-and-steps-for-newcomers-by-yl-software/"><u>Unlock the Secrets of Blockchain Mining: Essential Insights and Steps for Newcomers by YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-leap-over-a-thousand-followers-on-youtube-quickly/"><u>[Updated] 2024 Approved Leap Over a Thousand Followers on YouTube Quickly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-gamers-tools-premium-gear-lists-on-youtube/"><u>[Updated] 2024 Approved Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/boost-your-computers-launch-speed-with-easy-tricks-by-yl-computing-expertise/"><u>Boost Your Computer's Launch Speed with Easy Tricks by YL Computing Expertise</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>Crafting Real World Stories An Insight Into Documentary Screenplay Writing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/download-pcdjs-latest-karaoke-software-lyrx-v12-available-for-mac-users/"><u>Download PCDJ's Latest Karaoke Software: Lyrx v1.2 Available for Mac Users!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-8-video-transformations-for-virtual-events/"><u>Elite 8 Video Transformations for Virtual Events</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/expert-guide-to-uninterrupted-scanning-solutions-by-yl-software-professionals/"><u>Expert Guide to Uninterrupted Scanning: Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/high-resolution-desert-landscape-wallpapers-and-backgrounds-by-yl-software-photography-hd-imagery-and-artistic-visuals/"><u>High-Resolution Desert Landscape Wallpapers & Backgrounds by YL Software: Photography, HD Imagery, and Artistic Visuals</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209738494-9781785358692-ive-never-met-a-dead-person-i-didnt-like/"><u>I've Never Met A Dead Person I Didn't Like | Free Book</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/identifying-and-solving-random-reboot-issues-on-your-computer-insights-from-yl-software-experts/"><u>Identifying and Solving Random Reboot Issues on Your Computer: Insights From YL Software Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p55t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P55T Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-mobile-zoom-a-step-by-step-guide-to-enlarging-images-on-your-android-device/"><u>Mastering Mobile Zoom: A Step-by-Step Guide to Enlarging Images on Your Android Device</u></a></li>
+<li><a href="https://win-web.techidaily.com/overcoming-compatibility-issues-between-older-pcs-and-new-applications-tips-from-yl-software-experts/"><u>Overcoming Compatibility Issues Between Older PCs and New Applications - Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-computer-freezes-and-crashes-how-faulty-graphics-cards-are-to-blame-advice-from-yl-software-professionals/"><u>Solving Computer Freezes and Crashes: How Faulty Graphics Cards Are to Blame – Advice From YL Software Professionals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-on-how-to-permanently-remove-your-tiktok-presence/"><u>The Complete Walkthrough on How To Permanently Remove Your TikTok Presence</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-a-malfunctioning-scanner-insights-from-yl-computings-expertise/"><u>Troubleshooting a Malfunctioning Scanner: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unraveling-the-mystery-what-makes-your-pc-ignore-its-hard-drive-insights-from-yl-computing/"><u>Unraveling the Mystery: What Makes Your PC Ignore Its Hard Drive? - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/yl-softwares-guide-to-enhancing-pc-performance-and-velocity/"><u>YL Software's Guide to Enhancing PC Performance and Velocity</u></a></li>
 </ul></div>
 
